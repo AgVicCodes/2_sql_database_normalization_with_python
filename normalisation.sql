@@ -25,3 +25,49 @@ DROP table sales_records;
 DROP table sales_records1;
 DROP table sales_records2;
 DROP table sales_records3;
+
+SELECT * FROM sales_records LIMIT 10;
+
+SELECT 
+    COUNT(DISTINCT(sales_id)) 
+FROM sales_records 
+ORDER BY count LIMIT 10;
+
+SELECT 
+    name, 
+    sales_id, 
+    COUNT(DISTINCT(sales_id)) AS duplicates 
+FROM sales_records 
+GROUP BY 
+    name, 
+    sales_id 
+ORDER BY duplicates ASC 
+LIMIT 5;
+
+-- Wrong (Having comes before order by)
+SELECT 
+    name,
+    sales_id, 
+    COUNT(*) AS duplicates 
+FROM sales_records 
+GROUP BY 
+    name,
+    sales_id 
+ORDER BY duplicates ASC 
+HAVING duplicates > 1
+LIMIT 5;
+
+SELECT 
+    sales_id, 
+    COUNT(*) AS duplicates 
+FROM sales_records 
+GROUP BY 
+    sales_id 
+HAVING COUNT(*) > 1
+ORDER BY duplicates DESC 
+LIMIT 5;
+
+SELECT 
+    COUNT(*)
+    - COUNT(sales_id) AS missing
+FROM sales_records;
