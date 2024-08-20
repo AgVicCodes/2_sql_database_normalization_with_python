@@ -1,4 +1,6 @@
 from faker import Faker
+import random
+
 
 fake = Faker()
 
@@ -11,21 +13,3 @@ Faker.seed(20)
 name = fake.name()
 
 print(name)
-
-# pip list
-
-# pip freeze > requirements.txt
-
-#  env/Scripts/activate.bat
-
-# source .venv/bin/activate
-
-# venv/Scripts/activate
-
-# pip install virtualenv
-
-# python (virtualenv -m venv myvenv)
-
-# source activate 
-
-# deactivate
