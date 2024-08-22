@@ -5,8 +5,11 @@ import random
 import psycopg2
 import sys
 
+seed = random.randint(5100, 5500)
 
 fake = Faker()
+
+fake.seed_instance(seed)
 
 arr = []
 
@@ -44,5 +47,7 @@ for _ in range(100):
 df = pd.DataFrame(arr, columns = column_names)
 
 pd.set_option("display.max_rows", None)
+
+print(seed)
 
 print(df.head(20))
