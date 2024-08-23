@@ -1,13 +1,17 @@
-from sqlalchemy import URL, create_engine
+from sqlalchemy import text, create_engine
 import psycopg2
 import sys
 from data_generator import df
 
 
-conn = create_engine("postgresql+psycopg2://postgres:abo200313@localhost:5432/transactions")
+engine = create_engine("postgresql+psycopg2://postgres:abo200313@localhost:5432/transactions")
 
-df.to_sql(con = conn, engine = "sqlalchemy", index = False)
+df.to_sql(name = "sales_records", con = engine, index = False, if_exists = "append")
 
+# print(df.head(3))
+
+# with engine.connect() as conn:
+#    conn.execute(text("SELECT * FROM sales_records")).fetchall()
 
 
 

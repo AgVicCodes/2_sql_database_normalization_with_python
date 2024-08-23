@@ -8,12 +8,14 @@ import sys
 
 fake = Faker()
 
+fake.seed_instance(5432)
+
 arr = []
 
-column_names = ["user_id", "user_name", "user_email", "user_age", "address", "country", "user_phone", "product_name", "quantity", "status", "order_date", "delivery_date"]
+column_names = ["sales_id", "name", "email", "age", "address", "country", "phone", "product", "quantity", "status", "order_date", "delivery_date"]
 
 
-for _ in range(100):
+for _ in range(96):
 
     user_id = random.randint(110000, 145000)
     user_name = fake.name()
@@ -45,4 +47,4 @@ df = pd.DataFrame(arr, columns = column_names)
 
 pd.set_option("display.max_rows", None)
 
-print(df.head(20))
+# print(df.head(0))

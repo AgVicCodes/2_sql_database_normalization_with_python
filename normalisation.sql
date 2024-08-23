@@ -1,7 +1,7 @@
 CREATE DATABASE transactions;
 
 CREATE TABLE sales_records (
-    id SERIAL PRIMARY KEY,
+    index SERIAL PRIMARY KEY,
     sales_id INTEGER NOT NULL,
     name VARCHAR (255) NOT NULL,
     email VARCHAR (255) NOT NULL,
@@ -17,7 +17,8 @@ CREATE TABLE sales_records (
 );
 
 INSERT INTO 
-    sales_records (sales_id, name, email, age, address, country, phone, product, quantity, status, order_date, delivery_date) 
+    sales_records (sales_id, name, email, age, add
+    ress, country, phone, product, quantity, status, order_date, delivery_date) 
     VALUES (122354, 'Leslie Hall', 'lesliehall@hotmail.com', 71, '701 Lisa Keys Apt. 336\nPaulburgh, IA 95420', 'Burundi', '+878799587692', 'Samsung S24', 1, 'Cancelled', '2023-08-21', '2023-08-24');
 
 DROP table sales_records;
