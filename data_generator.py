@@ -42,12 +42,10 @@ for _ in range(96):
     delivery_date = order_date + td(random.choice([1, 2, 3, 4]))
 
     arr.append([user_id, user_name, user_email, user_age, address, country, user_phone, product_name, quantity, status, str(order_date), str(delivery_date)])
-    ...
+    
 
 df = pd.DataFrame(arr, columns = column_names)
 
 pd.set_option("display.max_rows", None)
 
-print(seed)
-
-# print(df.head(0))
+print("\n", seed)
