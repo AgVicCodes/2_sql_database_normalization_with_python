@@ -26,7 +26,7 @@ jobs:
             run: python data_generator.py
 
         -   name: load data into csv
-            run: python db_connect.py
+            run: python load_data.py
         
         -   name: commit files
             run: |
