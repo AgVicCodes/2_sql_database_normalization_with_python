@@ -16,7 +16,7 @@ arr = []
 column_names = ["sales_id", "name", "email", "age", "address", "country", "phone", "product", "quantity", "status", "order_date", "delivery_date"]
 
 
-for _ in range(96):
+for _ in range(1000):
 
     user_id = random.randint(110000, 145000)
     user_name = fake.name()

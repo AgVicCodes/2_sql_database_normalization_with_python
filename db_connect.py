@@ -6,6 +6,9 @@ from data_generator import df
 
 engine = create_engine("postgresql+psycopg2://postgres:abo200313@localhost:5432/transactions")
 
+
+# df.to_csv(path = "")
+
 df.to_sql(name = "sales_records", con = engine, index = False, if_exists = "append")
 
 # print(df.head(3))
