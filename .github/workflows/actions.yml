@@ -2,7 +2,7 @@ name: Run data_generator.py
 
 on: 
     schedule:
-        -   cron: "*/20 * * * *"
+        -   cron: "0 */12 * * *"
 
 jobs:
     Generate-Sales-Transactions:
@@ -26,7 +26,7 @@ jobs:
             run: python data_generator.py
 
         -   name: load data into csv
-            run: python db_connect.py
+            run: python load_data.py
         
         -   name: commit files
             run: |
