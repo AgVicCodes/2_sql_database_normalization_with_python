@@ -46,6 +46,6 @@ for _ in range(1000):
 
 df = pd.DataFrame(arr, columns = column_names)
 
-pd.set_option("display.max_rows", None)
+# pd.set_option("display.max_rows", None)
 
-print("\n", seed)
+# print("\n", seed)

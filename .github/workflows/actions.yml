@@ -23,10 +23,10 @@ jobs:
                 pip install -r requirements.txt
 
         -   name: generate transactions information
-            run: data_generator.py
+            run: python data_generator.py
 
         -   name: load data into csv
-            run: db_connect.py
+            run: python db_connect.py
         
         -   name: commit files
             run: |
