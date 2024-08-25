@@ -2,7 +2,7 @@ name: Run data_generator.py
 
 on: 
     schedule:
-        -   cron: "0 */12 * * *"
+        -   cron: "15 * * * *"
 
 jobs:
     Generate-Sales-Transactions:
