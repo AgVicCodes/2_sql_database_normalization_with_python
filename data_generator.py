@@ -2,8 +2,6 @@ from datetime import datetime as dd, timedelta as td
 from faker import Faker
 import pandas as pd
 import random
-import psycopg2
-import sys
 
 seed = random.randint(5100, 5500)
 
@@ -18,7 +16,7 @@ column_names = ["sales_id", "name", "email", "age", "address", "country", "phone
 
 for _ in range(1000):
 
-    user_id = random.randint(110000, 145000)
+    sales_id = random.randint(110000, 145000)
     user_name = fake.name()
     user_email = f"{user_name.lower().replace(" ", "")}@{random.choice(["gmail", "yahoo", "outlook", "hotmail"])}.com"
     user_age = random.randint(20, 80)
@@ -41,7 +39,7 @@ for _ in range(1000):
     order_date = fake.date_between(dd(2022, 1, 1), dd.now())
     delivery_date = order_date + td(random.choice([1, 2, 3, 4]))
 
-    arr.append([user_id, user_name, user_email, user_age, address, country, user_phone, product_name, quantity, status, str(order_date), str(delivery_date)])
+    arr.append([sales_id, user_name, user_email, user_age, address, country, user_phone, product_name, quantity, status, str(order_date), str(delivery_date)])
     
 
 df = pd.DataFrame(arr, columns = column_names)
