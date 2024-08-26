@@ -1,0 +1,2001 @@
+sales_id,name,email,age,address,country,phone,product,quantity,status,order_date,delivery_date
+134679,Jordan Mendoza,jordanmendoza@yahoo.com,41,"Unit 7734 Box 0312
+DPO AP 72382",Lesotho,+44 7624775476488,Iphone 13,2,Delivered,2023-04-26,2023-04-28
+130282,Thomas Lopez,thomaslopez@outlook.com,42,"19213 Sara Ports Suite 674
+Lake Thomasborough, MH 82306",Czech Republic,+967719349573,Iphone 15 pro,3,Pending,2023-09-10,2023-09-11
+118453,Gregg Roberson,greggroberson@hotmail.com,23,"3169 Holmes Drive Suite 882
+South Erichaven, MT 73708",Micronesia,+881 9795535212,Iphone 12,2,Pending,2023-04-24,2023-04-25
+124881,Allison Zamora,allisonzamora@hotmail.com,28,"1444 Scott Plaza Suite 281
+Maryland, ID 17889",Moldova,+240751832860,Iphone 15 plus,2,Delivered,2022-02-04,2022-02-07
+118922,Jonathan Garza,jonathangarza@outlook.com,48,"010 Tran Skyway
+New Meganville, PR 80720",Trinidad and Tobago,+599 3734227869,Iphone 12 pro,1,Delivered,2022-09-25,2022-09-27
+122605,Stephanie Gonzalez,stephaniegonzalez@outlook.com,30,"0099 Campbell Mall
+Hornview, WA 85154",Hong Kong,+881 3714626421,PS5,1,Cancelled,2024-02-25,2024-02-27
+124271,Ruben Huerta,rubenhuerta@hotmail.com,61,"7696 Dominguez Stream
+Jessicatown, MH 39845",Guatemala,+374 97715632305,Iphone 13,2,Delivered,2022-11-09,2022-11-13
+128739,Kayla Gonzalez,kaylagonzalez@outlook.com,61,"96431 Wilson Point
+Yoderfort, MO 08788",Netherlands Antilles,+20735549474,PS4,3,Cancelled,2022-04-18,2022-04-19
+129441,Karen White,karenwhite@gmail.com,27,"37149 Mary Gardens
+Chelseaside, RI 59236",Maldives,+212721587036,Iphone 13,3,Pending,2022-11-05,2022-11-07
+110666,Benjamin Fitzgerald,benjaminfitzgerald@hotmail.com,49,"PSC 8076, Box 2699
+APO AE 20586",Guinea-Bissau,+34778056265,Iphone 13,1,Cancelled,2023-10-08,2023-10-09
+114607,Patrick Gonzalez,patrickgonzalez@hotmail.com,53,"275 Kevin Hills
+Port Dianehaven, UT 10285",Venezuela,+39723729345,Samsung S21+,3,Pending,2022-09-20,2022-09-22
+140875,Maurice Barnes,mauricebarnes@gmail.com,45,"9205 Ashley Squares Suite 848
+South Connieville, UT 42465",British Indian Ocean Territory (Chagos Archipelago),+249757443958,Iphone 15 plus,1,Cancelled,2024-01-19,2024-01-20
+122912,Amy Reynolds,amyreynolds@hotmail.com,37,"1520 Davis Route
+Freemanbury, AS 21886",Estonia,+995729875011,Iphone 14,1,Delivered,2024-08-15,2024-08-19
+112547,Zachary Estrada,zacharyestrada@outlook.com,49,"3031 Cynthia Heights
+Knappchester, FL 38051",Brazil,+599 9775788684,Iphone 12 pro max,2,Pending,2023-08-12,2023-08-16
+118874,Johnny Clements,johnnyclements@outlook.com,50,"39523 Hall Flats
+West Amandaton, NC 38567",Malaysia,+960738963385,Iphone 13 pro,1,Cancelled,2024-02-25,2024-02-29
+129587,Susan Saunders,susansaunders@hotmail.com,61,"987 Reed Canyon
+Darrenborough, IA 05723",Bahrain,+375753115107,Samsung S22 Ultra,3,Cancelled,2024-01-23,2024-01-27
+136658,Larry Garcia,larrygarcia@yahoo.com,65,"67329 Eric Flat
+South Janetbury, NE 23811",Japan,+230706933864,Iphone 14 pro,1,Pending,2022-02-02,2022-02-05
+141969,Paula Rios,paularios@outlook.com,60,"USNS Johnson
+FPO AA 28789",Taiwan,+32718273331,Iphone 14 pro,2,Cancelled,2022-12-25,2022-12-29
+137333,Shawn Lloyd,shawnlloyd@hotmail.com,29,"41742 Tyler Ridges
+Rachelberg, CA 58590",Bhutan,+599 7741640761,PS5,3,Delivered,2023-12-21,2023-12-24
+115739,Theodore Allen,theodoreallen@gmail.com,76,"6699 Crystal Way
+West Jessica, KS 53656",Madagascar,+1 721786265990,Iphone 14,2,Delivered,2022-02-22,2022-02-26
+117486,Mr. Todd Acosta,mr.toddacosta@hotmail.com,42,"11269 Ballard Parkways
+Lake Joshua, CO 19881",Bermuda,+45795361905,Iphone 12 pro max,1,Pending,2023-07-02,2023-07-05
+122351,Joseph Huffman,josephhuffman@hotmail.com,26,"97270 Glass Points Apt. 012
+Joyceburgh, OH 09845",Somalia,+376792940335,Samsung S21,1,Cancelled,2024-03-02,2024-03-06
+142514,Brett Christensen,brettchristensen@yahoo.com,76,"1422 Michael Way Apt. 025
+Trevorton, FM 29171",Zambia,+211776821128,Samsung S22,2,Pending,2022-09-06,2022-09-08
+143520,Samuel Stewart,samuelstewart@hotmail.com,68,"823 Michele Summit
+South Davidport, OK 13681",British Virgin Islands,+33712649331,PS5,2,Delivered,2023-03-19,2023-03-20
+113387,Mario Johnson,mariojohnson@outlook.com,51,"090 King Island Suite 054
+Kevinchester, FL 35747",Bhutan,+691751646794,Iphone 15 pro,2,Pending,2022-08-15,2022-08-16
+112980,Julie Wolfe,juliewolfe@gmail.com,58,"8300 Lopez Estate Apt. 453
+North Heather, OK 63381",Monaco,+53728311673,Iphone 13 pro,1,Delivered,2023-01-11,2023-01-12
+132697,Mary Peters,marypeters@yahoo.com,20,"374 Mary Ranch
+Mercedesstad, WY 69594",Sweden,+236768298038,Iphone 12 mini,1,Pending,2024-06-21,2024-06-22
+129662,Katie Romero,katieromero@yahoo.com,75,"66813 Yoder Wells Apt. 874
+Lake Stephen, NC 97568",Vanuatu,+57718630704,Iphone 13,3,Pending,2023-06-30,2023-07-01
+130500,Phyllis Martinez,phyllismartinez@hotmail.com,71,"6893 Stephanie Trace Apt. 104
+Angelaville, MP 89265",Slovakia (Slovak Republic),+508700134768,Iphone 15 pro,3,Pending,2022-01-04,2022-01-05
+136460,Jason Patterson,jasonpatterson@outlook.com,70,"847 May Orchard Suite 966
+West Michael, TN 94117",New Zealand,+225726337947,Samsung S21+,1,Delivered,2023-11-08,2023-11-09
+116437,Joseph Adams,josephadams@hotmail.com,51,"89947 Thompson Cliffs Suite 430
+Hammondburgh, MS 83116",Afghanistan,+44 1534724062289,Samsung S22 Ultra,1,Cancelled,2022-07-16,2022-07-18
+118046,Nathan Murphy MD,nathanmurphymd@hotmail.com,22,"451 Raymond Cove Apt. 993
+Port Christophershire, UT 27346",Albania,+599 7729656441,Iphone 13 pro,3,Pending,2023-02-22,2023-02-25
+139801,Robert Blake,robertblake@hotmail.com,56,"383 Laura Forges Apt. 635
+Samanthafurt, PR 03393",Hong Kong,+593792025695,Samsung S22 Ultra,3,Pending,2022-05-23,2022-05-25
+120423,Aaron Pope,aaronpope@gmail.com,68,"251 Sarah Lane Apt. 845
+Butlerton, FM 31931",Niger,+32704977072,PS4,2,Cancelled,2023-06-21,2023-06-22
+129547,Kevin Doyle,kevindoyle@hotmail.com,29,"526 Brown Canyon Apt. 752
+Cochranside, MS 09836",Ghana,+229757890645,Samsung S21,2,Pending,2023-03-05,2023-03-07
+120207,Karen Rocha,karenrocha@hotmail.com,75,"9922 Reyes Courts
+Martinville, GU 15635",Australia,+227723659052,Iphone 15 pro,3,Pending,2024-07-31,2024-08-03
+134520,Brandon Gonzalez,brandongonzalez@hotmail.com,41,"6088 Graves Mount Suite 357
+Lake Lori, AL 37223",Poland,+47 79729009331,Iphone 13 pro,2,Delivered,2024-05-31,2024-06-01
+131625,Carol Smith,carolsmith@yahoo.com,49,"7618 Mitchell Trail
+North Anthonymouth, AL 85091",Sierra Leone,+230781312597,Iphone 13 pro,1,Delivered,2023-11-12,2023-11-16
+131127,Cody Martin,codymartin@yahoo.com,27,"990 Young Hills
+North Terri, OK 38763",Saudi Arabia,+44 1624775291707,Iphone 12 mini,2,Pending,2024-07-15,2024-07-19
+131617,Cynthia Atkinson,cynthiaatkinson@gmail.com,23,"0220 Gregory Tunnel Apt. 443
+Bryanville, NH 27616",Italy,+355726514704,Iphone 15 plus,3,Delivered,2023-01-26,2023-01-29
+117299,Lauren Williams,laurenwilliams@outlook.com,60,"671 Moreno Valleys
+Kevintown, NY 85750",Finland,+965725979040,Iphone 14,3,Cancelled,2022-08-27,2022-08-31
+111428,Allison Leon,allisonleon@outlook.com,29,"3893 Ronald Circles
+Hensonbury, IL 87530",Senegal,+378787484289,Iphone 14,3,Pending,2023-07-10,2023-07-13
+135962,Denise Becker,denisebecker@gmail.com,36,"6720 Brittany Ports Apt. 632
+Port Kristenview, NJ 07164",Tuvalu,+1731370588,Iphone 12 pro,3,Cancelled,2024-02-01,2024-02-03
+126904,Ashley Brown,ashleybrown@hotmail.com,22,"508 Jackson View Apt. 155
+South Suechester, MS 30666",Rwanda,+504728354847,Samsung S24 Ultra,3,Delivered,2024-06-16,2024-06-20
+125307,Marissa Ward,marissaward@hotmail.com,22,"68323 Carlos Mill Apt. 216
+Tracyberg, MN 15325",Hong Kong,+387701387331,Iphone 13 pro,2,Delivered,2023-08-20,2023-08-21
+142292,Nicole Robinson,nicolerobinson@yahoo.com,31,"940 Evans Wall
+Port Tammie, SC 46576",San Marino,+996765105406,Samsung S24,2,Pending,2024-04-04,2024-04-05
+143981,Rebecca Thomas,rebeccathomas@yahoo.com,57,"399 Krueger Plains Suite 825
+Lake Brenda, DC 72290",Seychelles,+500772566071,Iphone 15,1,Pending,2024-01-07,2024-01-11
+135631,Shelia Phillips,sheliaphillips@hotmail.com,54,"524 William Ridge
+South Michele, KS 76091",Montserrat,+248720357268,Iphone 14,3,Delivered,2024-03-15,2024-03-18
+112193,Cynthia Banks,cynthiabanks@hotmail.com,61,"9902 Martinez Street Apt. 148
+Port Richard, FL 90276",Martinique,+225766318353,Samsung S24,2,Cancelled,2024-07-27,2024-07-28
+137287,Blake James,blakejames@outlook.com,65,"3143 Sean Estate Apt. 977
+South Scottmouth, RI 77737",Georgia,+262782737744,Samsung S23+,3,Delivered,2024-02-24,2024-02-26
+123400,Amanda Herrera,amandaherrera@yahoo.com,48,"985 James Mountains
+Kristibury, OR 28892",Bosnia and Herzegovina,+882752140230,Samsung S22,2,Delivered,2022-08-26,2022-08-29
+133202,Jesse Ortiz,jesseortiz@yahoo.com,53,"29292 Daniel Freeway
+Rachelside, WI 07821",Iraq,+64797578153,Iphone 15 pro,2,Pending,2023-03-29,2023-04-01
+116332,Jeffrey Rollins,jeffreyrollins@yahoo.com,46,"8885 Michael Squares Suite 512
+Heathfort, MA 01407",Mali,+599 4748354343,Iphone 13 pro,3,Delivered,2024-08-16,2024-08-19
+127652,Tamara Summers,tamarasummers@hotmail.com,31,"43685 George Islands
+New Miguelstad, UT 20109",Kazakhstan,+888717008716,Samsung S24 Ultra,1,Delivered,2023-02-05,2023-02-06
+123730,John Rivera,johnrivera@gmail.com,21,"833 Natalie Road Suite 647
+South Paul, MD 10304",Nicaragua,+40742770714,Iphone 13,1,Cancelled,2022-01-12,2022-01-13
+115016,Trevor Bowman,trevorbowman@outlook.com,75,"95796 King Harbors Apt. 781
+Lake Lawrence, FL 30600",New Caledonia,+44 7624708490577,Samsung S23 Ultra,3,Pending,2023-03-09,2023-03-11
+123736,Judith Boyd,judithboyd@yahoo.com,41,"401 Christian Streets
+Castanedaburgh, AL 17432",Lesotho,+350738668923,PS5,3,Cancelled,2022-03-05,2022-03-08
+113701,Deborah Dunn,deborahdunn@outlook.com,75,"21309 Adam Springs
+Amandachester, WY 83578",South Georgia and the South Sandwich Islands,+1 829782993815,Samsung S24+,1,Pending,2023-05-22,2023-05-24
+115025,Thomas Black,thomasblack@yahoo.com,75,"Unit 4567 Box 2624
+DPO AA 58807",Tuvalu,+506762791378,Iphone 12,3,Cancelled,2023-04-23,2023-04-24
+137027,Abigail Donovan,abigaildonovan@hotmail.com,51,"483 Stephen Stravenue
+North Christineshire, SD 87274",Czech Republic,+211768076833,Iphone 12 mini,3,Pending,2024-01-07,2024-01-09
+118573,Veronica Lane,veronicalane@yahoo.com,33,"23811 Melissa Extensions
+East Brittany, WI 39241",Guernsey,+1 876770259512,Iphone 12 pro max,2,Pending,2024-07-18,2024-07-20
+136928,Thomas Hopkins,thomashopkins@yahoo.com,57,"343 Brown Trail Apt. 801
+Riveraland, PA 56896",Albania,+92798072635,Iphone 12 mini,2,Delivered,2023-09-15,2023-09-19
+123453,Kimberly Sanchez,kimberlysanchez@hotmail.com,74,"959 Jennifer Turnpike Suite 059
+Morrismouth, PA 75999",Iran,+596781927066,Iphone 14 pro,3,Pending,2024-04-26,2024-04-27
+121277,Laurie Daniels,lauriedaniels@outlook.com,26,"77436 Klein Ford Apt. 122
+Fuentesfurt, MD 12712",Ghana,+262725638169,Iphone 12 pro max,2,Delivered,2023-07-21,2023-07-25
+120546,Dwayne Lawrence,dwaynelawrence@gmail.com,69,"USNS Johnson
+FPO AE 46600",El Salvador,+31734184740,Iphone 12 pro max,2,Cancelled,2022-11-10,2022-11-12
+119908,Beth Garcia,bethgarcia@yahoo.com,44,"PSC 8367, Box 4897
+APO AE 31036",Togo,+61 89162703252538,PS4,2,Cancelled,2023-06-25,2023-06-29
+137862,Kevin Greer,kevingreer@gmail.com,24,"103 Kyle Mall
+Lake Tamaraton, HI 26367",Namibia,+54704737500,PS5,1,Cancelled,2023-06-24,2023-06-25
+134286,Randall Mercado,randallmercado@hotmail.com,42,"318 Caldwell Port
+Navarromouth, FL 37606",Mauritius,+383714125589,Iphone 13,3,Delivered,2023-05-15,2023-05-19
+110031,David Miller,davidmiller@outlook.com,34,"397 Stark Ranch
+Robertsonborough, ND 51708",Togo,+676780882966,PS5,3,Delivered,2022-11-22,2022-11-25
+120003,Michele Kane,michelekane@outlook.com,30,"8589 Kidd Groves
+West Kelseymouth, OR 12659",South Africa,+1 721737930809,Iphone 15 plus,3,Pending,2024-05-30,2024-05-31
+114730,Kendra Estrada,kendraestrada@hotmail.com,67,"128 Evans Brooks Apt. 624
+Olsonmouth, OH 38971",Tonga,+1 284753811550,Samsung S24,2,Cancelled,2022-05-15,2022-05-18
+139833,Melinda Jones,melindajones@gmail.com,61,"8241 Nolan Greens Suite 104
+Port Lisafort, SD 56802",Azerbaijan,+216795794757,Iphone 14,1,Cancelled,2022-01-19,2022-01-22
+117985,Stephanie Freeman,stephaniefreeman@yahoo.com,45,"1976 Christie Well Apt. 959
+North Katrinaton, AS 68848",Antigua and Barbuda,+54728932316,PS5,2,Delivered,2024-02-29,2024-03-01
+127508,Jillian Mcdaniel,jillianmcdaniel@yahoo.com,46,"4073 Monica Centers Suite 818
+East Jesusstad, NE 52860",Liberia,+421712311196,Samsung S22,3,Cancelled,2024-02-18,2024-02-22
+140216,Emma Miller,emmamiller@yahoo.com,34,"396 Valdez Divide Apt. 122
+North Rachelmouth, TN 56753",Eritrea,+681793463117,Iphone 12 pro max,1,Delivered,2023-01-12,2023-01-13
+125919,Raymond Leach,raymondleach@yahoo.com,47,"21152 Smith Road
+Pierceside, AS 25905",Saint Martin,+1 784779685894,Iphone 15,3,Cancelled,2024-03-25,2024-03-28
+131033,Richard Smith,richardsmith@yahoo.com,59,"1365 Teresa Union Apt. 019
+South Leslie, WI 61435",Pitcairn Islands,+599 3770291705,Samsung S21+,2,Pending,2023-09-24,2023-09-28
+118726,Kimberly Moore,kimberlymoore@gmail.com,43,"7004 Carly Plains
+Dominguezberg, KY 60072",Antarctica (the territory South of 60 deg S),+1 649740912367,Samsung S22,1,Pending,2024-01-10,2024-01-14
+111381,Adam Cruz,adamcruz@yahoo.com,43,"3415 Snyder Shoal Suite 244
+Ramirezberg, MD 80548",Morocco,+1729047863,Lenovo PC,3,Cancelled,2022-01-29,2022-02-02
+132513,Julie Jones,juliejones@gmail.com,57,"3418 Walsh Glen Apt. 851
+Port Sheri, WY 84504",Cuba,+386787835250,Lenovo PC,1,Cancelled,2023-12-01,2023-12-05
+118281,Austin Johnson,austinjohnson@hotmail.com,38,"9151 Simmons Meadows
+East Michaeltown, IN 78002",Bahamas,+30710574047,Samsung S24+,2,Delivered,2023-05-28,2023-05-29
+144377,Matthew Warner,matthewwarner@outlook.com,30,"43238 Ronald Locks Apt. 978
+North Paul, MS 84664",Namibia,+371724931566,Iphone 12 pro,1,Pending,2022-07-29,2022-08-02
+122507,Connie Medina,conniemedina@yahoo.com,20,"4121 Stephanie Cape Suite 639
+Katherineview, MA 30625",Cook Islands,+262 639784588420,Samsung S24,1,Pending,2023-08-21,2023-08-22
+124881,Maria Brown,mariabrown@yahoo.com,57,"68454 Lewis Shore
+Wilsonshire, MS 44152",Saint Barthelemy,+250769128392,Iphone 14 pro max,1,Cancelled,2023-09-19,2023-09-22
+115290,Michael Barnes,michaelbarnes@gmail.com,51,"45323 Brewer Loop Apt. 350
+New Margaret, FM 15217",Malaysia,+241796679444,Lenovo PC,3,Pending,2023-12-11,2023-12-15
+144211,Anthony Russell,anthonyrussell@hotmail.com,29,"58281 Gilbert Bridge Apt. 166
+New Kellyhaven, IA 37932",Bouvet Island (Bouvetoya),+51781764519,Iphone 12 pro max,3,Delivered,2022-07-25,2022-07-27
+132673,Jessica Wells,jessicawells@hotmail.com,58,"755 Walls Vista Apt. 756
+West Alexander, AL 96900",Belize,+216772597242,Iphone 12 pro max,3,Pending,2024-02-16,2024-02-17
+113642,Gary Terry,garyterry@yahoo.com,33,"PSC 6916, Box 0610
+APO AA 99429",Sweden,+683784744207,Iphone 13 pro,2,Delivered,2024-08-02,2024-08-03
+116620,April Miranda,aprilmiranda@yahoo.com,41,"7838 Susan Common
+East Johnview, IN 42516",Netherlands,+690719779175,Iphone 15 plus,2,Pending,2024-03-06,2024-03-07
+142724,Allison Carrillo,allisoncarrillo@hotmail.com,61,"6777 Clifford Cliff
+Johnview, UT 15055",Bahrain,+883761311452,Iphone 13,3,Pending,2023-04-17,2023-04-20
+135386,Sabrina Chavez,sabrinachavez@yahoo.com,58,"USNV Rogers
+FPO AE 26965",Sri Lanka,+229765877395,Samsung S21+,2,Pending,2023-07-06,2023-07-08
+142611,Michael West Jr.,michaelwestjr.@outlook.com,55,"0179 Tina Port Apt. 125
+Lake Rachelmouth, IN 44270",Philippines,+34721518853,Iphone 13 pro,2,Pending,2024-05-26,2024-05-28
+120230,James Turner,jamesturner@outlook.com,34,"783 Barry Forks
+Jeffreyshire, GA 70050",Croatia,+45708440308,Samsung S21+,3,Pending,2023-01-25,2023-01-26
+126585,Melanie Long,melanielong@hotmail.com,38,"603 David Lock
+East Vanessaberg, MH 59294",Congo,+385789805308,PS4,2,Pending,2022-06-30,2022-07-04
+110821,Clayton Huff,claytonhuff@gmail.com,75,"2751 Candice Pike
+Johnathanland, IN 18755",Nicaragua,+244748400628,Iphone 13,3,Pending,2023-06-04,2023-06-07
+127019,William Gamble,williamgamble@outlook.com,25,"USNS Snyder
+FPO AE 94300",Turkmenistan,+888751802331,Iphone 13,3,Pending,2024-05-13,2024-05-14
+144417,Corey Williamson MD,coreywilliamsonmd@gmail.com,70,"83618 Lucas Mountain Apt. 663
+New Ronald, IA 24555",Nigeria,+244797369267,Iphone 12 pro max,2,Delivered,2023-03-08,2023-03-11
+138055,Jordan Mccullough,jordanmccullough@hotmail.com,34,"5108 Robert Station Apt. 155
+South Sherrychester, OH 23515",Greece,+591709598301,Iphone 15 pro max,2,Delivered,2023-05-11,2023-05-13
+115844,Miss Kathleen Anderson DVM,misskathleenandersondvm@hotmail.com,61,"61347 Autumn Streets
+Williamsland, IL 06794",Faroe Islands,+299792613811,Samsung S24+,2,Pending,2024-07-14,2024-07-17
+134868,Bryan Macdonald,bryanmacdonald@outlook.com,55,"3807 Brittney Walk Suite 675
+East Amandafurt, CO 74913",Faroe Islands,+350760717819,PS4,2,Pending,2022-03-01,2022-03-03
+134934,Misty Harvey,mistyharvey@gmail.com,69,"266 Richard Radial
+Christopherstad, SD 57151",Italy,+1 784715069831,Iphone 13,3,Delivered,2024-08-05,2024-08-06
+139503,Matthew Peters,matthewpeters@yahoo.com,52,"101 Vega Lake Suite 559
+Hoodport, VA 45877",Slovakia (Slovak Republic),+881 0794246106,Samsung S22,2,Cancelled,2023-06-13,2023-06-15
+131434,James Hester,jameshester@yahoo.com,71,"639 Ashley Manor Suite 849
+South Jill, TX 65453",Tuvalu,+44 7839747388767,Iphone 13 pro,1,Delivered,2022-06-25,2022-06-27
+139735,Jonathan Nelson,jonathannelson@hotmail.com,54,"0788 Cox Bridge Apt. 972
+Christinetown, WI 96735",Bulgaria,+881 9752952150,Iphone 12,2,Pending,2022-09-08,2022-09-10
+120766,Angela Bryant,angelabryant@yahoo.com,22,"4610 Eric Tunnel
+North Derrick, MN 78697",Venezuela,+91794780498,Iphone 14 pro,1,Cancelled,2023-05-10,2023-05-14
+124052,David Mann,davidmann@gmail.com,56,"698 Cooper Parkways
+Diazside, IA 09765",Turkmenistan,+599 4798260118,Iphone 12,3,Cancelled,2024-05-29,2024-05-30
+135478,James Irwin,jamesirwin@gmail.com,45,"7860 Anthony Vista
+Port Michellestad, DE 29709",Seychelles,+382738583288,Samsung S24 Ultra,1,Cancelled,2022-11-30,2022-12-01
+142051,Stephanie Brown,stephaniebrown@yahoo.com,59,"280 Anthony Oval
+North Paulchester, PW 11778",Sudan,+502765087219,Samsung S21+,3,Delivered,2023-01-10,2023-01-13
+116930,Danielle Sparks,daniellesparks@outlook.com,69,"Unit 0848 Box 3525
+DPO AA 72154",Gibraltar,+233794881203,Iphone 12 pro,2,Pending,2023-02-20,2023-02-23
+118709,Jessica Daniel,jessicadaniel@yahoo.com,20,"520 Kent Skyway
+Williamsfort, PW 29222",Israel,+92795729795,Lenovo PC,3,Delivered,2024-01-24,2024-01-26
+136732,John Hicks,johnhicks@outlook.com,29,"607 Mcintosh Harbors
+Thompsonfort, OK 61743",Saint Pierre and Miquelon,+800732326639,Iphone 12 pro max,1,Cancelled,2022-05-09,2022-05-11
+135564,William Aguirre,williamaguirre@yahoo.com,27,"98599 Gina Junctions
+Jonesburgh, ND 87809",Mali,+245780733171,Iphone 14 pro,3,Cancelled,2023-12-26,2023-12-28
+127842,Mary Carey,marycarey@yahoo.com,48,"888 Powell Walks
+Seanview, NE 45936",Monaco,+373 5799201118,Iphone 15 pro,1,Cancelled,2022-05-05,2022-05-09
+133852,Cheryl Wells,cherylwells@yahoo.com,68,"953 Barr Inlet Suite 452
+Nicholaston, CA 85910",Albania,+86773233560,Iphone 15 pro max,3,Cancelled,2022-12-21,2022-12-22
+130717,Stephanie Rogers,stephanierogers@outlook.com,43,"9419 Ortiz Lights
+West Emma, MI 31340",Central African Republic,+44 7911745692807,Samsung S23+,1,Delivered,2022-08-09,2022-08-12
+141988,Amanda Tran,amandatran@outlook.com,73,"5531 Daniel Mission
+Kellerton, HI 83685",Chile,+1 876726452336,Iphone 13,2,Pending,2024-04-23,2024-04-25
+117253,Sean Alvarado,seanalvarado@outlook.com,27,"2169 Benson Highway Apt. 661
+New Alejandratown, IA 27168",Congo,+972729896712,Iphone 14 pro,1,Cancelled,2024-06-22,2024-06-26
+134541,Jon Campbell,joncampbell@hotmail.com,72,"83172 Rebecca Avenue Suite 532
+West Daniel, PR 83162",Tonga,+263785262055,Samsung S24 Ultra,2,Cancelled,2023-09-16,2023-09-19
+135868,Troy Robinson,troyrobinson@yahoo.com,57,"4440 Diana Hills
+North Angela, MO 00733",Cameroon,+268767978552,Iphone 13,3,Cancelled,2023-05-21,2023-05-25
+141120,Amanda Smith,amandasmith@yahoo.com,32,"809 Henry Turnpike
+New Mark, WY 36570",Ethiopia,+225704197757,Samsung S24,2,Cancelled,2022-07-24,2022-07-26
+121422,Melanie Jones,melaniejones@gmail.com,76,"56385 Smith Ways
+Jonathantown, GA 40148",Gibraltar,+229709314923,Lenovo PC,3,Cancelled,2024-05-06,2024-05-08
+121191,Xavier Key,xavierkey@outlook.com,44,"633 William Estate Apt. 943
+Tiffanyview, SC 43668",Zambia,+505759264366,Iphone 15 plus,1,Pending,2023-08-09,2023-08-11
+127716,Kelly George,kellygeorge@hotmail.com,44,"92608 Shea Ports Suite 383
+Christinachester, KY 05206",Ethiopia,+224741288605,Lenovo PC,3,Cancelled,2022-11-10,2022-11-13
+115318,Annette Fields,annettefields@yahoo.com,31,"78776 David Courts
+East Markshire, MA 67271",Philippines,+505771567885,Samsung S24,2,Pending,2022-04-29,2022-05-02
+133619,Valerie Burton,valerieburton@gmail.com,56,"72999 Reilly Ports
+West Crystal, UT 19086",Australia,+687740630788,Iphone 12,2,Pending,2023-01-07,2023-01-10
+121598,Ryan Leonard,ryanleonard@outlook.com,23,"475 Griffin Row Apt. 212
+Warrenstad, ID 70316",Liberia,+264793195423,Samsung S24,1,Delivered,2022-11-05,2022-11-08
+133887,Lawrence Chang,lawrencechang@outlook.com,45,"24448 Chung Skyway Apt. 093
+West Jesse, VI 15960",Nicaragua,+48739641464,Iphone 12 mini,1,Delivered,2024-03-04,2024-03-08
+141055,Jeffrey Alexander,jeffreyalexander@yahoo.com,45,"4568 Warren Lodge
+Perkinsside, DE 74188",Zimbabwe,+878721401800,Iphone 14 pro max,3,Delivered,2024-03-29,2024-04-01
+137435,Jeffrey Yang,jeffreyyang@yahoo.com,59,"PSC 7991, Box 6868
+APO AA 84788",Bhutan,+51778146965,Iphone 14 pro,1,Delivered,2023-06-18,2023-06-20
+144665,John Flowers,johnflowers@gmail.com,54,"1123 Lindsey Roads Apt. 476
+North Cheryltown, ID 14182",Guadeloupe,+226780177833,Iphone 12 mini,2,Cancelled,2023-09-11,2023-09-12
+129677,Donna Wilson,donnawilson@hotmail.com,66,"90006 Nicole Passage
+Marymouth, ID 71983",Tanzania,+262739517707,Samsung S23 Ultra,3,Cancelled,2022-08-02,2022-08-03
+118373,William Allen,williamallen@outlook.com,43,"7583 Elizabeth Mission
+Lake Heathermouth, DE 40111",Myanmar,+352725181402,Iphone 13,1,Cancelled,2024-07-10,2024-07-12
+121241,Gabriel Mcdonald,gabrielmcdonald@gmail.com,76,"99826 Amanda Harbors Apt. 630
+South Ashleystad, NC 01513",Nigeria,+376701845167,Iphone 14,3,Delivered,2022-12-12,2022-12-14
+134818,Victoria Oliver,victoriaoliver@hotmail.com,39,"46775 Ray Garden
+West Deanna, DE 65432",Suriname,+261735001189,Iphone 12 pro max,3,Pending,2023-06-29,2023-06-30
+126235,Charles Olsen PhD,charlesolsenphd@outlook.com,72,"32724 Sutton Expressway Apt. 308
+Fieldsstad, NM 79631",Venezuela,+49767388508,Iphone 15,2,Pending,2024-04-07,2024-04-11
+112168,Mr. Joseph Reed,mr.josephreed@hotmail.com,20,"42167 Matthew Landing Suite 433
+New Shannonmouth, RI 04750",Marshall Islands,+423702944431,Lenovo PC,3,Delivered,2022-12-30,2022-12-31
+125500,Steven Dougherty,stevendougherty@outlook.com,25,"08256 Matthews Shoal Apt. 266
+Bellmouth, AR 03157",Kazakhstan,+670752519209,Iphone 14,2,Pending,2024-02-12,2024-02-14
+129661,Shari Russell,sharirussell@gmail.com,28,"USCGC Leon
+FPO AA 39494",Kuwait,+60722561148,Iphone 14,1,Delivered,2023-12-31,2024-01-02
+130646,Lisa Hill,lisahill@gmail.com,26,"0814 Welch Island Apt. 407
+Port Bobbyton, NY 11083",Niger,+670794787201,Iphone 13,2,Pending,2023-01-01,2023-01-02
+140283,Adam Mclaughlin,adammclaughlin@hotmail.com,28,"865 Mclaughlin Stream Apt. 755
+Nelsonberg, MS 83633",Colombia,+881 0756057085,Samsung S24 Ultra,3,Pending,2022-05-27,2022-05-31
+112243,John Johnson,johnjohnson@yahoo.com,39,"107 Glen Square Suite 545
+East Mark, CT 91635",Tonga,+963739761574,Iphone 12 pro max,2,Pending,2022-06-26,2022-06-30
+137214,Wayne Montoya,waynemontoya@hotmail.com,39,"USNV Casey
+FPO AP 13414",Heard Island and McDonald Islands,+677741234892,Lenovo PC,1,Delivered,2022-10-24,2022-10-25
+132688,Megan Francis,meganfrancis@yahoo.com,22,"88103 Dorsey Valleys Suite 474
+East Caroline, MN 06586",Angola,+7 7766067929,Lenovo PC,2,Cancelled,2022-04-13,2022-04-15
+123056,Melinda Crawford,melindacrawford@gmail.com,38,"9183 Ingram Plaza Apt. 116
+Henrystad, NE 94353",Korea,+880759150044,Iphone 12 pro,1,Delivered,2023-09-24,2023-09-25
+133474,Troy Hicks,troyhicks@hotmail.com,53,"56338 Gary Plaza
+New Robin, OR 99945",Turkey,+423786151727,Iphone 12 pro max,3,Cancelled,2022-03-17,2022-03-20
+142007,Maria Tyler,mariatyler@gmail.com,52,"79514 Welch Burgs
+Isaacmouth, KS 76814",Burundi,+265794101451,Samsung S24,3,Pending,2024-02-26,2024-02-27
+131429,Mrs. Elaine Ruiz,mrs.elaineruiz@outlook.com,47,"005 Kelly Mill
+East Keithton, IA 04633",Guyana,+63799736593,Iphone 14 pro max,2,Cancelled,2022-05-11,2022-05-15
+134238,Lisa Barron,lisabarron@gmail.com,51,"354 Bonilla Parkway
+Courtneyberg, MO 21764",Montenegro,+229748907929,Iphone 14,1,Delivered,2022-02-01,2022-02-03
+113949,Jessica Jensen,jessicajensen@hotmail.com,71,"18416 Quinn Springs
+New Jamesshire, ME 54624",Slovenia,+808766004273,PS5,3,Cancelled,2022-10-23,2022-10-26
+141277,Amanda Terry,amandaterry@gmail.com,43,"17916 Brandi Ville
+Deanbury, VT 50816",Panama,+228743914604,Samsung S22 Ultra,3,Pending,2022-06-05,2022-06-07
+119819,Timothy Jones,timothyjones@yahoo.com,71,"785 Elizabeth Ranch Suite 925
+West Williamfurt, FM 62777",Senegal,+672 1788784288,Iphone 14,2,Pending,2024-01-17,2024-01-18
+132582,Lawrence Walker,lawrencewalker@gmail.com,25,"030 Tony Brook Apt. 290
+Alvarezhaven, CO 50107",Seychelles,+881 7787394912,PS5,1,Cancelled,2024-06-11,2024-06-14
+141022,Philip Cook,philipcook@gmail.com,47,"716 Ramirez Extensions Suite 110
+South Tina, AL 37591",Timor-Leste,+44 28793668511,Iphone 12 pro max,1,Delivered,2024-06-12,2024-06-15
+135092,Daniel Taylor,danieltaylor@outlook.com,23,"99911 Roger Fort
+Bryanmouth, MT 41807",Taiwan,+686717240028,Iphone 12 pro max,3,Pending,2023-02-01,2023-02-02
+134688,Mallory Sims,mallorysims@outlook.com,79,"65292 Little Forks Apt. 897
+North Lauren, MA 64335",Angola,+881 9711820128,Lenovo PC,2,Pending,2023-12-09,2023-12-11
+113278,Samuel Burns,samuelburns@outlook.com,77,"3326 Clark Squares Suite 178
+Lake Hannah, AS 18225",Chile,+964716094360,Samsung S24 Ultra,2,Delivered,2023-11-06,2023-11-09
+117987,Samantha Wong,samanthawong@outlook.com,79,"336 Barbara Greens
+Amandahaven, VT 38510",Djibouti,+84744167298,Iphone 12 pro,2,Cancelled,2023-11-09,2023-11-11
+121711,Christina Grimes,christinagrimes@hotmail.com,45,"48870 Marco Keys Apt. 218
+New Patricia, ME 49578",Faroe Islands,+41798412038,Iphone 14 pro,2,Pending,2023-08-17,2023-08-18
+139603,Daniel Yoder,danielyoder@yahoo.com,60,"USNV Thomas
+FPO AE 93527",Bouvet Island (Bouvetoya),+389723959238,Samsung S24,1,Pending,2024-03-24,2024-03-27
+118044,Brandi Hill,brandihill@outlook.com,40,"293 Fisher View
+Port Todd, DC 40415",Jamaica,+1 721743063414,Iphone 13 pro,1,Cancelled,2022-05-03,2022-05-07
+136269,Kristen Lopez,kristenlopez@outlook.com,45,"Unit 3885 Box 2452
+DPO AP 70452",Guinea-Bissau,+591796035611,Iphone 14 pro max,3,Pending,2022-05-09,2022-05-13
+111405,Bryan Jackson,bryanjackson@outlook.com,49,"18985 Diana Extension
+South Seanberg, MN 43994",New Zealand,+373752454094,PS4,3,Cancelled,2024-03-18,2024-03-21
+139970,Matthew Grant,matthewgrant@gmail.com,46,"685 Rojas Knolls
+Moorestad, MN 91463",Australia,+357737760523,Iphone 15 plus,2,Delivered,2022-02-16,2022-02-19
+131580,Jason Smith,jasonsmith@hotmail.com,24,"9884 Williams Spring Apt. 150
+East Charles, FL 64108",Maldives,+599 7719256749,Iphone 14 pro max,1,Cancelled,2024-06-12,2024-06-16
+142588,Melissa Ortiz,melissaortiz@gmail.com,50,"283 Michael Extension Suite 964
+Port Katrina, PR 68291",Norway,+1 808781335004,Samsung S21,2,Cancelled,2024-07-11,2024-07-15
+144654,Ashley Schmidt,ashleyschmidt@gmail.com,62,"92666 Donovan Street
+Jacksonchester, MI 19411",Burkina Faso,+257778510359,Iphone 14,2,Cancelled,2023-06-23,2023-06-27
+138657,Thomas Baker,thomasbaker@outlook.com,54,"71171 Margaret Rue
+Hernandezton, MS 35663",Fiji,+677787489407,Iphone 15,2,Cancelled,2022-04-07,2022-04-10
+124986,James Lopez,jameslopez@hotmail.com,20,"6664 Wood Ways Suite 509
+North Dariusville, IN 09450",Dominican Republic,+389728915559,Iphone 15 pro max,1,Cancelled,2024-05-29,2024-06-01
+125782,Christopher Bates,christopherbates@hotmail.com,28,"23800 Kaitlyn Groves Suite 264
+Robinsonfort, MH 60042",United States of America,+881 8704967996,PS5,2,Cancelled,2023-09-05,2023-09-07
+140752,Christopher Perez,christopherperez@gmail.com,72,"Unit 9334 Box 6979
+DPO AP 38216",Saint Kitts and Nevis,+45747070283,Iphone 13,1,Delivered,2022-02-09,2022-02-10
+115491,Frank Acosta,frankacosta@hotmail.com,45,"55649 Henry Street Suite 696
+North Jermaine, MA 42067",Saint Martin,+66708331779,PS4,3,Pending,2024-04-17,2024-04-18
+127222,Thomas Clements,thomasclements@yahoo.com,40,"643 Ernest Forge Suite 336
+Samuelhaven, NC 57670",Greece,+299760688362,Iphone 15 pro,1,Pending,2022-12-11,2022-12-15
+135580,Daniel White,danielwhite@yahoo.com,46,"2835 Michael Loaf
+East Justin, FM 13976",Bouvet Island (Bouvetoya),+352710345633,Lenovo PC,2,Pending,2022-05-06,2022-05-07
+113043,Kristen Hall,kristenhall@hotmail.com,73,"6184 Edward Station
+Jonesside, IA 17183",Australia,+45742377114,Iphone 15 pro,1,Pending,2023-02-14,2023-02-18
+128714,Jennifer Weber,jenniferweber@yahoo.com,30,"826 Alexandria Shore Apt. 957
+Jacksonside, OH 83938",Poland,+676701921007,Samsung S21,3,Delivered,2023-05-29,2023-05-31
+122955,Courtney Brown DDS,courtneybrowndds@yahoo.com,57,"14863 Carrie Greens Suite 442
+Jasonmouth, NE 84604",Japan,+27717987162,Samsung S23+,3,Cancelled,2024-03-15,2024-03-17
+137420,Lauren Collins,laurencollins@outlook.com,73,"357 White Ramp
+South Steven, GA 04811",Kyrgyz Republic,+995 34736468054,Samsung S24 Ultra,1,Pending,2022-07-01,2022-07-04
+116144,Samantha Vargas,samanthavargas@yahoo.com,49,"74222 Beck Junction Suite 778
+North Ashley, DE 98149",Uganda,+378748081063,Samsung S22,1,Pending,2023-07-02,2023-07-05
+143821,Donald Butler,donaldbutler@yahoo.com,65,"8434 Patty Plaza
+Lake Christopherborough, ND 55857",Canada,+238778491711,Samsung S21,1,Cancelled,2023-04-10,2023-04-14
+130657,Nathan Norton,nathannorton@gmail.com,24,"47267 Cynthia Roads
+New Amanda, TN 85608",Peru,+86701298165,Samsung S22 Ultra,2,Cancelled,2023-03-05,2023-03-09
+119268,Nicholas Gray,nicholasgray@gmail.com,78,"1698 Smith Estate
+Lake Laura, GU 38938",Burkina Faso,+501730784098,Iphone 12 pro max,2,Pending,2024-04-26,2024-04-27
+113529,Amanda Gutierrez,amandagutierrez@yahoo.com,55,"PSC 4435, Box 2802
+APO AE 23854",Kuwait,+599 9788309035,Iphone 15,1,Cancelled,2022-03-22,2022-03-24
+127427,James Moore,jamesmoore@yahoo.com,36,"317 Thompson Extension Suite 115
+East Tracy, MN 73135",Libyan Arab Jamahiriya,+62743700365,Iphone 13 pro,1,Pending,2023-11-19,2023-11-22
+124531,Karen Williamson,karenwilliamson@yahoo.com,50,"24130 Lauren Village
+Port Davidland, LA 66409",Saint Martin,+590781647546,PS5,2,Delivered,2024-05-15,2024-05-16
+116329,Michelle Yu,michelleyu@gmail.com,29,"53066 Scott Knoll Suite 805
+Jayview, WI 34802",Switzerland,+238753457692,Iphone 14 pro,2,Delivered,2022-04-17,2022-04-19
+132425,Wanda Collins,wandacollins@outlook.com,48,"505 David Mount Apt. 608
+Santosfurt, FM 09309",Niue,+1 684755112752,Iphone 12 mini,1,Delivered,2023-01-28,2023-01-31
+123334,Robert Hutchinson,roberthutchinson@gmail.com,39,"264 Barron Groves Apt. 867
+Debrahaven, KY 33128",Albania,+881 0775213826,Samsung S24 Ultra,3,Delivered,2023-01-17,2023-01-21
+143677,Melissa Dennis,melissadennis@hotmail.com,25,"285 Brown Lock
+New Andreaberg, PR 78777",Korea,+595730882232,Iphone 15 plus,1,Cancelled,2022-10-30,2022-10-31
+128682,Richard Simpson,richardsimpson@hotmail.com,68,"512 Brandon Alley Suite 957
+Joannmouth, MT 49902",Philippines,+290 8775038678,Iphone 15 pro max,1,Delivered,2022-11-22,2022-11-24
+120862,Chelsey Johnson,chelseyjohnson@yahoo.com,70,"69852 Alexandria Plain Suite 701
+East Christopher, NV 74323",Jamaica,+39 06 698711469793,Iphone 15 pro max,1,Cancelled,2022-02-14,2022-02-16
+119521,Jessica Wolfe,jessicawolfe@yahoo.com,47,"2609 Gilmore Mountain
+Bauermouth, GU 68795",Papua New Guinea,+90705619029,Iphone 13 pro,2,Cancelled,2023-01-21,2023-01-22
+144005,Darrell Gonzales,darrellgonzales@hotmail.com,75,"0179 David Overpass Suite 220
+Thomasfurt, KS 75739",Lebanon,+47 79748180626,Samsung S22,2,Pending,2024-06-26,2024-06-29
+131088,Shawn Kim,shawnkim@gmail.com,32,"9808 Fritz River Apt. 752
+Darrylchester, IL 88397",Honduras,+674762068825,Samsung S23 Ultra,2,Delivered,2024-04-20,2024-04-21
+117215,Melissa Schneider,melissaschneider@gmail.com,26,"115 Roy Turnpike Apt. 194
+Jasonchester, DC 84643",Bolivia,+501729102927,Iphone 15 pro,1,Cancelled,2024-01-28,2024-01-30
+138475,Elizabeth Robinson,elizabethrobinson@gmail.com,33,"86768 Charles Inlet
+West Marco, SD 18532",United Arab Emirates,+358794958257,Iphone 14 pro,2,Pending,2023-01-05,2023-01-09
+131040,Nancy Miller,nancymiller@yahoo.com,56,"313 Perez Square
+Wheelerside, HI 43210",Slovenia,+245725000005,Iphone 12,3,Delivered,2023-02-15,2023-02-17
+133238,Sheri Rodriguez,sherirodriguez@hotmail.com,27,"46151 Seth Forge Suite 250
+South Tyler, MO 40164",Senegal,+501707175823,Samsung S22,2,Pending,2022-02-18,2022-02-20
+115574,William Martinez,williammartinez@outlook.com,75,"5876 Louis Spur Suite 413
+Port Catherineside, AZ 58909",Peru,+86701355778,Iphone 14,3,Delivered,2022-07-28,2022-07-31
+141932,Jennifer Greer,jennifergreer@outlook.com,71,"417 Howard Dale Apt. 620
+West Shelly, OK 45723",Gambia,+255 24724267090,Samsung S21+,3,Pending,2024-04-15,2024-04-18
+142632,Erik Shannon,erikshannon@yahoo.com,59,"47041 Joan Corner Suite 068
+West Jose, VI 22713",Nigeria,+681734214116,Iphone 13,2,Delivered,2022-07-17,2022-07-21
+129226,Gina Miller,ginamiller@outlook.com,27,"1654 Kevin Keys
+West Brittneyville, KS 08183",Benin,+61730707147,Iphone 15,1,Pending,2022-09-27,2022-09-30
+131941,Frank Lewis,franklewis@hotmail.com,80,"162 Joy Forges Suite 986
+New James, TN 66780",United Arab Emirates,+44 1624760156342,Iphone 15 pro max,2,Pending,2024-06-25,2024-06-29
+130427,Billy Soto,billysoto@yahoo.com,79,"334 Odonnell Station Apt. 059
+Johnmouth, OK 87875",Austria,+421791835393,Iphone 13,1,Cancelled,2023-12-03,2023-12-04
+135492,Michelle Santos,michellesantos@yahoo.com,54,"58938 Martinez Walk
+West Johnmouth, VA 22548",Netherlands Antilles,+64766894463,Samsung S21,2,Delivered,2024-05-18,2024-05-20
+144284,John Wiggins,johnwiggins@outlook.com,40,"964 Rojas Viaduct Suite 981
+West Mary, WA 33015",Nigeria,+56724530870,Samsung S24 Ultra,2,Delivered,2024-06-18,2024-06-19
+130868,Sabrina Ramos,sabrinaramos@gmail.com,74,"7443 Patterson Burg
+Theresamouth, KS 51708",Guatemala,+599 7775789952,Samsung S24 Ultra,3,Delivered,2023-03-15,2023-03-16
+114082,Jessica Perry,jessicaperry@gmail.com,57,"2601 Castillo Corner Apt. 012
+Lewisport, DE 17480",Cote d'Ivoire,+31718184552,Iphone 12,3,Delivered,2024-08-20,2024-08-22
+138303,Brandon Martin,brandonmartin@outlook.com,32,"53640 Clark Villages
+Brittneyfurt, FL 10259",Liberia,+232726309528,Samsung S22,1,Delivered,2023-06-27,2023-06-30
+123068,Matthew Parks,matthewparks@hotmail.com,53,"2096 Kim Ville
+East Raymondfort, IA 58494",Cayman Islands,+995754996349,Samsung S21+,1,Delivered,2024-03-04,2024-03-07
+124536,Kevin Bass DVM,kevinbassdvm@gmail.com,67,"0027 Laura Trail
+Brookemouth, GA 11351",Western Sahara,+1 869733083668,Samsung S23 Ultra,3,Cancelled,2023-04-26,2023-04-28
+127880,Richard Hernandez,richardhernandez@gmail.com,42,"37292 Jason Freeway
+Port Anthony, NM 60094",Japan,+254774176550,Samsung S23+,1,Pending,2022-08-06,2022-08-10
+130501,Marissa Rodriguez,marissarodriguez@yahoo.com,78,"0091 Conner Mountains
+Scotthaven, DC 25197",Sierra Leone,+266768721473,Iphone 13,2,Pending,2024-04-15,2024-04-19
+123676,Daniel Nicholson,danielnicholson@yahoo.com,74,"2853 Jose Forges Apt. 785
+Port Rachael, OK 35913",Mayotte,+591793843172,Samsung S24+,3,Pending,2022-08-26,2022-08-28
+143264,John Moore,johnmoore@gmail.com,31,"449 Todd Stream
+South Michelle, GU 30438",Pakistan,+1 767789837663,Iphone 15 pro max,3,Cancelled,2022-11-07,2022-11-08
+116822,Robert Weaver,robertweaver@outlook.com,59,"9809 Sara Spring
+Port Donnashire, NM 58601",Gambia,+48788749879,Samsung S22,2,Cancelled,2024-06-23,2024-06-25
+134702,Rebecca Smith,rebeccasmith@hotmail.com,63,"750 Trevino Valleys Apt. 638
+Lake Ashleyville, ID 16501",Tonga,+46731796599,Lenovo PC,2,Delivered,2024-01-06,2024-01-10
+132978,Kathryn Harrell,kathrynharrell@gmail.com,55,"8407 Elizabeth Vista
+West Dawn, MA 42736",Papua New Guinea,+250712852733,Samsung S24 Ultra,3,Cancelled,2023-03-02,2023-03-04
+140623,Ann Hughes,annhughes@gmail.com,21,"8576 Hicks Field Suite 495
+South Crystal, MD 92444",Micronesia,+1 242712686831,Samsung S24 Ultra,3,Cancelled,2023-07-01,2023-07-02
+138974,Adam Francis,adamfrancis@yahoo.com,35,"57222 Selena Hill Apt. 324
+Heatherstad, GU 66270",Rwanda,+376774687034,Samsung S22 Ultra,3,Delivered,2023-06-22,2023-06-24
+133011,Laura Ramirez,lauraramirez@yahoo.com,37,"439 Dawn Walks
+North Martin, LA 21387",Bosnia and Herzegovina,+262748825803,Lenovo PC,2,Cancelled,2022-06-16,2022-06-18
+111992,James Anderson,jamesanderson@outlook.com,22,"0468 Burke Freeway
+Rebeccastad, KS 31696",Pitcairn Islands,+20783747574,Iphone 14,2,Delivered,2023-11-16,2023-11-19
+110193,Paul Carson,paulcarson@yahoo.com,20,"788 Jackson Burgs
+North Williamhaven, NM 16394",British Indian Ocean Territory (Chagos Archipelago),+264707325324,Iphone 14,3,Pending,2022-09-06,2022-09-09
+118782,Dr. David Oliver,dr.davidoliver@gmail.com,22,"27025 Adams Union Apt. 538
+Martinhaven, OK 45189",Norway,+1 758794981553,Iphone 15 pro max,1,Pending,2024-02-05,2024-02-08
+126170,Courtney Cunningham,courtneycunningham@outlook.com,40,"524 Jackson Inlet Apt. 702
+Alanville, AZ 66840",Tanzania,+243766709751,Iphone 12,3,Pending,2023-10-05,2023-10-06
+126030,Beth Robinson,bethrobinson@outlook.com,23,"19309 Jason Mills Suite 772
+North Josephmouth, PW 72793",Samoa,+967745446668,Samsung S22 Ultra,3,Cancelled,2024-03-04,2024-03-08
+113700,Daniel Pham,danielpham@hotmail.com,80,"1477 Scott Prairie
+Lake Juanbury, CO 27335",Paraguay,+261761120180,Samsung S23 Ultra,3,Pending,2023-01-08,2023-01-09
+131417,Laura Lopez,lauralopez@gmail.com,32,"950 Jones Flat Apt. 515
+East Devon, MT 12114",Tuvalu,+44 1481766477256,Iphone 12 mini,3,Pending,2024-04-27,2024-04-30
+120529,Leah Carlson,leahcarlson@outlook.com,59,"14427 Martin Centers
+Oneillshire, MT 35954",Algeria,+975748098946,PS4,1,Delivered,2022-11-03,2022-11-07
+125156,Scott Baker MD,scottbakermd@outlook.com,44,"08686 Smith Mill Suite 571
+New Brendahaven, PW 42395",Guatemala,+995 34763658727,Samsung S23+,2,Cancelled,2023-02-12,2023-02-14
+138077,Mark Hoover,markhoover@outlook.com,24,"00643 Delacruz Walk
+Lawrenceburgh, PA 47764",Tajikistan,+49761997202,Samsung S24 Ultra,3,Cancelled,2022-03-30,2022-04-03
+122686,Kathleen Jones,kathleenjones@gmail.com,80,"259 Edward Springs
+Michaelborough, SD 90534",United Arab Emirates,+692710352406,Iphone 12 pro max,1,Delivered,2022-01-13,2022-01-17
+112517,Benjamin Ellis,benjaminellis@outlook.com,73,"768 Wells Highway
+West Dennis, ID 93528",Guadeloupe,+882 16751068253,Iphone 14 pro,1,Delivered,2023-04-14,2023-04-16
+116410,Robert Parker,robertparker@gmail.com,49,"Unit 7068 Box 8384
+DPO AA 12305",Iceland,+44 7524733800384,Iphone 14,1,Pending,2024-07-22,2024-07-26
+125347,Jessica Morris,jessicamorris@gmail.com,20,"5841 Vasquez Hill
+Kathyview, OK 37817",Antarctica (the territory South of 60 deg S),+64762534084,Iphone 15 pro,1,Cancelled,2022-07-21,2022-07-23
+128576,Stacey Warner,staceywarner@gmail.com,38,"0691 Cortez Manors
+North Isaac, DE 47462",Lao People's Democratic Republic,+421732208679,Samsung S21,1,Cancelled,2023-01-03,2023-01-06
+121135,Paul Dunlap,pauldunlap@hotmail.com,45,"417 Sullivan Hills Apt. 684
+Steventown, AK 55188",Venezuela,+389718580034,Iphone 12,1,Cancelled,2024-05-02,2024-05-04
+124783,Matthew Pena,matthewpena@gmail.com,63,"15620 David Square
+West Michaelfort, IL 67522",Iraq,+56763603458,Lenovo PC,2,Cancelled,2023-01-21,2023-01-23
+138477,Zachary Webster,zacharywebster@yahoo.com,66,"7522 Torres Mountain Suite 366
+South Kelly, DC 91662",Macao,+239763369843,Iphone 12 pro,2,Pending,2022-02-06,2022-02-10
+132553,Megan Gibson,megangibson@gmail.com,60,"30460 Brandy Island Suite 218
+Andersonside, CO 62271",New Caledonia,+262 269765496835,Samsung S24 Ultra,1,Pending,2022-01-21,2022-01-22
+110904,Jordan Booker,jordanbooker@outlook.com,21,"46978 Stafford Green Suite 176
+South Johnview, WA 74532",Gibraltar,+381703901408,Iphone 12 pro max,3,Cancelled,2022-07-14,2022-07-17
+121049,Kathryn Warren,kathrynwarren@outlook.com,77,"66418 Melanie Highway Apt. 626
+East Kendraville, NE 06107",Mexico,+223799327190,Iphone 15,2,Delivered,2022-06-18,2022-06-20
+144828,Jonathan Dennis,jonathandennis@gmail.com,65,"225 James Cliff
+New Lauren, AZ 43742",Lao People's Democratic Republic,+232720439905,Samsung S23+,2,Cancelled,2022-12-06,2022-12-08
+119150,Pamela Young MD,pamelayoungmd@hotmail.com,23,"56261 Chase Common Apt. 530
+North Josephfort, RI 98524",Ireland,+686758901024,Samsung S23+,1,Delivered,2024-04-01,2024-04-04
+129102,Matthew Perez,matthewperez@yahoo.com,71,"6114 Lawrence Greens
+Gomezchester, IN 64796",Niger,+49744377406,Iphone 14 pro,2,Pending,2023-01-18,2023-01-19
+143003,Sarah Acosta,sarahacosta@yahoo.com,66,"200 Michael Neck Apt. 313
+Melissamouth, VT 89109",Nigeria,+380744673862,Samsung S21+,1,Pending,2024-01-05,2024-01-08
+139211,Catherine Fisher,catherinefisher@yahoo.com,36,"832 Zimmerman Coves Apt. 109
+Beststad, MA 51619",Mozambique,+246785735486,Lenovo PC,2,Pending,2022-01-15,2022-01-16
+137191,Melissa Martin,melissamartin@gmail.com,56,"033 Lee Plain
+Jasonview, OH 50967",Peru,+373717276851,PS4,1,Delivered,2023-09-15,2023-09-16
+135675,Matthew Cruz,matthewcruz@hotmail.com,40,"34135 Lindsay Cliffs Suite 446
+Chapmanton, NY 51686",Bosnia and Herzegovina,+690767452654,Samsung S23 Ultra,3,Cancelled,2023-07-14,2023-07-16
+131283,Ashley Martin,ashleymartin@yahoo.com,32,"3400 Wallace Squares Suite 364
+New Alexisville, PA 94410",Congo,+1 684746656331,Iphone 12,2,Cancelled,2024-06-06,2024-06-07
+144766,David Baker,davidbaker@yahoo.com,54,"0935 Morales Vista
+Darinburgh, PW 12898",Micronesia,+371730249809,Iphone 14 pro,2,Delivered,2023-04-24,2023-04-26
+141778,Megan Tucker,megantucker@gmail.com,80,"0718 Stephanie Fields
+Michellechester, PW 28272",Burundi,+255 24719468647,Samsung S23+,3,Pending,2024-04-21,2024-04-23
+112649,Brandon Griffin,brandongriffin@outlook.com,73,"227 Moore Row Apt. 274
+West Victoria, VI 47666",Switzerland,+381720777473,Samsung S21+,3,Pending,2023-07-21,2023-07-23
+119371,Cathy Mcguire,cathymcguire@yahoo.com,29,"49288 Mark Mountains Apt. 057
+North Rebecca, NY 14035",Lesotho,+1733773707,Iphone 13 pro,1,Delivered,2022-11-03,2022-11-05
+128390,Tony Schmidt,tonyschmidt@gmail.com,60,"4626 Delgado Islands
+Lake Sarahport, AR 79008",Central African Republic,+1 345780311541,Samsung S22,2,Delivered,2024-05-02,2024-05-03
+138052,Anita Powell,anitapowell@gmail.com,68,"4644 Rivera Expressway
+New Catherineland, VT 54253",Senegal,+230725102982,Samsung S21+,3,Cancelled,2023-03-11,2023-03-13
+127772,Karla Holt,karlaholt@gmail.com,76,"6313 Leah Circles
+Williamstad, SD 56015",Greenland,+501723477219,Iphone 14 pro max,1,Cancelled,2023-03-25,2023-03-28
+111549,Daniel Rogers,danielrogers@outlook.com,79,"817 Aaron Road Apt. 262
+Nguyenport, NJ 92386",Bahrain,+881 9708725005,Iphone 15 pro,1,Delivered,2023-10-20,2023-10-21
+143603,Victoria Michael,victoriamichael@gmail.com,72,"838 Holly Way Apt. 876
+Brownmouth, AL 20559",Andorra,+351758044634,Iphone 13,1,Pending,2023-03-04,2023-03-05
+137225,Catherine Paul,catherinepaul@hotmail.com,39,"8824 Elliott Island
+Hernandezborough, FL 88149",British Indian Ocean Territory (Chagos Archipelago),+370708752400,Iphone 12 pro max,2,Delivered,2023-04-27,2023-04-29
+132259,Laurie Walker,lauriewalker@outlook.com,54,"92465 Flores Mall Apt. 030
+Lake Kellyview, NE 82198",Saint Martin,+354737741574,PS4,2,Pending,2023-04-07,2023-04-08
+132192,James Case,jamescase@hotmail.com,33,"5651 Laura Hollow
+Navarrofurt, MO 65165",Yemen,+44 7781737074714,Samsung S22 Ultra,1,Delivered,2022-05-13,2022-05-15
+114290,Charles Horton,charleshorton@hotmail.com,29,"Unit 1043 Box 2983
+DPO AA 15995",Hungary,+380724134978,Iphone 13,3,Delivered,2022-01-08,2022-01-12
+111386,Sarah Williams,sarahwilliams@gmail.com,51,"113 Mcgee Dam Suite 976
+East Sarah, DC 76417",Tonga,+677757872850,Samsung S24+,2,Delivered,2024-01-17,2024-01-19
+117210,Barbara Douglas,barbaradouglas@outlook.com,62,"PSC 7227, Box 8991
+APO AA 07649",Peru,+90781632227,Iphone 12,1,Cancelled,2022-05-03,2022-05-06
+116992,Melissa Lewis,melissalewis@yahoo.com,69,"28327 Jasmine Gardens
+Port Katrina, OR 12569",Hong Kong,+262 639730238924,Samsung S22,2,Pending,2024-03-31,2024-04-04
+110961,Jason Gibson,jasongibson@hotmail.com,26,"3699 Anderson Ports
+Lake Mariaport, OH 21907",Seychelles,+976735209546,Samsung S22 Ultra,2,Cancelled,2023-09-22,2023-09-24
+121957,Ashley Shepherd,ashleyshepherd@hotmail.com,26,"6820 Martin Estates Apt. 695
+Gibsonhaven, GU 36558",Mali,+354718471679,Iphone 15 plus,2,Pending,2024-03-25,2024-03-28
+138082,William Hayes,williamhayes@outlook.com,23,"07394 Zachary Station Apt. 297
+Johnsonburgh, NV 53108",San Marino,+358769845969,Iphone 14 pro,3,Delivered,2022-04-09,2022-04-13
+127413,Leah Wiggins,leahwiggins@hotmail.com,28,"132 Lori Port
+Oconnorstad, IL 84850",Brazil,+1 649777253563,PS4,1,Delivered,2024-07-16,2024-07-20
+142642,Francisco Boyd,franciscoboyd@yahoo.com,21,"455 Spencer Forges Suite 012
+Palmerbury, NH 90728",Iran,+44 1481769906725,Samsung S23 Ultra,3,Delivered,2023-02-08,2023-02-10
+121313,Erica Mckinney,ericamckinney@gmail.com,69,"878 Pruitt Walk Apt. 926
+New Candicehaven, OK 85100",Liberia,+1 869720593244,Samsung S24+,1,Pending,2024-07-17,2024-07-21
+135021,Stephen Moore,stephenmoore@yahoo.com,48,"790 Medina Unions
+Obrientown, LA 25073",Tanzania,+1 809711472331,Lenovo PC,1,Delivered,2023-11-26,2023-11-30
+140317,Thomas Molina,thomasmolina@hotmail.com,40,"872 Rodriguez Islands Apt. 564
+Graytown, MP 70333",Solomon Islands,+44 7924796606587,Iphone 15,3,Pending,2022-01-21,2022-01-25
+112110,Leslie Collins,lesliecollins@yahoo.com,65,"090 Navarro Brook
+West Carly, TX 16009",Qatar,+686781932284,Iphone 15 pro,2,Pending,2023-03-04,2023-03-08
+122658,Katherine Sanders,katherinesanders@yahoo.com,61,"276 Mackenzie Way Apt. 971
+Wilsonside, NJ 07737",Mali,+7 7733345786,Iphone 13 pro,3,Cancelled,2023-03-19,2023-03-23
+125020,Gregory Wallace,gregorywallace@yahoo.com,80,"55212 Ho Centers
+Cummingsland, MA 58668",Belarus,+63794853733,Samsung S23 Ultra,2,Delivered,2023-08-16,2023-08-20
+113488,Jennifer Greer,jennifergreer@yahoo.com,51,"9603 Jimenez Isle Apt. 541
+South Mary, NE 90012",Saint Lucia,+265787184164,Iphone 15,2,Cancelled,2023-10-16,2023-10-17
+124015,Dr. Patricia Clark MD,dr.patriciaclarkmd@gmail.com,33,"8435 Kevin Circle Suite 062
+Phillipsport, IA 29507",Saint Pierre and Miquelon,+258798475547,Samsung S21+,2,Pending,2022-05-02,2022-05-03
+118125,Deborah Vazquez,deborahvazquez@hotmail.com,55,"70364 Gutierrez Harbors Apt. 276
+East Derrickville, AK 36138",Belgium,+1 868722780040,Iphone 15 pro max,3,Pending,2023-02-21,2023-02-25
+115891,Angela Weber,angelaweber@outlook.com,70,"097 Jones Fort
+Keithburgh, TX 74278",Mauritius,+239766660377,Samsung S22,1,Pending,2022-06-20,2022-06-21
+122527,Pamela Perry,pamelaperry@gmail.com,53,"7978 Megan Alley Apt. 932
+East Joseph, CA 78768",Seychelles,+1 242771979374,Iphone 15 pro,2,Cancelled,2024-04-18,2024-04-19
+134921,Lori Reynolds,lorireynolds@outlook.com,43,"944 Kimberly Ferry Suite 824
+East Jacquelinetown, WY 10376",Kenya,+91705921896,Samsung S23+,3,Pending,2023-05-02,2023-05-05
+119247,Jennifer Wilkerson,jenniferwilkerson@outlook.com,36,"07689 Melissa Walk Apt. 545
+Madisonshire, MD 84432",Tuvalu,+1 340792331573,Samsung S22,3,Cancelled,2022-04-08,2022-04-11
+136891,Michael Braun,michaelbraun@gmail.com,53,"54711 Walker Oval
+West Jesse, CO 04957",Saint Helena,+882762071935,Iphone 12 pro max,2,Delivered,2024-08-07,2024-08-11
+129717,Justin Smith,justinsmith@gmail.com,78,"226 Francis Knolls Suite 970
+Lake Bethview, NY 45886",Grenada,+246759552783,Samsung S23+,2,Cancelled,2024-08-02,2024-08-03
+110383,Chase Mitchell,chasemitchell@hotmail.com,32,"85335 Valdez Expressway Suite 580
+South Marvin, NY 18566",Monaco,+421779835782,Iphone 15,2,Pending,2023-01-08,2023-01-11
+121493,Lisa Garza,lisagarza@hotmail.com,27,"704 Olsen Village
+Garciaborough, IN 87169",Sri Lanka,+599 3788260532,Samsung S23 Ultra,3,Cancelled,2022-09-08,2022-09-10
+129334,Samuel Walters,samuelwalters@gmail.com,52,"214 Eric Road Apt. 263
+New Kimberlyview, NC 43337",Guadeloupe,+352710428493,Samsung S23+,2,Pending,2022-10-27,2022-10-31
+127905,William Austin,williamaustin@yahoo.com,71,"USNV Davis
+FPO AE 86759",San Marino,+686789956528,Iphone 12 pro max,2,Pending,2023-06-30,2023-07-02
+127260,Francis Shields,francisshields@outlook.com,24,"73780 Monique Overpass Suite 995
+Teresastad, ME 63105",Taiwan,+1 721785974788,Samsung S22 Ultra,3,Cancelled,2022-04-25,2022-04-27
+144523,Bradley Jackson,bradleyjackson@yahoo.com,33,"46291 Andrew Road Apt. 689
+Lake Christopher, CT 14082",Finland,+673732537323,Samsung S21,1,Cancelled,2024-01-20,2024-01-22
+137011,Mary Smith,marysmith@outlook.com,40,"069 Brown Motorway
+Fisherside, AZ 65507",Cyprus,+61 89162739094006,Iphone 15 plus,1,Delivered,2023-04-03,2023-04-04
+127181,Tonya Castillo,tonyacastillo@gmail.com,52,"5689 Kenneth Brooks
+Jaredshire, VA 79172",Myanmar,+298768764291,PS4,1,Pending,2022-04-05,2022-04-09
+120151,Elizabeth King,elizabethking@yahoo.com,58,"90078 Glenn Center
+Lake Heather, AZ 10203",Barbados,+1 721798661594,Samsung S22,2,Pending,2023-01-19,2023-01-23
+121769,Larry Miller,larrymiller@hotmail.com,21,"3068 Dickson Track Suite 089
+Weberchester, WI 78344",Heard Island and McDonald Islands,+233778924946,Samsung S24+,2,Cancelled,2024-02-01,2024-02-03
+142319,Kristina Mccoy,kristinamccoy@hotmail.com,46,"79811 King Spurs Suite 615
+Port Franklinmouth, HI 15204",Venezuela,+993708436292,Samsung S24+,1,Cancelled,2023-12-31,2024-01-04
+144974,Joseph Mcguire,josephmcguire@outlook.com,45,"24093 David Square Apt. 306
+Lake Johnhaven, ME 06640",Algeria,+675748794281,Iphone 12 mini,1,Delivered,2023-03-21,2023-03-22
+137850,Nicholas Marquez,nicholasmarquez@yahoo.com,28,"5993 Barnes Gateway
+Lake Scotttown, AZ 01513",Eritrea,+53789129772,Iphone 15 pro max,3,Pending,2022-05-31,2022-06-03
+114602,Dennis Lopez,dennislopez@yahoo.com,26,"583 Derrick Walks Suite 841
+Lake Hannah, WA 49855",United Arab Emirates,+590744735639,PS4,1,Pending,2023-11-24,2023-11-27
+128105,Amy Crawford,amycrawford@gmail.com,46,"1536 Susan Motorway
+South Helenfurt, MA 78531",Guatemala,+262706835829,Iphone 15,2,Cancelled,2022-05-09,2022-05-12
+128093,Brian Edwards,brianedwards@hotmail.com,75,"0586 Hardy Pine Suite 491
+Port Susan, MT 45363",New Caledonia,+977767786383,Samsung S22 Ultra,3,Delivered,2023-12-17,2023-12-21
+116212,Jeffrey Tapia,jeffreytapia@hotmail.com,64,"772 Hernandez Harbor Suite 568
+New Baileychester, ME 52189",Somalia,+92749831989,Iphone 14 pro max,1,Cancelled,2024-08-14,2024-08-18
+134979,Matthew Reed,matthewreed@hotmail.com,30,"USNV Smith
+FPO AA 98506",Ghana,+852798347865,Samsung S21,3,Pending,2023-12-31,2024-01-02
+110066,Heidi Hernandez,heidihernandez@hotmail.com,64,"94354 Jonathan Canyon
+Port Kelli, VI 42684",Bulgaria,+373727669202,Lenovo PC,2,Cancelled,2023-01-02,2023-01-06
+124383,Austin Valencia,austinvalencia@gmail.com,30,"389 Summer Run
+North Joshuastad, MA 18194",Uzbekistan,+595782189273,Samsung S22,1,Delivered,2022-12-18,2022-12-19
+125976,Samantha Jordan,samanthajordan@gmail.com,57,"4310 Ann Port Suite 742
+East Jackson, VA 82056",Kazakhstan,+265704307164,Iphone 14 pro,2,Pending,2023-02-27,2023-03-01
+132053,Robert Vang,robertvang@yahoo.com,56,"PSC 5343, Box 6313
+APO AE 47233",Korea,+886729203730,Samsung S22 Ultra,3,Cancelled,2023-05-27,2023-05-28
+124104,Perry Allen,perryallen@yahoo.com,46,"17004 Kerr Junctions Suite 807
+East Catherine, IA 32787",Oman,+505791578967,Iphone 15 pro,1,Cancelled,2023-06-28,2023-07-02
+132197,James Mills,jamesmills@yahoo.com,25,"5724 Roberts Harbors Suite 875
+Mayoview, MI 19922",Senegal,+290 8723615170,Samsung S22 Ultra,2,Cancelled,2023-12-31,2024-01-03
+117167,Logan Rivera,loganrivera@outlook.com,60,"606 Kristina Flat
+Port Tanya, WV 16680",Iraq,+686768242912,Iphone 12 pro,2,Cancelled,2023-02-21,2023-02-22
+135519,Theresa Marquez,theresamarquez@hotmail.com,53,"102 Mcintyre Falls
+West Derekmouth, MT 21043",Iceland,+44 1534720349534,Iphone 15,1,Delivered,2022-08-13,2022-08-16
+115959,Chad Roberts,chadroberts@gmail.com,50,"31645 Wilson Track Apt. 475
+North Samantha, TN 63527",Moldova,+883709904915,Samsung S21+,2,Pending,2024-08-25,2024-08-26
+132828,Leah Roy,leahroy@gmail.com,62,"51953 Cassandra Vista Apt. 130
+Port Cathy, KY 19644",Ireland,+972773448171,Samsung S24+,3,Pending,2024-03-27,2024-03-30
+119596,Amanda Bush,amandabush@outlook.com,44,"03542 Campbell Manors
+East Bonnieville, IN 79004",Cook Islands,+30701328364,Samsung S22,3,Pending,2022-08-22,2022-08-24
+144584,Ethan King,ethanking@outlook.com,76,"01105 Copeland Radial
+West Bradley, MN 20786",Malaysia,+993759422468,Iphone 12 pro,3,Pending,2024-03-03,2024-03-07
+126437,Brianna Campbell,briannacampbell@gmail.com,27,"73097 Williams Forks
+North Jacob, KY 18913",Saint Lucia,+382736632609,Iphone 12,1,Cancelled,2023-09-10,2023-09-11
+131388,Pamela Brown,pamelabrown@hotmail.com,73,"7560 Mike Square
+North Rodney, NJ 68299",Suriname,+590779622304,Samsung S22 Ultra,3,Delivered,2024-06-25,2024-06-27
+114194,Lindsey Bailey MD,lindseybaileymd@outlook.com,66,"029 Aaron Pike Apt. 594
+New Rose, ND 54325",Antigua and Barbuda,+350737128150,Iphone 15 pro,3,Delivered,2024-04-24,2024-04-26
+113522,Alexander Foster,alexanderfoster@outlook.com,79,"50494 Rodney Wall
+Bethanyfurt, MD 52802",French Polynesia,+44 28748999210,Iphone 12,2,Cancelled,2024-06-27,2024-06-28
+122574,Susan Adams,susanadams@yahoo.com,43,"9146 Mason Plains Apt. 362
+New Shawn, WV 84359",Vietnam,+232759725436,Samsung S23 Ultra,1,Pending,2023-06-19,2023-06-22
+111412,Wanda Miller,wandamiller@yahoo.com,25,"8171 Shirley Roads Suite 392
+Brandonbury, CO 69154",Denmark,+972735210478,Iphone 14,1,Pending,2022-09-23,2022-09-24
+112251,Leah Rodriguez,leahrodriguez@yahoo.com,39,"5089 Brandi Wells
+New Patrick, GU 25210",Austria,+1 264723950402,Samsung S24+,1,Delivered,2022-03-30,2022-03-31
+122044,Jessica Coleman,jessicacoleman@yahoo.com,50,"8977 Jamie Flat
+South Amy, GA 20030",Cote d'Ivoire,+95725089363,Iphone 15,1,Pending,2023-02-25,2023-03-01
+124661,John Smith,johnsmith@yahoo.com,31,"6215 Matthews Tunnel
+New Jeffreybury, AR 51454",Nicaragua,+56796691442,Iphone 12 mini,3,Delivered,2024-04-19,2024-04-22
+110176,Anna Stephens,annastephens@yahoo.com,61,"603 Charles Isle
+West Kimberly, HI 64149",Czech Republic,+882 16781013675,Samsung S24,1,Cancelled,2024-03-13,2024-03-15
+126325,Alexander Sanchez,alexandersanchez@yahoo.com,71,"080 Kevin Lakes
+New Andrew, LA 50090",Niger,+62766689223,PS4,2,Cancelled,2022-10-03,2022-10-05
+122784,Patricia Hayden,patriciahayden@hotmail.com,32,"8425 Wells Loop Suite 938
+Taylorport, MS 28227",Norway,+992771717464,Iphone 12 pro max,2,Delivered,2023-09-13,2023-09-17
+137370,Stephanie Sullivan,stephaniesullivan@hotmail.com,55,"3688 Benson Ville Apt. 884
+South Donnaville, IA 43468",Switzerland,+61 89162738362452,Samsung S23 Ultra,3,Delivered,2024-08-18,2024-08-20
+131625,Tina Parrish,tinaparrish@gmail.com,36,"6600 Timothy Centers
+South Phillipton, LA 98019",Albania,+590705350866,Iphone 15,2,Pending,2023-06-14,2023-06-17
+129525,Erica Flores,ericaflores@outlook.com,45,"846 Baird Knolls
+North Tanyaview, MO 02117",Cayman Islands,+599 3730365401,Iphone 14,2,Delivered,2023-01-05,2023-01-06
+127882,Kaitlyn Foster,kaitlynfoster@hotmail.com,26,"49924 James Wells Apt. 575
+South Davidshire, ID 78613",Ireland,+961717832806,PS5,3,Cancelled,2023-11-27,2023-11-28
+141952,Amber Jones,amberjones@hotmail.com,27,"08233 Joshua Ports
+Annaville, MT 61868",Tonga,+1 664783211873,Samsung S21,3,Pending,2022-07-07,2022-07-10
+111943,Samuel Butler,samuelbutler@gmail.com,29,"USNV Hill
+FPO AA 54806",Sudan,+1 268762011460,Samsung S21,1,Pending,2022-02-08,2022-02-11
+124741,Christopher Browning,christopherbrowning@outlook.com,47,"749 David Stream Apt. 241
+Matthewstad, NC 82654",Italy,+47 79787348149,Iphone 14,3,Delivered,2022-10-24,2022-10-26
+126935,Randy Smith,randysmith@hotmail.com,30,"458 Kyle Mall
+Lake Brandon, PR 39262",Palestinian Territory,+265777076259,Samsung S21+,3,Pending,2023-05-27,2023-05-30
+119418,Kevin Stewart,kevinstewart@outlook.com,64,"PSC 0580, Box 6001
+APO AE 07400",Bulgaria,+599 7739836443,Iphone 15,2,Pending,2024-02-22,2024-02-26
+140196,Terri Garcia,terrigarcia@hotmail.com,51,"1647 Oneal Cliffs Suite 464
+Murphyfort, UT 12481",Bahrain,+45775025070,Samsung S23 Ultra,2,Cancelled,2022-06-17,2022-06-19
+117903,Matthew Ramos,matthewramos@outlook.com,58,"08980 Bradshaw Overpass
+Tracyview, AR 53733",Mayotte,+689717992597,Samsung S24+,3,Delivered,2022-12-22,2022-12-23
+120534,Laurie Zhang,lauriezhang@yahoo.com,41,"42904 Brian Creek Apt. 376
+Cobbshire, RI 19892",United States Virgin Islands,+254703407231,Samsung S24,2,Pending,2024-06-08,2024-06-09
+120386,Monica Reynolds,monicareynolds@gmail.com,34,"60229 Adrian Brooks Apt. 391
+South Nathan, WA 25223",Pitcairn Islands,+599 7708634252,PS5,3,Pending,2024-08-17,2024-08-20
+113122,Mary Harris,maryharris@gmail.com,21,"1679 Linda Camp
+Angelaland, TX 57520",Argentina,+501709632099,Samsung S24,3,Delivered,2024-01-25,2024-01-28
+126969,Nicole Gomez,nicolegomez@yahoo.com,39,"870 Thomas Highway
+Port James, WY 19778",Slovakia (Slovak Republic),+263714339090,Samsung S24 Ultra,3,Delivered,2023-09-02,2023-09-06
+140341,Benjamin Anthony,benjaminanthony@yahoo.com,34,"836 Gardner Lodge
+West Douglasbury, SD 61064",Singapore,+590716697137,Lenovo PC,2,Delivered,2024-03-26,2024-03-30
+126111,Heather Lyons,heatherlyons@outlook.com,71,"64501 Maddox Vista Apt. 673
+Smithburgh, OR 35796",Faroe Islands,+995765563052,Iphone 15,2,Cancelled,2023-11-02,2023-11-04
+135266,Kathleen Schmidt,kathleenschmidt@gmail.com,24,"43863 Jason Lakes
+Kevinchester, MH 54199",Oman,+590763879730,Samsung S24+,3,Cancelled,2024-02-04,2024-02-05
+119494,Lydia Powell,lydiapowell@yahoo.com,25,"6737 Beth Prairie
+Teresahaven, ND 60821",Montenegro,+371730621031,Iphone 12 pro max,3,Pending,2023-01-24,2023-01-26
+128514,Kelly Thompson,kellythompson@outlook.com,51,"9159 Callahan Bridge Apt. 233
+New Cynthiachester, UT 53643",Turkmenistan,+90 392759282836,Lenovo PC,3,Delivered,2023-09-17,2023-09-19
+132851,Megan Jones,meganjones@yahoo.com,44,"PSC 1619, Box 2800
+APO AA 73428",Tajikistan,+256712785800,PS5,3,Delivered,2022-06-05,2022-06-08
+124527,Crystal Hicks,crystalhicks@outlook.com,37,"65127 Kevin Parks
+Jasonstad, NM 04430",Korea,+381710530286,Lenovo PC,2,Delivered,2024-07-10,2024-07-13
+142754,Heather Walsh,heatherwalsh@gmail.com,58,"537 Phelps Summit
+South Meganfort, NC 79385",Gambia,+973785574637,Iphone 12 mini,2,Cancelled,2023-07-07,2023-07-10
+125864,Michele Avila,micheleavila@yahoo.com,59,"1339 Lowe Glen Apt. 508
+Jamesville, AK 56560",Peru,+1 869738218844,Iphone 12 pro,1,Delivered,2022-05-07,2022-05-10
+119014,Cynthia Smith,cynthiasmith@outlook.com,53,"869 Tara Mountain Apt. 818
+East Tylerland, OK 03291",Canada,+262757763343,Iphone 15,1,Pending,2023-11-22,2023-11-26
+131885,Tiffany Greene,tiffanygreene@hotmail.com,75,"3395 Webb View Apt. 970
+West Claudiamouth, PW 26708",Solomon Islands,+672 1770853627,Lenovo PC,3,Pending,2023-08-04,2023-08-05
+132629,Pamela Stone,pamelastone@yahoo.com,73,"3727 Steven Village Suite 788
+Jasonmouth, RI 25381",Algeria,+380721931180,Iphone 15,1,Pending,2022-01-22,2022-01-25
+113077,Richard White,richardwhite@yahoo.com,47,"86967 Melissa Lake
+Moorefurt, AL 84253",Antarctica (the territory South of 60 deg S),+504771168031,Iphone 12 pro,2,Cancelled,2022-09-15,2022-09-16
+141484,Thomas Hardy,thomashardy@outlook.com,55,"1384 Molina Flat
+South Kevinfort, AL 09145",Ethiopia,+45745053428,Samsung S23+,2,Delivered,2023-05-13,2023-05-14
+124014,Alexander Harris,alexanderharris@hotmail.com,76,"0243 Brent Road
+Martinmouth, WV 23428",Russian Federation,+1 441768339114,Samsung S24 Ultra,1,Pending,2022-05-12,2022-05-15
+138630,Tony Parker,tonyparker@outlook.com,68,"1456 Lopez Camp
+Port Sandraberg, MA 86946",Azerbaijan,+961785980983,Samsung S24,3,Pending,2023-07-26,2023-07-29
+141403,Andrea Sosa,andreasosa@gmail.com,65,"442 Jones Courts
+Erikaville, NE 37574",Lesotho,+48739813759,Samsung S24 Ultra,3,Cancelled,2024-07-26,2024-07-29
+144229,Amy Gregory,amygregory@yahoo.com,37,"85871 Vaughan Ridge
+Port Becky, WY 44241",Jamaica,+598725055495,Iphone 13,3,Delivered,2024-05-14,2024-05-17
+118894,Leslie Ball,leslieball@gmail.com,41,"16363 Patrick Mill Apt. 393
+North Christinemouth, WA 82945",Jersey,+262 639788288824,Iphone 15 pro,3,Delivered,2023-01-09,2023-01-13
+130920,Christopher Curtis,christophercurtis@hotmail.com,39,"751 Virginia Expressway
+South Alexandriafurt, AZ 32177",Dominican Republic,+44 7624780799888,Samsung S24 Ultra,3,Pending,2022-04-26,2022-04-29
+130727,Richard Jones,richardjones@outlook.com,25,"13160 Ingram River
+Laneshire, AK 65205",Cote d'Ivoire,+976713238434,Samsung S24,3,Cancelled,2022-05-24,2022-05-28
+111685,Felicia Goodwin,feliciagoodwin@outlook.com,60,"96543 Holt Forest Suite 236
+Emilyview, HI 64288",Iran,+39715593440,Iphone 15 plus,2,Delivered,2024-06-26,2024-06-28
+130311,Tammy Myers,tammymyers@hotmail.com,52,"13702 Ortega Ways
+New Anthony, MI 66963",Germany,+674786835313,Iphone 13,3,Cancelled,2023-05-10,2023-05-12
+132485,Bryan Pearson,bryanpearson@yahoo.com,79,"2618 Joshua Valleys Apt. 829
+South Crystal, NY 78971",Kenya,+373 2783110055,Samsung S24 Ultra,2,Delivered,2023-05-19,2023-05-23
+134917,Angela Blackburn,angelablackburn@yahoo.com,48,"6085 Benjamin Mills
+Rachelchester, WI 82413",Colombia,+260764323060,Samsung S23+,1,Delivered,2023-03-20,2023-03-22
+127162,Marcus Garcia,marcusgarcia@hotmail.com,27,"58584 Ball Heights Apt. 193
+New John, CO 59541",Holy See (Vatican City State),+1 246735378054,Iphone 14,3,Delivered,2023-10-13,2023-10-17
+137948,Kelsey Lara,kelseylara@outlook.com,41,"032 Dawn Camp
+Simpsonside, CA 50264",United Kingdom,+1 268713294280,Iphone 13 pro,3,Delivered,2022-09-20,2022-09-21
+122610,Rose Lewis,roselewis@gmail.com,70,"963 Conway Street Apt. 062
+West Benjaminburgh, SD 47297",Suriname,+998737018735,Lenovo PC,2,Delivered,2022-03-05,2022-03-06
+123049,Whitney Smith,whitneysmith@gmail.com,75,"41206 Lopez Harbors
+West Jennifer, GA 75014",Denmark,+966772771289,Iphone 12 mini,2,Delivered,2022-06-15,2022-06-17
+133875,Douglas Brown,douglasbrown@hotmail.com,44,"4306 Gonzalez Expressway
+Pattersonfurt, PW 18118",Nigeria,+237700778404,Iphone 12 pro,2,Delivered,2022-06-28,2022-06-30
+118721,Autumn Wright,autumnwright@gmail.com,26,"0769 Ramsey Green Suite 609
+Garciamouth, VA 40820",Puerto Rico,+371769859172,PS4,2,Cancelled,2022-01-08,2022-01-10
+140497,Catherine Mccarthy,catherinemccarthy@gmail.com,57,"90944 Romero Place
+Port Sheryl, RI 33034",Cook Islands,+674763339520,Iphone 14 pro max,1,Delivered,2023-08-15,2023-08-19
+142166,Melissa Hart,melissahart@yahoo.com,58,"3651 Julie Track Suite 440
+East Jonathanland, MI 61051",Honduras,+682758879947,Iphone 15 pro max,1,Pending,2023-08-11,2023-08-15
+112717,Ronald Evans,ronaldevans@hotmail.com,43,"14964 Turner Forks
+North Michelle, GU 81159",Netherlands,+1 670711794437,Iphone 12 pro max,1,Delivered,2023-08-20,2023-08-22
+126997,Lori Brown,loribrown@outlook.com,25,"31893 Sandra Pines
+Scottfort, MH 39721",Lao People's Democratic Republic,+20750842166,Iphone 13 pro,1,Delivered,2023-12-08,2023-12-10
+122878,Scott Rojas,scottrojas@outlook.com,41,"8495 Ashley Land Suite 369
+Lake Patrick, MO 89619",Bolivia,+47729187532,Iphone 13 pro,3,Cancelled,2022-07-13,2022-07-16
+126970,Sabrina Brown,sabrinabrown@outlook.com,66,"178 Rodney Manors Suite 525
+Port Cory, KS 93331",Liechtenstein,+1 670777077767,PS5,1,Delivered,2023-11-29,2023-12-01
+144993,Justin Stafford,justinstafford@yahoo.com,48,"854 Gomez Summit Apt. 424
+South Harryfort, MD 40988",Kazakhstan,+234743436322,Iphone 13,1,Delivered,2023-05-27,2023-05-28
+143325,Jeffrey Castaneda,jeffreycastaneda@hotmail.com,63,"221 Brandon Alley Apt. 031
+Jessicaport, NV 03054",Liechtenstein,+591771995363,Samsung S24 Ultra,1,Cancelled,2022-12-09,2022-12-12
+119131,Charles Greene,charlesgreene@yahoo.com,66,"5271 Kimberly Flat
+New Carol, NE 64584",Kiribati,+372725891551,Samsung S21+,1,Delivered,2022-09-17,2022-09-19
+125142,Theresa Campbell MD,theresacampbellmd@gmail.com,58,"7495 Saunders Hills
+West Nathanside, NE 61139",Philippines,+98765591959,Samsung S23 Ultra,3,Delivered,2022-01-30,2022-02-01
+136787,Patrick Keller,patrickkeller@hotmail.com,41,"638 Rodriguez Square
+Lauramouth, MI 88071",Sao Tome and Principe,+350748432442,Iphone 13 pro,1,Delivered,2022-09-06,2022-09-10
+144139,Dr. Jose Kelly,dr.josekelly@gmail.com,46,"09491 Sean Ramp Suite 179
+North Stephen, ME 88873",Lithuania,+374 47719769617,Iphone 15 pro,1,Cancelled,2024-07-24,2024-07-27
+136114,Russell Rodriguez,russellrodriguez@hotmail.com,60,"971 Joseph Green
+Andrewburgh, NE 19213",Puerto Rico,+389796924782,Iphone 12 pro max,2,Delivered,2022-02-14,2022-02-17
+128770,Omar Kelly,omarkelly@outlook.com,77,"PSC 2731, Box 0165
+APO AE 75930",Luxembourg,+599 4720417802,Iphone 15,3,Cancelled,2023-08-20,2023-08-23
+115740,Danielle Neal,danielleneal@hotmail.com,59,"9422 Chung Junction Suite 916
+Tateberg, DC 62489",Pakistan,+673710321889,Iphone 13,3,Pending,2023-01-20,2023-01-21
+142331,Mrs. Brenda Martinez,mrs.brendamartinez@outlook.com,78,"5673 Carpenter Knolls Apt. 533
+Ericland, FL 27461",Portugal,+354709326406,Iphone 15 plus,1,Delivered,2023-10-06,2023-10-07
+136981,Kevin Jones,kevinjones@hotmail.com,66,"1095 Kristy Mill Suite 635
+Crawfordport, NM 33980",Nicaragua,+44 1534758325498,Samsung S22 Ultra,3,Cancelled,2023-01-29,2023-01-31
+119532,Jennifer Hernandez,jenniferhernandez@gmail.com,37,"10393 Byrd Trail Suite 156
+Yvonneburgh, VT 80109",India,+599 3738467714,Iphone 15 pro,1,Cancelled,2023-12-04,2023-12-07
+127782,Louis Clark,louisclark@hotmail.com,26,"7783 Jeffrey Forge Suite 657
+Port Shawn, OK 06593",Timor-Leste,+880733924108,Iphone 13,3,Pending,2022-08-09,2022-08-10
+121391,Andrew Scott,andrewscott@gmail.com,44,"34388 Heather Mission
+Mcdonaldmouth, AL 30414",Qatar,+506767936069,Samsung S24+,1,Cancelled,2023-04-09,2023-04-13
+137021,Sophia Fletcher,sophiafletcher@hotmail.com,78,"PSC 7196, Box 5016
+APO AP 38111",Sweden,+228767338657,Iphone 12 mini,2,Cancelled,2024-05-05,2024-05-08
+126662,Victoria Dennis,victoriadennis@hotmail.com,28,"0122 Sandoval Row Apt. 002
+Salazarville, CO 10372",French Polynesia,+599 4750476527,Lenovo PC,1,Pending,2024-07-06,2024-07-08
+132270,Adrian Freeman,adrianfreeman@outlook.com,51,"35379 White Points Suite 508
+Cynthiaton, FM 34047",Samoa,+41750647621,Iphone 15 pro,1,Cancelled,2022-04-28,2022-05-01
+143415,Joshua Jackson,joshuajackson@hotmail.com,36,"Unit 1926 Box 8823
+DPO AP 94230",Argentina,+244767407496,PS4,1,Cancelled,2022-11-12,2022-11-13
+140065,Adam Jenkins,adamjenkins@yahoo.com,21,"87878 Reynolds Valleys Suite 762
+Bradleyton, NJ 74653",Liechtenstein,+53754128144,Samsung S24,2,Delivered,2023-08-29,2023-09-01
+133251,Colton Patterson,coltonpatterson@gmail.com,21,"75045 Holmes Inlet Apt. 291
+South Matthew, NV 20018",Pakistan,+251774855063,Samsung S22 Ultra,1,Pending,2023-08-10,2023-08-11
+130828,Christina Morton,christinamorton@gmail.com,65,"164 Hardin Path Apt. 374
+Danielville, OH 10813",Luxembourg,+500783096398,Samsung S24 Ultra,1,Delivered,2023-07-10,2023-07-11
+135595,Mrs. Melissa Larson,mrs.melissalarson@yahoo.com,45,"0939 Carrie Port Apt. 991
+Ronaldberg, RI 40366",British Indian Ocean Territory (Chagos Archipelago),+222747982718,Iphone 14,1,Delivered,2023-03-04,2023-03-08
+118706,Douglas Combs,douglascombs@gmail.com,80,"224 Troy Bridge
+Samuelview, DE 06830",Antarctica (the territory South of 60 deg S),+241739396368,Iphone 12,2,Cancelled,2023-03-17,2023-03-18
+143333,Christopher Hicks,christopherhicks@gmail.com,44,"USNV English
+FPO AP 58768",Togo,+98778684637,Iphone 14 pro max,3,Cancelled,2023-10-26,2023-10-30
+128212,Lisa Green,lisagreen@yahoo.com,36,"220 Nicole Coves
+West Daniellefurt, OH 37691",Mozambique,+44 7524796791711,Iphone 13 pro,3,Cancelled,2024-01-25,2024-01-26
+125793,Robert Lee,robertlee@outlook.com,38,"18384 Lisa Ranch Suite 367
+Rodneyfurt, GU 85968",Holy See (Vatican City State),+221720940935,Iphone 15 pro,3,Delivered,2022-06-05,2022-06-08
+129502,David Grant,davidgrant@yahoo.com,43,"24545 Heather Park Apt. 006
+Phyllisfurt, AR 65758",Guernsey,+682767589178,Iphone 12 pro max,2,Cancelled,2022-06-01,2022-06-03
+110007,Anthony Jones,anthonyjones@hotmail.com,78,"Unit 3974 Box 5371
+DPO AA 32394",Bahrain,+1 242734009207,Iphone 12 pro max,3,Cancelled,2023-04-21,2023-04-25
+110040,Randy Martinez,randymartinez@hotmail.com,27,"4258 Amber Isle Apt. 766
+Jenniferside, WI 78316",Nepal,+1 340733408695,Samsung S22 Ultra,3,Pending,2024-07-23,2024-07-27
+111452,Lisa Barton PhD,lisabartonphd@outlook.com,33,"071 Fox Branch
+South Angela, TX 23209",Myanmar,+509721781228,Samsung S22,3,Cancelled,2024-02-02,2024-02-03
+123343,Charles Ramirez,charlesramirez@outlook.com,65,"8624 Laura Circle
+Kevinside, MP 65210",New Zealand,+378763210465,Iphone 14 pro,2,Delivered,2022-08-11,2022-08-14
+138718,Jason Alexander,jasonalexander@gmail.com,71,"423 Hunt Plains
+Melissaberg, MI 64756",Zimbabwe,+967743629341,Iphone 14,1,Delivered,2023-09-03,2023-09-06
+129490,Jeffery Hansen,jefferyhansen@yahoo.com,80,"34892 Robertson Overpass
+Dixonborough, FM 03573",Algeria,+509715685185,Samsung S22 Ultra,2,Cancelled,2022-05-24,2022-05-28
+112324,Paul Wong,paulwong@yahoo.com,22,"057 Roy Avenue Apt. 918
+Davidstad, VT 10901",Cuba,+1 868776268356,Samsung S21,1,Delivered,2023-10-24,2023-10-26
+140434,Mark Davis,markdavis@gmail.com,60,"5412 Fox Ridge Suite 450
+North Stefanie, ME 68246",United States Minor Outlying Islands,+1 869732934988,Iphone 13 pro,1,Delivered,2023-12-03,2023-12-07
+110013,Kristopher Caldwell,kristophercaldwell@outlook.com,69,"877 Joshua Field
+Acevedoborough, CA 74225",Russian Federation,+683796689407,Samsung S21,2,Pending,2023-10-09,2023-10-12
+130074,Angelica Richard,angelicarichard@outlook.com,20,"004 Lara Highway Apt. 545
+South Sergiotown, OK 69725",Angola,+226790837526,Iphone 15 pro,1,Pending,2022-02-11,2022-02-15
+126540,Erika Miller,erikamiller@outlook.com,56,"5658 Mike Run Apt. 428
+Port Natashamouth, MO 08446",Estonia,+242732692687,Iphone 15 pro max,2,Pending,2024-08-05,2024-08-07
+139948,Darrell Reyes,darrellreyes@hotmail.com,63,"2477 Ashley Unions
+Coxland, PW 57508",Kiribati,+503797000662,Samsung S21+,3,Cancelled,2023-05-29,2023-06-02
+141365,Michael Foster,michaelfoster@hotmail.com,61,"542 Porter Flat Suite 118
+East Donnabury, LA 47945",Brunei Darussalam,+970732760450,Samsung S24+,2,Delivered,2022-07-11,2022-07-14
+144036,Tiffany Perry,tiffanyperry@yahoo.com,39,"653 Cline Terrace Apt. 111
+Tinachester, OK 08370",Bahamas,+1 268777564361,Iphone 14 pro,3,Pending,2023-11-13,2023-11-15
+112846,Dawn Mccormick,dawnmccormick@hotmail.com,75,"76492 Joshua Wells Suite 872
+Justinchester, FM 20014",Guinea,+596797013722,PS5,3,Cancelled,2022-06-20,2022-06-21
+126412,James Henderson,jameshenderson@hotmail.com,80,"368 Michael Points
+South James, OR 79384",Sudan,+1 758797834936,Iphone 14 pro,1,Pending,2022-12-17,2022-12-20
+128325,Joshua Murphy,joshuamurphy@gmail.com,21,"0463 Samuel Overpass Suite 295
+Lake Angelland, GU 41176",Uruguay,+56749007836,Lenovo PC,1,Delivered,2022-10-24,2022-10-27
+117999,Guy Bailey,guybailey@yahoo.com,32,"6200 Christine Ford Apt. 759
+Port Coreytown, CO 88010",Denmark,+681777212202,Samsung S22,3,Cancelled,2022-04-22,2022-04-25
+122589,Erin Johnston,erinjohnston@hotmail.com,63,"210 Livingston Trail Suite 379
+Port Alechaven, HI 46685",Portugal,+245744080359,Iphone 12,1,Cancelled,2022-08-29,2022-08-30
+138723,Mary Ramos,maryramos@yahoo.com,23,"926 Wolfe Spurs
+Chenville, CO 01584",United Arab Emirates,+1 869726198793,Samsung S24 Ultra,3,Pending,2024-05-19,2024-05-22
+123902,Lee Clarke,leeclarke@outlook.com,31,"1975 Kimberly Trail
+Rileyhaven, MT 84210",Guadeloupe,+44730364228,Samsung S24+,1,Cancelled,2024-01-24,2024-01-26
+141281,Carrie Zamora,carriezamora@outlook.com,72,"346 David Ville Apt. 276
+West Michelle, VT 94887",Guinea,+66760130429,Iphone 13 pro,2,Delivered,2023-01-16,2023-01-17
+137366,Tyler Harrison,tylerharrison@hotmail.com,67,"95159 Sharon Passage Apt. 983
+West Sherrichester, NM 76477",Italy,+503763527527,Samsung S21,1,Delivered,2024-02-29,2024-03-03
+120255,Ruben Gardner,rubengardner@yahoo.com,80,"57536 Townsend Prairie Suite 765
+Sandersbury, CO 69475",Mali,+961721547608,Iphone 15 pro,3,Delivered,2023-04-12,2023-04-13
+121649,Wayne Ramos,wayneramos@hotmail.com,33,"1101 Brittney Neck Apt. 743
+Brownton, IN 03195",Martinique,+1 784703009231,Iphone 15 pro,1,Delivered,2022-04-14,2022-04-17
+116804,Anthony Jackson,anthonyjackson@gmail.com,26,"75293 Philip Turnpike
+New Katherineburgh, MA 92240",Romania,+856754232369,Iphone 12,2,Delivered,2023-04-12,2023-04-13
+122277,Marcus Campbell,marcuscampbell@outlook.com,50,"041 Simmons Isle
+Davisport, MT 31157",Grenada,+350771654698,Samsung S21+,3,Delivered,2022-03-07,2022-03-11
+144683,Joseph Chavez,josephchavez@yahoo.com,67,"610 Wong Curve
+Vasquezmouth, SD 04923",Luxembourg,+7746381322,Samsung S24+,1,Pending,2024-02-26,2024-03-01
+138285,Garrett Phillips,garrettphillips@outlook.com,33,"5307 Michael Estates
+Debraside, GA 10726",Belgium,+246733078346,Iphone 12,3,Delivered,2023-02-09,2023-02-12
+125271,Amanda Ewing,amandaewing@outlook.com,41,"256 Jennifer Ridge
+West Brian, OH 72515",Israel,+387757882827,Iphone 14 pro,1,Cancelled,2023-04-28,2023-04-30
+142726,Albert Skinner,albertskinner@gmail.com,43,"147 Michael Walk Suite 427
+East Matthewberg, FL 09881",Gabon,+262754167777,Samsung S24,1,Delivered,2022-02-26,2022-02-27
+114380,Angela Fernandez,angelafernandez@yahoo.com,49,"146 Shannon Alley Suite 866
+New Elizabethberg, IL 49942",Cote d'Ivoire,+61 89164780822768,Iphone 15 plus,1,Cancelled,2023-09-17,2023-09-19
+137448,Dean Rodriguez,deanrodriguez@yahoo.com,42,"Unit 7865 Box 4792
+DPO AA 82659",Georgia,+354710296915,Iphone 15 plus,1,Cancelled,2023-09-05,2023-09-07
+129144,Brenda Little,brendalittle@hotmail.com,30,"2998 Nicholas Loop Apt. 437
+Kurtshire, MI 64505",Reunion,+688727522515,Lenovo PC,3,Delivered,2023-01-24,2023-01-26
+119149,Jason Hawkins,jasonhawkins@yahoo.com,46,"4708 John Stream
+Contrerasside, KY 69914",Saint Helena,+881 7741674750,Iphone 14,3,Pending,2023-01-24,2023-01-27
+141631,Christopher Johnston,christopherjohnston@hotmail.com,29,"580 Christina Tunnel Apt. 457
+Ramirezshire, NY 15904",Saint Pierre and Miquelon,+227744052899,Iphone 14 pro,3,Cancelled,2024-06-21,2024-06-22
+114081,Brandon Jenkins,brandonjenkins@hotmail.com,66,"384 Neal Mountains Apt. 452
+Glassside, NH 24697",Martinique,+299719552965,Samsung S23+,2,Pending,2022-07-22,2022-07-25
+143918,Heidi Peterson,heidipeterson@hotmail.com,74,"328 Jeffrey Hill
+Port Michaelview, OK 32881",Cote d'Ivoire,+373705163921,Samsung S21,3,Pending,2022-05-18,2022-05-20
+129798,Francis Yang,francisyang@hotmail.com,27,"1939 Patton Fall Suite 640
+West Danielberg, NM 32632",Isle of Man,+677778342714,Iphone 13 pro,3,Delivered,2022-05-06,2022-05-10
+119978,Lisa Armstrong,lisaarmstrong@gmail.com,65,"0881 Johnson Garden Suite 804
+Hernandezmouth, WV 42507",Saint Helena,+878708570112,Iphone 12 mini,3,Delivered,2023-11-03,2023-11-07
+126169,Dylan Hamilton,dylanhamilton@gmail.com,26,"16053 Peterson Prairie Apt. 572
+Ballchester, PR 65821",Korea,+1753964289,Samsung S24,2,Delivered,2023-12-29,2023-12-30
+133420,Danielle Gray,daniellegray@yahoo.com,78,"554 Sherry Squares Apt. 535
+Lake Dennishaven, DE 91874",Poland,+963711514383,Iphone 12 mini,1,Delivered,2024-08-03,2024-08-04
+127387,Michael Collins,michaelcollins@gmail.com,80,"380 James Lodge
+South Joshua, AK 86007",Bolivia,+1 784788904589,Iphone 14 pro max,3,Cancelled,2022-01-09,2022-01-10
+139397,John Cooper,johncooper@gmail.com,44,"95862 Ashley Island
+East Dana, CA 23112",Oman,+977776455337,Samsung S22,1,Delivered,2022-06-25,2022-06-26
+129106,Ruth Pace,ruthpace@hotmail.com,62,"1712 James Springs
+North Stacey, AK 82438",Bangladesh,+968717760582,Iphone 12 pro,2,Cancelled,2022-01-31,2022-02-02
+122246,Joshua Alexander,joshuaalexander@hotmail.com,77,"8632 Ryan Canyon
+South Hunterside, ME 75632",Congo,+229767345689,Samsung S21,1,Pending,2024-08-11,2024-08-12
+144580,Eric Kelley,erickelley@outlook.com,29,"866 Edwards Junction
+East Melissa, NE 82588",Guinea-Bissau,+353796400132,PS5,1,Delivered,2024-05-17,2024-05-21
+137417,William Gutierrez,williamgutierrez@hotmail.com,24,"7700 Tabitha Row
+Joystad, MN 96558",Mayotte,+880746303871,PS4,2,Delivered,2023-05-23,2023-05-24
+113440,Debbie Cobb,debbiecobb@yahoo.com,55,"40997 Russell Islands
+Stephaniefort, AR 91026",Jersey,+992714227383,Iphone 12 pro,1,Pending,2022-03-26,2022-03-29
+110699,Isabella Flores,isabellaflores@outlook.com,63,"37229 Livingston Overpass Apt. 917
+Lake Randytown, CA 59230",Mayotte,+1 268747285431,Samsung S23+,3,Delivered,2024-08-18,2024-08-20
+122583,Susan Roberts,susanroberts@yahoo.com,26,"443 Salazar Vista
+New Tina, ND 71119",Peru,+1 787789976247,Iphone 12 pro max,2,Delivered,2022-09-08,2022-09-09
+127325,Yvonne Brewer,yvonnebrewer@outlook.com,65,"036 Whitney River
+Heidifurt, LA 82310",Czech Republic,+246716116254,PS4,1,Cancelled,2022-06-18,2022-06-21
+138020,Dan Lee,danlee@yahoo.com,59,"1353 Park Mills Suite 667
+Hicksmouth, FM 20137",Uganda,+1721839077,Samsung S24,3,Cancelled,2024-02-05,2024-02-07
+136218,Jason Crane,jasoncrane@gmail.com,24,"USNS Roberson
+FPO AA 45074",New Caledonia,+501709336257,Iphone 12 pro,2,Pending,2023-04-07,2023-04-08
+133153,Austin Cardenas,austincardenas@yahoo.com,49,"Unit 6194 Box 1746
+DPO AE 49039",Guadeloupe,+32754033761,Samsung S24+,3,Cancelled,2024-07-14,2024-07-17
+121719,Carol Keith,carolkeith@gmail.com,47,"43055 Raymond Place Apt. 816
+North Davidchester, CO 15367",French Guiana,+52730579014,PS5,1,Cancelled,2022-12-04,2022-12-06
+113818,Sandra Williams,sandrawilliams@gmail.com,74,"4430 Murphy Overpass
+Travisborough, AZ 14126",Comoros,+599 4768855070,Samsung S23 Ultra,2,Cancelled,2023-02-04,2023-02-08
+140808,Jennifer Mills,jennifermills@yahoo.com,73,"PSC 6428, Box 9658
+APO AE 71301",Chad,+54702208370,Samsung S22,1,Delivered,2024-08-11,2024-08-12
+110383,David Luna,davidluna@hotmail.com,59,"94854 Harold Lane
+West Kathleen, ND 30321",Italy,+7 6733609982,Iphone 12 pro max,3,Delivered,2022-07-11,2022-07-13
+112893,William Clark,williamclark@gmail.com,69,"Unit 4898 Box 1393
+DPO AA 29127",Malawi,+881 7752807199,Samsung S24,2,Cancelled,2024-02-06,2024-02-08
+119647,Latoya Johnson,latoyajohnson@hotmail.com,49,"8836 Alex Fields
+Owensville, ND 10689",Jamaica,+43776754696,Iphone 12,3,Delivered,2022-11-14,2022-11-18
+134955,George Arias,georgearias@gmail.com,52,"829 Grace Road Suite 901
+Port Kathryn, GU 85045",Cook Islands,+373776638180,Iphone 15 pro max,1,Cancelled,2022-10-04,2022-10-05
+123217,Mark Harris,markharris@yahoo.com,67,"80868 Jacqueline Canyon
+Port Christopherfurt, IL 09333",Madagascar,+962792366758,Iphone 14 pro,3,Pending,2022-12-20,2022-12-22
+114486,Alyssa Gonzalez,alyssagonzalez@outlook.com,74,"805 Santos Ville Suite 235
+Deniseview, KY 48315",Benin,+291757510505,Samsung S21,3,Delivered,2024-02-09,2024-02-11
+113884,David Fitzgerald,davidfitzgerald@yahoo.com,20,"6456 Roberts Fords
+Lake Alexanderhaven, GU 43012",Marshall Islands,+370782051085,PS5,2,Delivered,2023-05-27,2023-05-29
+144205,Daniel Hurst,danielhurst@outlook.com,34,"77065 Kevin Walk Suite 505
+Youngbury, GU 52987",Finland,+299773074642,Iphone 13,3,Delivered,2024-04-26,2024-04-28
+124379,James Johnson,jamesjohnson@yahoo.com,58,"706 Morgan Mountain
+South Shannon, VI 08078",Bulgaria,+1 849722046629,Iphone 13,2,Delivered,2023-06-15,2023-06-16
+136032,Pamela Rivera,pamelarivera@gmail.com,45,"170 Henry Place Apt. 929
+Johnborough, IL 87272",Hungary,+502729303175,Samsung S22,1,Delivered,2024-05-06,2024-05-09
+118230,David Pena,davidpena@gmail.com,69,"5501 Leslie Corner Apt. 854
+South Jessica, NV 97586",United Arab Emirates,+242783439494,Samsung S21+,1,Cancelled,2024-03-27,2024-03-31
+111586,John Garcia,johngarcia@gmail.com,68,"906 Victor Throughway Apt. 221
+North Wayne, ME 95754",Norfolk Island,+592798832278,Samsung S23 Ultra,1,Cancelled,2024-07-23,2024-07-27
+126938,William Thomas,williamthomas@hotmail.com,46,"350 Hansen Creek
+New Judithfurt, IA 96647",Djibouti,+351790620316,Iphone 12 pro,2,Pending,2022-10-24,2022-10-27
+121567,William Carpenter,williamcarpenter@yahoo.com,20,"104 Darlene Junctions Suite 317
+Andersonstad, CT 79646",Myanmar,+960798317147,Iphone 15 pro,3,Cancelled,2024-06-15,2024-06-17
+138388,Erica Smith,ericasmith@outlook.com,22,"PSC 3120, Box 9733
+APO AA 69491",Switzerland,+91759685295,Iphone 13 pro,2,Cancelled,2023-08-02,2023-08-04
+127227,Levi Jefferson,levijefferson@gmail.com,73,"8013 Robertson Coves
+Buckleyburgh, TN 28676",Australia,+979732508857,Iphone 12 pro max,3,Pending,2022-11-26,2022-11-28
+132162,Thomas Randall,thomasrandall@yahoo.com,43,"582 Fox Stravenue Apt. 117
+Eatonhaven, WI 86899",Belgium,+257754971553,Samsung S24 Ultra,2,Pending,2024-04-23,2024-04-25
+125280,Ronald Lewis,ronaldlewis@yahoo.com,80,"0976 David Cove Suite 133
+Harrisside, LA 05534",Belize,+31751604281,Iphone 15 plus,3,Pending,2024-02-19,2024-02-20
+135701,Lisa Green,lisagreen@gmail.com,54,"1911 King Lodge Suite 228
+West Steven, LA 27065",Israel,+996762712840,Samsung S24,1,Pending,2022-09-13,2022-09-16
+125266,Misty Burnett,mistyburnett@yahoo.com,59,"18002 Kenneth Manor
+Michaelview, NJ 11898",Samoa,+677745429785,Iphone 15 plus,1,Delivered,2024-05-18,2024-05-19
+119355,Zachary Miller,zacharymiller@outlook.com,53,"272 Scott Wells Suite 043
+Port Holly, AK 40042",Thailand,+82765371812,Iphone 14,1,Cancelled,2024-06-25,2024-06-27
+110261,Nancy Anderson,nancyanderson@hotmail.com,76,"PSC 0705, Box 8117
+APO AP 86681",Gabon,+691745336333,Samsung S22 Ultra,1,Delivered,2023-03-10,2023-03-14
+117091,Elizabeth Cantrell,elizabethcantrell@yahoo.com,69,"372 Tracy Spur Apt. 789
+Johnbury, WI 54498",Western Sahara,+7 7787311588,Iphone 15 plus,3,Pending,2022-10-27,2022-10-29
+111104,Gina Rivera,ginarivera@hotmail.com,64,"20731 Brittany Mall Apt. 885
+Lake Courtneyborough, HI 53504",Israel,+421708820800,Samsung S21,1,Delivered,2023-09-22,2023-09-25
+118602,Brittany Hartman,brittanyhartman@yahoo.com,46,"30052 Brian Plaza
+Karenhaven, CT 91939",Djibouti,+53758221904,Iphone 14,3,Pending,2023-09-21,2023-09-22
+144533,Joseph Harris,josephharris@outlook.com,27,"96109 Jean Locks Apt. 908
+Dianachester, AK 47988",Namibia,+299786158589,Samsung S24 Ultra,3,Cancelled,2023-06-19,2023-06-20
+110695,Brenda Francis,brendafrancis@outlook.com,56,"129 Zachary Ferry Suite 998
+Levimouth, AL 55475",Uzbekistan,+350799508963,Samsung S21,1,Delivered,2024-03-29,2024-04-01
+111576,Margaret Taylor,margarettaylor@outlook.com,23,"5287 Cooper Hills Suite 989
+Osborneville, MP 88104",Kuwait,+598795212478,Samsung S21+,1,Cancelled,2022-01-11,2022-01-12
+139896,Nicole Bailey,nicolebailey@yahoo.com,53,"47271 Dominique Plain Suite 161
+West Connieview, WI 51925",Finland,+254755874518,Lenovo PC,1,Delivered,2023-08-30,2023-08-31
+142650,Craig Johnson,craigjohnson@hotmail.com,78,"9467 Russell Mission
+Meyerhaven, PR 99036",Ghana,+971719274918,Samsung S24+,1,Pending,2022-09-25,2022-09-29
+133273,Alan Haynes,alanhaynes@gmail.com,41,"4748 Johnson Ramp Apt. 298
+Chelseyshire, HI 28167",Indonesia,+94774436152,Iphone 12 mini,2,Pending,2024-05-29,2024-05-31
+115358,Amanda Boyle,amandaboyle@yahoo.com,49,"95459 Blake Stravenue Apt. 146
+New Ericburgh, ME 08792",Vanuatu,+239794060915,Samsung S23+,3,Pending,2023-01-23,2023-01-24
+137693,Mr. Gregory Mathews,mr.gregorymathews@gmail.com,61,"0918 Sparks Ridges
+North Susanfurt, RI 41265",Saint Vincent and the Grenadines,+243704232400,Iphone 13 pro,3,Cancelled,2022-03-26,2022-03-30
+126638,Willie Butler,williebutler@outlook.com,65,"694 Berg Parkway Apt. 435
+Leeport, WA 19785",Rwanda,+1 869707648411,Iphone 12 pro max,1,Delivered,2023-06-21,2023-06-22
+117211,Crystal Hughes,crystalhughes@yahoo.com,78,"554 Acevedo Brooks
+Port Markburgh, AK 93752",China,+243743609324,Samsung S24 Ultra,3,Pending,2022-10-09,2022-10-10
+144248,Matthew Hill,matthewhill@outlook.com,32,"346 Adams Neck Apt. 406
+North Lindaborough, SC 95709",Ethiopia,+218772763673,Lenovo PC,3,Cancelled,2023-04-12,2023-04-13
+124847,Michael Reyes,michaelreyes@gmail.com,68,"18898 Timothy Forges Apt. 032
+Bryanburgh, MD 58350",Iceland,+973703636417,Iphone 13 pro,3,Cancelled,2022-03-17,2022-03-20
+143993,Tanya George,tanyageorge@hotmail.com,33,"8834 Snyder Forks Suite 882
+West Eric, WI 24227",Belarus,+992713105972,Lenovo PC,2,Delivered,2023-08-24,2023-08-27
+141151,Jordan Maynard,jordanmaynard@yahoo.com,62,"PSC 7728, Box 2218
+APO AA 61430",Mauritania,+47 79757484883,Iphone 14 pro max,1,Pending,2024-07-29,2024-07-31
+124405,Mary Blair,maryblair@yahoo.com,38,"370 Katrina Fords Suite 776
+Rebeccafurt, OK 12171",Cuba,+960733930721,Iphone 15 plus,3,Delivered,2023-11-17,2023-11-19
+139552,Rhonda Rodriguez,rhondarodriguez@hotmail.com,70,"707 Lewis Forge Suite 370
+West Johnberg, NM 06164",Mongolia,+881 1751013494,Iphone 13,1,Cancelled,2022-12-31,2023-01-01
+118953,Jason Golden,jasongolden@yahoo.com,62,"79263 David Via Apt. 088
+Daviesberg, FM 32828",Congo,+222788605615,Iphone 12 pro,2,Delivered,2024-06-24,2024-06-26
+136531,Derek Long,dereklong@outlook.com,79,"012 Johnson Rapid Suite 653
+Vasquezberg, RI 09907",Mayotte,+595734094976,Iphone 12 mini,1,Delivered,2023-11-12,2023-11-13
+116466,Jorge Stevens,jorgestevens@outlook.com,78,"152 Brian Stravenue Apt. 556
+North James, HI 71046",Cambodia,+223713049594,Iphone 12,3,Cancelled,2023-05-19,2023-05-21
+119812,Daniel Evans,danielevans@yahoo.com,70,"19434 Jennifer Well Apt. 446
+Johnborough, CO 20638",Papua New Guinea,+235796660761,Samsung S24 Ultra,2,Cancelled,2022-08-16,2022-08-18
+120360,Cheryl Bailey,cherylbailey@gmail.com,32,"969 Joshua Run
+South Paige, RI 77405",South Georgia and the South Sandwich Islands,+95721826650,Samsung S23+,3,Delivered,2023-11-29,2023-12-02
+137122,Joseph Dixon,josephdixon@hotmail.com,53,"028 Smith Rapid
+Kyleton, OK 85682",Dominica,+596701894781,Iphone 15 pro max,2,Cancelled,2023-02-18,2023-02-19
+142749,Michele Wang,michelewang@outlook.com,78,"205 Matthew Rest Suite 035
+Susanton, WA 10556",Guinea,+27700763245,Iphone 15 plus,3,Cancelled,2023-08-02,2023-08-03
+112996,Barbara Carr,barbaracarr@yahoo.com,61,"8431 Cheryl Circle Suite 395
+Theresaburgh, OR 63219",Saint Martin,+674749870550,Samsung S24,1,Cancelled,2022-11-12,2022-11-13
+119805,Kimberly Williams,kimberlywilliams@outlook.com,62,"9242 Kenneth Lodge
+New Jasmineburgh, IA 23630",United States of America,+679769951546,Iphone 14 pro,1,Cancelled,2022-12-31,2023-01-03
+112715,Michelle Underwood,michelleunderwood@outlook.com,62,"72996 Richard Passage
+Colemanton, WI 08868",Japan,+228761520112,Iphone 12,2,Delivered,2024-01-08,2024-01-10
+141256,Cynthia Schmidt,cynthiaschmidt@hotmail.com,63,"49497 Erin Lights
+Lake Markbury, MD 04392",Estonia,+248769045973,Iphone 13,3,Pending,2023-04-27,2023-05-01
+140366,William Boyd,williamboyd@hotmail.com,43,"8739 Ryan Causeway
+Danieltown, TX 94122",United States of America,+972786082790,Samsung S23+,2,Pending,2022-04-04,2022-04-07
+133818,Jim Williams,jimwilliams@gmail.com,30,"88044 Wendy Drives
+East Robertville, LA 79912",United States Virgin Islands,+33764630168,Samsung S22,1,Cancelled,2022-09-30,2022-10-04
+132679,William Hernandez,williamhernandez@outlook.com,41,"677 Laura Common Apt. 548
+Emilystad, NY 50753",Zambia,+64744011735,Samsung S21,2,Delivered,2022-11-01,2022-11-02
+143523,Bonnie Booth,bonniebooth@yahoo.com,34,"68493 Cruz Garden Apt. 775
+Deleonchester, MT 14429",Somalia,+678704234589,Iphone 14 pro max,2,Pending,2022-09-13,2022-09-15
+139822,Betty Jackson,bettyjackson@outlook.com,31,"038 Ruth Shore
+East Roberttown, WI 50555",Madagascar,+683728236082,Samsung S24 Ultra,1,Cancelled,2023-04-09,2023-04-10
+135240,Larry Woods,larrywoods@hotmail.com,68,"1098 Gomez Garden Apt. 662
+South Dana, HI 02811",Uganda,+291792061859,Iphone 15 plus,3,Delivered,2022-02-03,2022-02-05
+139588,Dylan Butler,dylanbutler@outlook.com,38,"5438 Jenkins Lock Apt. 311
+Fernandezburgh, OK 12675",Uzbekistan,+881 6728127159,Samsung S24,2,Pending,2023-10-11,2023-10-14
+110364,Brian Wiley,brianwiley@yahoo.com,42,"8448 Robert Fields Suite 433
+Angelfurt, MP 10946",Hungary,+223739090698,Iphone 15 plus,1,Cancelled,2023-08-15,2023-08-18
+125603,Crystal Smith,crystalsmith@yahoo.com,63,"6841 Ricardo Tunnel Apt. 813
+Lindaville, LA 47630",Ecuador,+84785238775,Samsung S22,1,Delivered,2022-12-22,2022-12-26
+133513,Danny Ellis MD,dannyellismd@hotmail.com,46,"098 Smith Trace Suite 122
+Scottburgh, IL 42621",Australia,+211721991310,Iphone 13 pro,3,Delivered,2022-03-01,2022-03-03
+119973,Stephanie Werner,stephaniewerner@hotmail.com,40,"20467 John Circle
+South Charlesborough, SD 28438",Honduras,+7 7745929033,Iphone 13 pro,2,Cancelled,2023-02-02,2023-02-03
+124957,Joseph Doyle,josephdoyle@outlook.com,46,"0533 James Isle
+Phillipstad, HI 10466",Ukraine,+62793443661,Iphone 14 pro max,2,Delivered,2022-04-30,2022-05-01
+131871,James Beltran,jamesbeltran@outlook.com,26,"269 Mccall View Apt. 775
+Port Jeffrey, WV 34355",Gabon,+506787812422,Iphone 15 pro,1,Delivered,2024-04-27,2024-04-28
+132814,Shannon Wilkerson,shannonwilkerson@outlook.com,75,"44093 Doyle Green Apt. 444
+Port Cynthia, MA 01753",Western Sahara,+505754321907,Iphone 15 pro max,3,Delivered,2022-10-19,2022-10-23
+115741,Shelby Grant,shelbygrant@gmail.com,65,"1622 Jon Fork
+Lake Brianhaven, MS 92751",Libyan Arab Jamahiriya,+977705433263,PS4,3,Delivered,2022-08-04,2022-08-08
+129384,Courtney Johnson,courtneyjohnson@hotmail.com,76,"074 William Lock
+Allisonmouth, NH 14778",Palau,+231764152549,Lenovo PC,2,Cancelled,2022-01-05,2022-01-07
+119951,Eric Roberts PhD,ericrobertsphd@gmail.com,42,"674 Gonzales Dale
+West Dustinberg, FM 74867",Cyprus,+1 809783865014,Samsung S22 Ultra,3,Cancelled,2022-07-31,2022-08-03
+119425,Christopher Herrera,christopherherrera@outlook.com,33,"97667 Harold Locks Apt. 102
+New Sarahchester, FM 85299",Ghana,+52742272996,Lenovo PC,3,Delivered,2022-06-24,2022-06-25
+124734,Christopher Boyle,christopherboyle@hotmail.com,80,"008 Gabrielle Meadows
+New Pamelaborough, MS 27906",Micronesia,+503796123903,Iphone 15,1,Delivered,2024-01-15,2024-01-18
+116446,Jeffrey Flores,jeffreyflores@hotmail.com,54,"1996 David Tunnel
+West Jaredview, NC 92389",Cayman Islands,+386717209587,Iphone 14 pro max,2,Pending,2023-02-02,2023-02-03
+122080,Rachel Harrell,rachelharrell@gmail.com,61,"PSC 5045, Box 4387
+APO AP 33854",Mozambique,+965711410122,Iphone 15 pro,3,Cancelled,2022-07-06,2022-07-08
+124405,Brandon Hunter,brandonhunter@yahoo.com,71,"662 Jeffrey Via
+Port Laurenhaven, CA 73693",Saint Vincent and the Grenadines,+881 9795214319,PS4,2,Pending,2022-06-28,2022-07-01
+116330,Mrs. Amber Waller,mrs.amberwaller@hotmail.com,64,"49955 Kramer Shoals
+East Sarah, UT 71574",Jordan,+61 89162714449630,Lenovo PC,3,Pending,2024-06-03,2024-06-05
+129226,Johnny Chaney,johnnychaney@gmail.com,73,"6986 Taylor Mall Apt. 445
+New Christopherstad, PA 35627",Kazakhstan,+593709615639,Lenovo PC,2,Delivered,2024-05-13,2024-05-14
+139847,Maria Reynolds,mariareynolds@yahoo.com,62,"8399 West Roads Suite 627
+Darrenville, AL 23642",Uganda,+93702035352,PS4,3,Cancelled,2023-08-31,2023-09-03
+142600,Mrs. Jessica Mckenzie PhD,mrs.jessicamckenziephd@yahoo.com,63,"0797 Brandi Mission
+New Elizabethchester, ND 97454",Senegal,+47725416676,Iphone 12,3,Delivered,2023-10-19,2023-10-23
+137435,Angela Hernandez,angelahernandez@yahoo.com,38,"177 Spencer Rest Apt. 619
+Woodburgh, AR 13125",Cuba,+246711278735,Samsung S24+,3,Cancelled,2023-06-27,2023-06-30
+115668,Megan King,meganking@yahoo.com,60,"886 Christopher Road Suite 025
+Cherylmouth, FL 56949",South Georgia and the South Sandwich Islands,+423765509975,Iphone 15,3,Pending,2024-07-19,2024-07-22
+143507,Christopher Alexander,christopheralexander@hotmail.com,44,"57208 Clark Trail
+South Jasminetown, OK 79793",Isle of Man,+48711438928,PS5,1,Delivered,2022-10-07,2022-10-09
+112334,John Benson,johnbenson@yahoo.com,25,"347 Rivers Trail
+Brownmouth, MI 19981",Uruguay,+686753928074,Samsung S24,1,Pending,2022-02-07,2022-02-10
+135721,Sarah Harris,sarahharris@gmail.com,62,"PSC 9458, Box 4194
+APO AE 59768",Vanuatu,+229794515675,Iphone 15,1,Cancelled,2024-08-23,2024-08-24
+116221,Daniel Turner,danielturner@yahoo.com,23,"819 Taylor Ridge Apt. 237
+Haynesview, KY 91664",Macao,+358 18702440549,PS4,3,Delivered,2022-01-21,2022-01-23
+118868,Jennifer Alvarez,jenniferalvarez@gmail.com,73,"7843 Hernandez Avenue
+East Kathrynborough, MS 09462",Sudan,+373 2715348539,Samsung S22 Ultra,1,Cancelled,2024-02-18,2024-02-20
+144943,John Davis,johndavis@hotmail.com,56,"168 Ashley Court Suite 634
+South Davidchester, IL 63481",Jamaica,+1720895204,Samsung S22,3,Delivered,2022-02-13,2022-02-16
+128372,Elizabeth Clark,elizabethclark@gmail.com,64,"815 Day Dale Apt. 571
+North Amyside, DE 46952",El Salvador,+690756279431,PS4,2,Pending,2024-04-16,2024-04-18
+123778,Paula Santos,paulasantos@gmail.com,31,"26458 Allen Avenue
+Lake Christopherborough, ME 02308",Pitcairn Islands,+225769037383,Iphone 12 pro max,3,Pending,2023-03-14,2023-03-16
+133587,Daniel Miller,danielmiller@yahoo.com,27,"195 Clark Estates
+Gonzalestown, NH 99438",Guernsey,+48741650993,Iphone 15 plus,3,Delivered,2023-05-19,2023-05-22
+143356,Austin Salinas,austinsalinas@yahoo.com,31,"999 Beck Locks Apt. 609
+West Joseph, NY 86413",Isle of Man,+39 06 698751881998,Iphone 14 pro max,1,Pending,2022-02-01,2022-02-03
+141779,Mr. Jared Oliver,mr.jaredoliver@hotmail.com,28,"61390 Allen Meadows Suite 535
+Haroldfort, RI 53063",Dominica,+374 47704468211,Iphone 12 mini,2,Delivered,2022-11-18,2022-11-21
+123817,Kyle Ingram,kyleingram@gmail.com,64,"55081 Maria Cliff
+Port Josephfurt, NM 64410",Ukraine,+356728269364,Iphone 13,1,Cancelled,2022-01-30,2022-02-02
+126846,Bill Medina,billmedina@gmail.com,62,"PSC 4663, Box 9858
+APO AE 73817",Wallis and Futuna,+967701952953,Samsung S24,1,Delivered,2022-10-15,2022-10-19
+118403,Christopher Porter,christopherporter@yahoo.com,54,"07079 Valencia Alley
+Benjamintown, UT 63838",Nepal,+681744633221,Iphone 15 pro max,1,Cancelled,2022-01-21,2022-01-25
+112049,Mathew Cole,mathewcole@yahoo.com,65,"88862 Patricia Place
+Raymondshire, IL 20934",Maldives,+996758840075,Samsung S21+,2,Delivered,2023-01-17,2023-01-18
+119768,Jacob Dunn,jacobdunn@yahoo.com,33,"20865 Scott Locks
+Morganside, CA 09130",Kiribati,+63789833838,Iphone 13 pro,3,Delivered,2024-06-20,2024-06-23
+135987,Brian Glover,brianglover@yahoo.com,64,"15493 Debra Stravenue
+East Christopher, MA 03823",Somalia,+235746848217,Iphone 14 pro,3,Cancelled,2022-02-24,2022-02-26
+142784,Lori Clark,loriclark@gmail.com,71,"56971 Sellers Port
+East Darlene, TX 28878",Taiwan,+44 7781766048462,Iphone 13 pro,1,Cancelled,2022-10-26,2022-10-29
+111881,Shirley Higgins,shirleyhiggins@outlook.com,25,"45233 Nicholas Lights Suite 145
+Lake Charles, VA 35541",Timor-Leste,+421722780489,Iphone 13,1,Cancelled,2022-08-06,2022-08-09
+111555,Kari Carter,karicarter@gmail.com,72,"25492 Johnson Mountain
+Morganchester, TX 45193",Saint Pierre and Miquelon,+1 441729809179,Iphone 15 pro max,3,Pending,2024-01-19,2024-01-21
+136390,Erica Hernandez,ericahernandez@gmail.com,22,"69522 Robert Court Suite 322
+New Jeremyside, AL 40530",Madagascar,+977785026167,Iphone 12 pro,1,Cancelled,2024-05-15,2024-05-16
+120681,Theresa Hutchinson,theresahutchinson@yahoo.com,67,"7679 Michelle Valley
+East Frankfort, FL 79562",Macao,+30757051098,PS4,3,Pending,2024-05-10,2024-05-14
+120463,Lisa Caldwell,lisacaldwell@hotmail.com,39,"79346 Davidson Mountain Apt. 070
+Gallagherton, RI 04286",Belize,+881 0737138896,Samsung S23+,3,Cancelled,2022-05-07,2022-05-11
+126862,Mr. James Long MD,mr.jameslongmd@gmail.com,20,"12187 Kenneth Motorway
+Port Rebecca, AK 34603",Argentina,+376761893989,Samsung S24,3,Cancelled,2023-04-08,2023-04-09
+130345,Christopher Brown,christopherbrown@yahoo.com,70,"2159 Bryant Avenue Apt. 949
+Lake Jorge, AL 33481",Bahrain,+995738876629,Iphone 12,3,Pending,2022-11-13,2022-11-17
+139574,Juan Brown,juanbrown@yahoo.com,71,"972 Campbell Summit
+Wilkinstown, NM 32441",Liechtenstein,+593745426355,Iphone 12 pro,3,Cancelled,2022-07-25,2022-07-26
+114665,Mr. John Mullins,mr.johnmullins@gmail.com,42,"3396 Daniels Spurs
+Johnsonmouth, AK 61617",Grenada,+64718427164,Iphone 12 pro max,2,Pending,2024-08-10,2024-08-12
+144088,Shelby Roy,shelbyroy@gmail.com,27,"USNV Morgan
+FPO AA 12023",New Zealand,+261722090082,Iphone 14,2,Cancelled,2024-02-13,2024-02-17
+127163,David Sullivan,davidsullivan@gmail.com,25,"5038 Pamela Haven
+New Michael, NE 91924",Tonga,+241796871642,Iphone 15 pro,3,Pending,2024-04-25,2024-04-27
+116803,Justin Mccarthy,justinmccarthy@yahoo.com,38,"092 Perry Throughway Apt. 114
+Westmouth, AL 47416",Slovakia (Slovak Republic),+82762345027,Iphone 14 pro max,3,Delivered,2024-02-15,2024-02-17
+114309,Justin Schmidt,justinschmidt@outlook.com,26,"1029 Hansen Ranch Suite 219
+East Brandyshire, PR 17144",Guadeloupe,+262 269796231222,Samsung S21,3,Delivered,2022-08-23,2022-08-26
+127377,William Spencer,williamspencer@yahoo.com,51,"275 Savannah Walk
+New Kristinmouth, CO 73998",Morocco,+1 268782474066,Iphone 12,2,Pending,2023-10-30,2023-11-03
+133331,Brianna Castaneda,briannacastaneda@hotmail.com,33,"570 Edwards Lock Apt. 694
+New Edward, MH 08751",United States Virgin Islands,+1 246773392552,Iphone 13,1,Cancelled,2023-11-03,2023-11-04
+120995,Chad Hunt,chadhunt@gmail.com,55,"3829 Hall Roads
+Sharonfort, MN 25713",Kuwait,+372728191207,Samsung S22,3,Cancelled,2022-11-27,2022-11-28
+144951,Ashley Underwood,ashleyunderwood@hotmail.com,40,"561 Caroline Route
+New Garyhaven, LA 70672",Tokelau,+44 7781788116852,Samsung S24 Ultra,2,Pending,2022-05-19,2022-05-23
+126148,Rachel Monroe,rachelmonroe@outlook.com,37,"Unit 8047 Box 8789
+DPO AP 59760",Timor-Leste,+226755025840,Iphone 14 pro,1,Delivered,2023-07-21,2023-07-23
+116606,Todd Herman,toddherman@yahoo.com,36,"49986 Michael Crest
+South Adam, ND 90168",Maldives,+61 89162770123537,Iphone 15 plus,2,Pending,2024-05-15,2024-05-17
+122103,Sandra Hinton,sandrahinton@outlook.com,52,"008 Stacey Station Apt. 155
+Samuelmouth, ID 24669",South Africa,+592744728971,Iphone 15 plus,1,Pending,2024-05-24,2024-05-27
+126649,Bonnie Mahoney,bonniemahoney@yahoo.com,45,"098 Edward Curve
+West Mary, NE 69943",Saint Kitts and Nevis,+243791391106,Iphone 15,3,Cancelled,2024-06-10,2024-06-11
+135935,Jennifer Wilson,jenniferwilson@outlook.com,35,"590 Michael Mall
+East Timothy, NC 96375",El Salvador,+375709462349,Samsung S23+,3,Pending,2022-05-22,2022-05-26
+144405,Terry Brooks,terrybrooks@gmail.com,64,"Unit 5674 Box 8309
+DPO AP 09691",Falkland Islands (Malvinas),+1 784728354754,Samsung S21+,3,Pending,2023-07-17,2023-07-20
+123074,Barbara Miller,barbaramiller@yahoo.com,24,"PSC 7391, Box 2832
+APO AP 99801",Comoros,+1 649701232173,Samsung S22 Ultra,3,Pending,2022-10-21,2022-10-25
+135969,Barbara Wilson,barbarawilson@outlook.com,40,"746 Alvarez Crescent
+Kramerview, NM 03331",Timor-Leste,+594788100629,Samsung S22 Ultra,3,Cancelled,2022-10-26,2022-10-30
+111823,Eugene Boyd,eugeneboyd@yahoo.com,63,"26443 Franco Parkway
+South Christianton, VT 55756",Taiwan,+52777712239,Samsung S21,2,Cancelled,2024-06-11,2024-06-12
+111988,Vincent Jones,vincentjones@hotmail.com,47,"57054 Alexander Hills
+Martinezberg, MO 39910",Iraq,+358 18762401160,Samsung S24+,2,Pending,2023-10-31,2023-11-03
+128015,Megan Gardner,megangardner@yahoo.com,76,"80717 Riley Forks
+Perryside, GU 79409",Tajikistan,+225744092423,Iphone 12 mini,1,Cancelled,2022-09-20,2022-09-23
+114241,Alexander Hill,alexanderhill@outlook.com,76,"5492 Alice Club
+West Brenda, VI 77905",Kiribati,+46729150910,Iphone 12 pro max,2,Cancelled,2022-06-25,2022-06-26
+124372,Jamie Ellis,jamieellis@yahoo.com,69,"207 Grant Junctions
+South Jamieborough, VA 52390",Armenia,+680748696498,Iphone 15 pro max,3,Pending,2023-10-15,2023-10-19
+123122,Derrick Weber,derrickweber@outlook.com,25,"5582 Garcia Crest
+Hendersonfort, MT 98663",Mauritania,+597730776907,Iphone 14,1,Cancelled,2022-08-12,2022-08-14
+121968,Jennifer Evans,jenniferevans@yahoo.com,40,"88821 Louis Shore
+Fredshire, DC 90652",Afghanistan,+598750765617,PS5,3,Cancelled,2024-01-06,2024-01-08
+144010,Cody Carr,codycarr@hotmail.com,29,"3677 Cesar Stravenue
+Calvinmouth, IN 21714",Argentina,+674743285324,Iphone 12 pro,2,Cancelled,2023-04-13,2023-04-17
+115676,Thomas Gibbs,thomasgibbs@gmail.com,80,"3424 Paul Plains
+South Elijahfurt, WV 07289",South Georgia and the South Sandwich Islands,+1 849749119807,Iphone 15,3,Cancelled,2023-12-20,2023-12-23
+128857,Tammy Key,tammykey@hotmail.com,47,"56400 Cheryl Camp Apt. 340
+Stephanieton, AS 58124",Burkina Faso,+594720891561,Iphone 14 pro,1,Delivered,2022-06-22,2022-06-26
+135748,Joseph Neal,josephneal@yahoo.com,53,"820 Johnson Field
+Zacharybury, MI 39289",Cameroon,+681701623388,Samsung S22,1,Pending,2024-04-09,2024-04-13
+122245,Jose House,josehouse@hotmail.com,45,"24285 Horton Points Apt. 776
+North Debbie, ID 83569",South Georgia and the South Sandwich Islands,+994791867779,PS4,3,Cancelled,2022-03-03,2022-03-06
+142117,David Castro,davidcastro@hotmail.com,55,"92498 Betty Ridge Suite 170
+Savannahbury, MA 63512",Heard Island and McDonald Islands,+235746355596,Samsung S22,3,Delivered,2024-07-14,2024-07-15
+142374,Marc Mejia,marcmejia@hotmail.com,48,"5947 Katherine Green
+Jasmineport, MI 32513",South Africa,+63749782019,Iphone 12 mini,1,Cancelled,2022-09-04,2022-09-06
+112256,Justin Perkins,justinperkins@outlook.com,39,"5401 John Parks
+West Douglas, MA 61209",Sri Lanka,+211726958509,Iphone 14 pro,1,Delivered,2024-08-05,2024-08-06
+129609,David Yates,davidyates@outlook.com,61,"93955 Richard Crest Apt. 927
+Harrisshire, ME 00528",Lithuania,+1 268744974427,Iphone 15 pro,3,Delivered,2023-04-13,2023-04-16
+134052,Mandy Jones,mandyjones@hotmail.com,26,"2340 Patricia Ranch Suite 931
+New Douglaston, VI 71797",British Virgin Islands,+27789702128,Iphone 12 pro,3,Pending,2024-05-27,2024-05-28
+113503,Veronica Russell,veronicarussell@yahoo.com,47,"38110 Kimberly Forest
+West Rodney, AZ 54493",Morocco,+883712436964,Samsung S22 Ultra,2,Cancelled,2022-01-28,2022-01-29
+144463,Frances Humphrey,franceshumphrey@hotmail.com,48,"09161 Kelly Rapid
+Port Christophermouth, NC 85436",Saudi Arabia,+1 264784671175,Iphone 12 pro,3,Delivered,2022-02-24,2022-02-26
+130507,Monica Galloway,monicagalloway@outlook.com,67,"USNV Martinez
+FPO AE 80968",Switzerland,+500729474657,Iphone 12 pro max,1,Pending,2022-09-08,2022-09-12
+144042,Brad Johnson,bradjohnson@hotmail.com,64,"18055 Hess Ranch
+North Josephbury, DC 38454",Costa Rica,+351792933545,Iphone 15,2,Pending,2022-08-03,2022-08-05
+117028,Brenda Duffy,brendaduffy@yahoo.com,36,"848 Christian Estates
+South Katherine, IN 51599",United States Virgin Islands,+356797986080,Samsung S22 Ultra,1,Pending,2022-12-02,2022-12-04
+121119,Wanda Malone,wandamalone@gmail.com,33,"2533 Patrick Wall
+Millershire, PR 09892",Guadeloupe,+1 284798525900,Iphone 12,2,Pending,2023-11-17,2023-11-20
+118923,Jeffery Guzman,jefferyguzman@hotmail.com,54,"2776 Munoz Corners Suite 764
+Smithhaven, RI 37487",Barbados,+375739656445,Iphone 14 pro max,2,Cancelled,2024-05-27,2024-05-28
+118823,Larry Johnson,larryjohnson@yahoo.com,70,"142 Flynn Highway Suite 533
+South Robyn, VI 30000",Vietnam,+971706211746,Iphone 12,2,Pending,2024-08-25,2024-08-27
+141453,Kendra Riley,kendrariley@hotmail.com,71,"3711 Barrett Motorway
+Lake Elizabethchester, GA 15922",Holy See (Vatican City State),+994709270033,Samsung S24+,1,Pending,2024-05-08,2024-05-10
+121153,William Andersen,williamandersen@yahoo.com,72,"02981 Murillo Stream
+Pattersontown, MI 80588",Slovenia,+261703776864,Iphone 15 pro,3,Delivered,2024-07-06,2024-07-07
+119635,Kirk Marsh,kirkmarsh@hotmail.com,36,"4335 Patterson Stream
+Port Scott, ME 18933",Oman,+870749114602,Iphone 13,1,Delivered,2022-12-12,2022-12-15
+121129,Amber Craig,ambercraig@yahoo.com,75,"6819 Taylor Courts Suite 762
+New Jeremyview, OH 17690",Isle of Man,+1 664714115625,Samsung S21+,3,Delivered,2022-06-29,2022-07-03
+137937,Lawrence Mitchell,lawrencemitchell@outlook.com,25,"478 Long Fork
+Port Melinda, NE 26124",Serbia,+423791262865,Samsung S21,3,Cancelled,2022-09-05,2022-09-08
+113585,Deanna Moore,deannamoore@hotmail.com,54,"9126 Micheal Brooks
+West Sarah, AR 67751",Uzbekistan,+264760578555,Samsung S24 Ultra,3,Delivered,2022-02-15,2022-02-16
+110579,Keith Hall,keithhall@gmail.com,76,"Unit 0977 Box 4839
+DPO AA 79660",Sudan,+20720767458,Iphone 15 pro,1,Cancelled,2022-10-27,2022-10-31
+118566,Andrea Ellis,andreaellis@outlook.com,40,"391 Stevens Track Apt. 391
+Jonathanville, TX 13565",China,+253738585922,Iphone 12 pro,1,Delivered,2022-07-14,2022-07-17
+114230,Brenda Rosales,brendarosales@hotmail.com,49,"7685 Woods Centers Suite 067
+Steveland, ID 89463",Moldova,+1 869757991009,Samsung S24+,1,Cancelled,2023-07-18,2023-07-22
+126693,Gregory Carter,gregorycarter@hotmail.com,28,"0384 Stevens Loaf Suite 709
+Port Karen, GU 39231",Puerto Rico,+242769663216,Lenovo PC,1,Delivered,2022-01-15,2022-01-19
+139441,Jessica Woods,jessicawoods@outlook.com,35,"81908 Erica Walk
+Whiteside, AZ 97055",Martinique,+508768086586,Iphone 12 mini,1,Delivered,2024-02-16,2024-02-17
+135022,Kimberly Griffith,kimberlygriffith@outlook.com,70,"9510 Haley Tunnel
+Jamesmouth, PW 77068",Saudi Arabia,+380776690853,Iphone 14 pro max,2,Delivered,2023-09-21,2023-09-22
+112307,Danielle Fleming,daniellefleming@yahoo.com,41,"667 Kimberly Mission Apt. 449
+Brianport, IN 74738",Andorra,+262 269782994489,Samsung S23+,3,Cancelled,2022-03-04,2022-03-05
+124537,Richard Gonzalez,richardgonzalez@outlook.com,62,"426 Morgan Skyway Apt. 744
+Cartermouth, NJ 87728",Turks and Caicos Islands,+968760623474,Samsung S21+,3,Cancelled,2024-04-14,2024-04-15
+123628,Steven Sandoval,stevensandoval@yahoo.com,66,"435 Jeffrey Lake
+Lake Brianna, IN 41145",Canada,+231743560441,Iphone 15 pro max,2,Delivered,2024-04-09,2024-04-11
+133409,Kathleen Garcia,kathleengarcia@outlook.com,24,"40664 King Mountains
+North Sarahmouth, NE 48727",Papua New Guinea,+224746432344,Iphone 14,3,Delivered,2024-01-17,2024-01-20
+140022,Felicia Roberts,feliciaroberts@gmail.com,20,"727 Katie Hollow Apt. 120
+South Sean, LA 51253",Japan,+674769546740,Iphone 12 mini,3,Cancelled,2022-10-04,2022-10-08
+119418,Lisa Guzman,lisaguzman@hotmail.com,23,"2733 Sandra Harbors
+New Joannabury, FL 92010",Equatorial Guinea,+962757906045,Samsung S22 Ultra,3,Delivered,2024-06-21,2024-06-24
+128485,Ryan Williamson,ryanwilliamson@outlook.com,26,"8516 Jonathan Lights
+Lake Christopher, HI 23534",Luxembourg,+373 2705604218,Samsung S23+,3,Pending,2023-10-23,2023-10-26
+118116,Joanne Walker,joannewalker@yahoo.com,24,"76852 Jennifer Highway Apt. 735
+South Rebeccachester, SD 82111",Puerto Rico,+1 809746774758,Iphone 12 pro,2,Pending,2022-01-24,2022-01-27
+132329,Ashley Brewer,ashleybrewer@hotmail.com,22,"2242 Stephanie Crest
+West Joshuaberg, VA 33939",Cayman Islands,+881 2717057559,Samsung S22,1,Cancelled,2022-10-12,2022-10-16
+134437,Susan Barnes,susanbarnes@outlook.com,63,"783 Ross Lake Suite 360
+Lake Seanhaven, IL 14654",Puerto Rico,+960787792887,Iphone 14 pro,3,Delivered,2022-02-13,2022-02-14
+128736,Matthew Smith,matthewsmith@yahoo.com,35,"04258 Thompson Branch Suite 176
+South James, AZ 13505",Burundi,+1756598202,Samsung S23+,2,Delivered,2022-09-28,2022-10-02
+114969,Lisa Sullivan,lisasullivan@yahoo.com,45,"6216 Moore Lakes
+East Heathershire, DE 37823",Georgia,+1 758773057138,Iphone 12 mini,2,Pending,2022-09-07,2022-09-11
+131131,Mark Adams,markadams@hotmail.com,24,"464 Lisa Ville Suite 951
+North Taratown, IA 42315",Zimbabwe,+255797520855,Samsung S23 Ultra,2,Cancelled,2023-11-19,2023-11-20
+140144,Daniel Aguirre,danielaguirre@outlook.com,45,"01190 Johnson Cliffs
+South Patricia, AS 27978",Trinidad and Tobago,+353792368055,PS5,1,Cancelled,2022-07-29,2022-08-01
+119974,Mary Thomas,marythomas@yahoo.com,41,"3995 Wall Ville Suite 914
+West Jamesport, MN 72929",Albania,+44 7524765025870,Samsung S22 Ultra,2,Pending,2023-09-15,2023-09-19
+125488,Amanda Romero,amandaromero@hotmail.com,63,"22766 Duran Light Apt. 704
+Kathrynhaven, DE 16380",Liechtenstein,+374763843411,Iphone 12,3,Pending,2022-01-29,2022-02-01
+111454,Ronnie Knapp,ronnieknapp@yahoo.com,71,"18243 Dixon Ridges
+North Patricia, MD 12725",Bosnia and Herzegovina,+687739238810,Iphone 12 pro,1,Delivered,2023-09-10,2023-09-14
+141184,Brianna Reeves,briannareeves@yahoo.com,50,"914 Bradley Forest
+Mistymouth, CT 15376",Armenia,+57771266324,Iphone 15,3,Cancelled,2022-08-29,2022-09-02
+118728,Caitlin Smith,caitlinsmith@outlook.com,62,"Unit 5147 Box 6191
+DPO AP 59204",Korea,+1 849700358234,Iphone 13 pro,2,Cancelled,2023-05-06,2023-05-08
+113950,Richard Bell,richardbell@outlook.com,51,"1660 Steven Neck
+Port Michael, PA 93328",Ukraine,+870727901125,Iphone 14,1,Pending,2023-08-09,2023-08-12
+119771,John Andrews,johnandrews@outlook.com,69,"0402 Collins Islands
+North David, PA 98265",Azerbaijan,+855777483948,Iphone 15 plus,2,Pending,2022-12-15,2022-12-18
+130411,Christopher Berry,christopherberry@gmail.com,28,"2507 Oscar Key
+Lake Amanda, CT 89868",Bhutan,+263772147139,Samsung S22,1,Delivered,2023-08-01,2023-08-03
+123812,Paul Garza,paulgarza@hotmail.com,78,"4821 Martinez Inlet
+Wendyberg, GA 83221",Oman,+597784282701,Samsung S24+,2,Cancelled,2024-04-10,2024-04-13
+131130,Ryan Griffin,ryangriffin@hotmail.com,43,"8286 Jonathan Extensions Apt. 403
+East Kristinburgh, SD 68090",French Southern Territories,+213753855644,Samsung S22,2,Pending,2023-08-29,2023-08-31
+113457,Melvin Brown,melvinbrown@hotmail.com,53,"4301 Michelle Causeway
+Port Christophermouth, NC 49072",Armenia,+351738114851,Iphone 15,3,Pending,2023-03-18,2023-03-21
+140294,Mr. Dustin Jones,mr.dustinjones@yahoo.com,77,"081 Alexa Rest
+Johnstonland, MT 66587",Macao,+377708915404,Iphone 14 pro max,3,Delivered,2022-07-30,2022-07-31
+141659,Alexander Hendricks,alexanderhendricks@hotmail.com,66,"61246 Matthews Hill
+Leblancfurt, DC 98789",Bolivia,+20736074217,Iphone 15 pro,1,Delivered,2023-10-19,2023-10-22
+114168,Brian Harris,brianharris@outlook.com,52,"21537 Paula Branch
+Swansonville, MA 29110",Saint Helena,+420738158059,Iphone 15 pro,3,Cancelled,2022-04-17,2022-04-18
+131000,Rose Santiago,rosesantiago@outlook.com,25,"2137 Patrick Fields
+Martinezfurt, MN 24002",Oman,+382736146867,Iphone 15 pro,2,Delivered,2024-02-26,2024-02-29
+131068,Christopher Howard,christopherhoward@outlook.com,60,"46922 Jennifer Park
+Paulmouth, MS 16424",Cocos (Keeling) Islands,+265766167382,Iphone 14 pro,3,Delivered,2023-05-25,2023-05-28
+126051,Andrea Jones,andreajones@yahoo.com,35,"PSC 8773, Box 4803
+APO AP 37346",Switzerland,+47719952369,Samsung S23 Ultra,1,Pending,2024-07-24,2024-07-26
+124466,Joanne Andrews,joanneandrews@yahoo.com,51,"245 Lopez Divide Suite 321
+Port Jonathon, FM 52178",Saint Helena,+54727102847,Samsung S24,3,Cancelled,2022-08-26,2022-08-27
+130609,Scott Clark,scottclark@yahoo.com,80,"05014 Christopher Estates
+South Lisastad, NJ 94805",Antigua and Barbuda,+677738065867,Iphone 15 pro max,3,Pending,2023-06-08,2023-06-11
+144186,Brianna Clarke,briannaclarke@hotmail.com,59,"65032 Boyd Extension
+South Annetteton, MN 34709",Netherlands Antilles,+358 18730249643,Iphone 14 pro,3,Pending,2024-06-19,2024-06-20
+141504,Lori Ortiz,loriortiz@gmail.com,28,"790 Thomas Mills
+Fullermouth, FM 04115",Sao Tome and Principe,+61781644410,Iphone 15,3,Pending,2024-03-30,2024-03-31
+118705,Karen Mejia,karenmejia@outlook.com,31,"9219 Shepard Walks
+West Samantha, VI 35993",Libyan Arab Jamahiriya,+1 242737665038,Iphone 12 pro,3,Pending,2023-03-11,2023-03-12
+120491,Kaitlin Taylor,kaitlintaylor@yahoo.com,64,"USNV Hart
+FPO AE 62927",Afghanistan,+222781714886,PS5,2,Cancelled,2023-01-29,2023-01-31
+137448,Gregory Gonzalez,gregorygonzalez@outlook.com,78,"99977 Dustin Port Suite 774
+Cisnerosview, WY 81274",South Africa,+20761515458,Iphone 12,3,Delivered,2024-02-05,2024-02-09
+138383,Riley Obrien,rileyobrien@outlook.com,49,"8567 Hahn Stream
+Martinezberg, PW 19367",Gibraltar,+961759406689,Iphone 15 plus,1,Cancelled,2024-05-31,2024-06-01
+143396,Jeffrey Davis,jeffreydavis@gmail.com,26,"81364 Vaughn Ferry Apt. 055
+Davidmouth, PR 40203",India,+7 6776888301,Samsung S22 Ultra,1,Cancelled,2023-02-24,2023-02-28
+141645,Meredith Smith,meredithsmith@gmail.com,75,"PSC 8082, Box 1647
+APO AA 23371",Trinidad and Tobago,+1 809707373613,Lenovo PC,3,Pending,2023-02-08,2023-02-12
+130228,Brandi Pierce,brandipierce@yahoo.com,55,"98972 Dennis Lodge Apt. 981
+Johnsonbury, ND 90218",Turks and Caicos Islands,+881715674915,Iphone 15 pro,3,Delivered,2024-01-20,2024-01-23
+122680,Kathy Schmidt,kathyschmidt@hotmail.com,43,"593 Hunt Plains
+South Jerrymouth, ME 78880",Cameroon,+216781941998,Samsung S21+,2,Pending,2022-03-15,2022-03-16
+119953,Ryan Griffin,ryangriffin@outlook.com,66,"166 Teresa Plain
+Lake Juliashire, VI 34682",Albania,+380715324717,Lenovo PC,1,Cancelled,2024-02-24,2024-02-25
+112960,Patricia Campos,patriciacampos@gmail.com,53,"14207 Lucas Rapid
+Youngbury, SD 59005",Germany,+231786142583,Samsung S23 Ultra,2,Pending,2022-05-11,2022-05-12
+127885,Jacqueline Smith,jacquelinesmith@yahoo.com,46,"8060 Brittany Hills
+South Kennethbury, NJ 12025",Australia,+216770507023,Iphone 14 pro max,1,Pending,2022-04-05,2022-04-07
+131684,Alex Cross,alexcross@gmail.com,38,"974 Curtis Terrace Suite 338
+Jennaland, VI 01561",Lao People's Democratic Republic,+599 9794243011,Samsung S22,2,Pending,2024-01-02,2024-01-05
+144029,Daniel Hardy,danielhardy@hotmail.com,35,"549 Bailey Landing Apt. 415
+Lake Sandra, TX 32291",Mali,+500705578243,Samsung S21+,3,Cancelled,2024-07-07,2024-07-11
+129775,Larry Walker DVM,larrywalkerdvm@gmail.com,72,"USNS Johnson
+FPO AP 49662",Malta,+676785813380,Iphone 14 pro max,2,Cancelled,2024-07-27,2024-07-29
+126136,Melissa Carter,melissacarter@outlook.com,47,"2038 Susan Plains Suite 693
+New Manuel, WI 32375",Bulgaria,+1 268748733927,Samsung S22,3,Pending,2022-11-11,2022-11-14
+123999,Austin Daniel,austindaniel@yahoo.com,78,"2337 Charles Neck
+South David, MT 48676",Vietnam,+44 7781762966247,Iphone 13 pro,2,Pending,2022-02-23,2022-02-24
+137951,Caleb Bell,calebbell@hotmail.com,67,"7671 George Lock Apt. 458
+Ortizbury, AR 95697",Comoros,+971724048618,Samsung S22,3,Pending,2024-07-05,2024-07-09
+119573,Colin Potter PhD,colinpotterphd@outlook.com,77,"Unit 1521 Box 7864
+DPO AE 84326",American Samoa,+250783689139,Samsung S23+,3,Delivered,2022-01-21,2022-01-24
+140532,Brady Ingram,bradyingram@outlook.com,72,"3187 King Manors
+Bullockfurt, GU 44017",Congo,+683765653459,Iphone 15 pro,3,Cancelled,2023-02-08,2023-02-10
+115937,Michael Whitney,michaelwhitney@gmail.com,26,"5788 Patterson Ridge Apt. 482
+East Elizabethmouth, WI 46355",Guadeloupe,+47 79725470961,Iphone 12,1,Cancelled,2022-04-28,2022-05-01
+127226,Julie Lynch,julielynch@gmail.com,38,"4434 Francis Roads
+Lewisstad, MD 66840",Hungary,+688760159228,Samsung S22,3,Cancelled,2024-01-26,2024-01-30
+119717,Spencer Caldwell,spencercaldwell@hotmail.com,49,"054 Katrina Hills
+Johnstonborough, NV 01407",Tuvalu,+1761341476,PS5,2,Pending,2023-04-14,2023-04-17
+139476,Christian Harrison,christianharrison@hotmail.com,69,"096 Bowman Field
+South Maria, FM 56482",Lesotho,+886729526078,Samsung S21+,1,Cancelled,2023-07-09,2023-07-13
+120798,Mark Soto,marksoto@hotmail.com,23,"013 Rose Mission
+North Ruth, AZ 70344",Turks and Caicos Islands,+596739089602,Samsung S24,2,Delivered,2022-03-23,2022-03-27
+126281,Brittany Martinez,brittanymartinez@hotmail.com,67,"76441 Brown Inlet Suite 244
+Oliviastad, KS 18909",Mongolia,+506783185257,Samsung S24+,2,Cancelled,2024-04-19,2024-04-21
+139003,Jennifer Brown,jenniferbrown@hotmail.com,60,"4832 Perez Land
+North Melissatown, DC 77461",Greece,+374743326488,Iphone 14,2,Delivered,2023-10-08,2023-10-11
+142286,Keith Lee,keithlee@hotmail.com,38,"PSC 3413, Box 4031
+APO AE 61475",Mali,+1 787784675525,Iphone 12 pro max,1,Delivered,2022-11-22,2022-11-24
+119289,John Holmes,johnholmes@yahoo.com,36,"3685 Jane Light Apt. 992
+Port Lindsay, GU 64242",Saudi Arabia,+227772047991,Iphone 12 mini,1,Delivered,2023-05-19,2023-05-23
+136997,Scott Bender,scottbender@outlook.com,73,"Unit 2890 Box 7739
+DPO AP 19943",Reunion,+255737374938,Iphone 12 pro max,1,Pending,2023-11-19,2023-11-23
+144627,Aaron Gallegos,aarongallegos@hotmail.com,69,"1513 Donald Cliff
+East Kaylamouth, MO 63722",Benin,+224737408121,Iphone 13 pro,1,Pending,2022-02-28,2022-03-03
+127303,Travis Johnson,travisjohnson@yahoo.com,22,"66250 Evans Junctions
+New Edwardtown, NH 22885",Suriname,+1 787721380778,Iphone 14,2,Pending,2022-05-28,2022-05-30
+140182,Barbara Wright,barbarawright@outlook.com,37,"438 Jackson Village Apt. 925
+Greerbury, IA 52909",Kuwait,+234743176429,Iphone 13,2,Cancelled,2023-03-09,2023-03-12
+110352,Mary Wagner,marywagner@outlook.com,74,"412 David Fields
+New Christine, OH 00885",Saint Kitts and Nevis,+44 1624776922929,Samsung S21,2,Cancelled,2023-09-15,2023-09-19
+124701,Garrett Stanley,garrettstanley@outlook.com,61,"PSC 3666, Box 4156
+APO AE 56068",Nepal,+44 7624781775694,Iphone 12 pro,3,Cancelled,2023-02-06,2023-02-08
+139101,Olivia Perkins,oliviaperkins@outlook.com,60,"8615 Edward Forge
+Alyssafort, KS 57009",Comoros,+44 1481723316856,Iphone 14 pro,2,Delivered,2024-01-06,2024-01-07
+144798,Danny Dunn,dannydunn@gmail.com,63,"PSC 8963, Box 0139
+APO AA 05319",Azerbaijan,+84732958262,Iphone 15 pro max,1,Pending,2022-05-15,2022-05-19
+142880,Robert Williamson,robertwilliamson@yahoo.com,64,"499 Donna Pass Suite 474
+Andrewshaven, AK 83063",Aruba,+30736427225,Iphone 13,1,Cancelled,2024-07-10,2024-07-14
+118136,Shelby Moore,shelbymoore@gmail.com,57,"34561 Hall Point
+North Taylor, OR 63401",Azerbaijan,+883742857823,Iphone 14,3,Delivered,2023-05-08,2023-05-09
+115533,Latoya Deleon,latoyadeleon@gmail.com,63,"777 David Islands
+East Mariamouth, AL 80803",Bahrain,+212774730505,Iphone 15 pro max,2,Cancelled,2024-04-01,2024-04-02
+143200,Sarah Padilla,sarahpadilla@outlook.com,67,"067 David Fields Suite 826
+Port Timothychester, ME 64676",French Guiana,+298763209116,Samsung S22 Ultra,3,Delivered,2022-12-01,2022-12-02
+137454,William Mckinney,williammckinney@yahoo.com,26,"518 Kimberly Manors Apt. 900
+Port George, AZ 67482",Croatia,+686744996937,Samsung S24,3,Cancelled,2024-04-19,2024-04-23
+118794,Mitchell Cohen,mitchellcohen@hotmail.com,33,"PSC 6804, Box 3869
+APO AE 52202",Gambia,+592771819303,Iphone 14 pro,1,Pending,2022-01-09,2022-01-13
+141032,Shane Guerrero,shaneguerrero@gmail.com,33,"0826 Robyn Pines Apt. 750
+Lake Cassandra, RI 31130",Austria,+880754087622,Iphone 14 pro,1,Cancelled,2023-08-24,2023-08-26
+135025,Heidi Hernandez,heidihernandez@yahoo.com,59,"963 Monique Lodge Suite 074
+West Eric, MD 88240",Guyana,+234702318996,PS4,2,Delivered,2022-12-15,2022-12-18
+136266,Daniel Schmidt,danielschmidt@yahoo.com,60,"879 Peter Mall
+Port Matthew, CT 46461",Saint Kitts and Nevis,+1 242710689471,Iphone 13 pro,1,Delivered,2023-02-27,2023-03-02
+140712,Kim Crawford,kimcrawford@hotmail.com,44,"34610 Katrina Manor
+Port Taraville, GU 37108",Cocos (Keeling) Islands,+1 268738067554,Iphone 12 mini,3,Cancelled,2023-02-15,2023-02-17
+141413,Jerry Mclean,jerrymclean@gmail.com,52,"395 Sean Dale Apt. 735
+South Jenniferstad, NE 24932",Japan,+65751861052,Samsung S24,3,Delivered,2024-05-16,2024-05-18
+111130,James Oconnor,jamesoconnor@yahoo.com,40,"69000 Robinson Underpass
+New Josefurt, WV 51153",Denmark,+47 79710043951,Samsung S21,1,Pending,2024-03-17,2024-03-21
+118387,Aaron Black,aaronblack@yahoo.com,51,"84477 Torres Estate Suite 630
+Kingmouth, NM 59091",Bolivia,+1 441709031628,Iphone 13,3,Cancelled,2022-04-24,2022-04-27
+117197,Jerome Alexander,jeromealexander@outlook.com,23,"4600 Luis Highway Suite 317
+Lake Elizabeth, ND 75682",Samoa,+993756994922,Samsung S22 Ultra,2,Delivered,2022-10-28,2022-10-29
+122920,Kevin Black,kevinblack@yahoo.com,63,"47198 Howard Mountains Suite 718
+South Derrickchester, MT 03808",Antarctica (the territory South of 60 deg S),+7 7746822356,Iphone 15 plus,1,Delivered,2022-02-18,2022-02-20
+110257,John Harrison,johnharrison@hotmail.com,34,"4439 Jessica Courts
+Alexandrashire, PW 36763",Reunion,+221704059783,Iphone 14 pro max,1,Delivered,2022-09-22,2022-09-24
+142700,Christina Sampson,christinasampson@hotmail.com,35,"1406 Julie Motorway
+New Susanberg, NV 35867",Greenland,+1 784720797979,Iphone 14 pro,2,Delivered,2024-05-14,2024-05-18
+117021,Kevin Malone,kevinmalone@hotmail.com,76,"82116 Robbins Square Suite 760
+Wolfmouth, MP 41349",Vanuatu,+374770784953,Iphone 13,2,Delivered,2023-12-08,2023-12-09
+142928,Nicholas Richardson,nicholasrichardson@outlook.com,63,"USS Hernandez
+FPO AP 75736",Netherlands,+258734271074,PS4,3,Delivered,2023-08-07,2023-08-08
+135155,Jennifer Carrillo,jennifercarrillo@yahoo.com,36,"137 Carr Ports
+Austinville, AK 28333",Dominican Republic,+505775924120,Iphone 15 plus,3,Delivered,2024-05-10,2024-05-14
+112006,Cindy Lin,cindylin@outlook.com,31,"8932 Mccarty Island
+Richardville, KY 99829",Grenada,+1 758761742579,Samsung S24,3,Cancelled,2023-06-21,2023-06-23
+110772,William Montoya,williammontoya@outlook.com,60,"8881 Richards Lights Suite 100
+Port Robert, DE 89069",Ukraine,+44 28719880375,PS5,2,Cancelled,2022-04-14,2022-04-17
+121478,Carmen Burke,carmenburke@hotmail.com,48,"USS Barber
+FPO AP 56887",Solomon Islands,+680744701019,Iphone 15,3,Cancelled,2023-01-13,2023-01-17
+130776,Amber Gillespie,ambergillespie@gmail.com,25,"6138 Randy Village Suite 882
+North Jonathan, OR 33476",Cayman Islands,+47 79764698380,Lenovo PC,1,Pending,2022-05-27,2022-05-28
+139020,Scott Walsh,scottwalsh@gmail.com,78,"802 Susan Alley
+Morrisonbury, WI 34450",Myanmar,+251762347508,Samsung S21+,1,Delivered,2023-09-27,2023-09-29
+126375,Ann King,annking@gmail.com,74,"394 Vincent Mews
+Jonathanland, CA 24349",Antigua and Barbuda,+386765194595,Samsung S23 Ultra,2,Cancelled,2022-02-17,2022-02-18
+135741,Tammy Alexander,tammyalexander@yahoo.com,49,"003 Johnson Groves Apt. 908
+Jamieburgh, AS 55224",France,+1730415955,Iphone 13,1,Pending,2022-10-08,2022-10-11
+111378,Christopher Strong,christopherstrong@outlook.com,68,"25457 Brown Terrace Suite 436
+West Lauren, AS 71826",Bahamas,+374 47778658727,Samsung S21,1,Pending,2022-07-12,2022-07-16
+135880,Sandra Walsh,sandrawalsh@outlook.com,54,"4975 Grant Knolls Suite 352
+Ortizhaven, TX 61604",Thailand,+58717140883,Iphone 12 pro,2,Cancelled,2022-03-21,2022-03-22
+113371,Elijah Johnson,elijahjohnson@outlook.com,74,"93819 Kennedy Circles Suite 191
+Petersontown, OH 97589",Heard Island and McDonald Islands,+977736868073,Iphone 14,3,Pending,2023-02-21,2023-02-25
+125783,Richard Gonzales,richardgonzales@gmail.com,34,"2078 Vega Loaf
+Williamsside, CT 14473",Senegal,+253728604966,Iphone 12 mini,2,Delivered,2022-05-02,2022-05-05
+117576,Mary Smith,marysmith@gmail.com,77,"USCGC Larson
+FPO AP 74360",Bahamas,+380750505749,Samsung S24,3,Cancelled,2024-01-31,2024-02-03
+143823,Jennifer Jenkins,jenniferjenkins@gmail.com,75,"PSC 8400, Box 2154
+APO AP 56455",Dominica,+47 79735078588,PS4,3,Pending,2023-01-22,2023-01-24
+120508,Gary Guerrero,garyguerrero@yahoo.com,44,"8515 David Circle Apt. 432
+East Justinfurt, WV 57947",Wallis and Futuna,+251764724100,Iphone 15,2,Delivered,2024-05-06,2024-05-10
+139359,Aaron Hernandez,aaronhernandez@outlook.com,22,"USNS Wilkins
+FPO AE 26424",Brunei Darussalam,+961706545887,Samsung S24,1,Cancelled,2024-08-07,2024-08-10
+118285,Claire Rodriguez,clairerodriguez@hotmail.com,63,"USNS Hancock
+FPO AP 31034",Congo,+225738326094,Samsung S21,2,Cancelled,2022-11-27,2022-12-01
+139121,Michael Harris,michaelharris@hotmail.com,73,"1700 Jackson Passage Apt. 973
+Port Elizabeth, HI 24648",Anguilla,+878788059540,Samsung S21,1,Pending,2023-12-01,2023-12-05
+139554,Rachael Andrews,rachaelandrews@yahoo.com,74,"97739 Williams Walk
+West Christian, SD 39618",Kiribati,+46731032554,Lenovo PC,3,Pending,2022-02-07,2022-02-09
+112287,Samuel Grant,samuelgrant@hotmail.com,56,"228 Carla Keys
+Yeseniamouth, FM 99646",Mexico,+260789657669,Iphone 14 pro max,1,Pending,2023-05-09,2023-05-13
+137771,Julie Morales,juliemorales@gmail.com,21,"574 Robert Ville
+Jessicaburgh, VA 56088",Guinea-Bissau,+882759341189,Iphone 15 pro,2,Pending,2023-05-12,2023-05-15
+113335,Andrew Lynch,andrewlynch@yahoo.com,74,"1115 Rodriguez Meadows Suite 568
+Jenniferbury, PA 43944",Belgium,+881 3722924559,Iphone 12 mini,1,Cancelled,2023-10-08,2023-10-10
+133277,Brittany Gross,brittanygross@outlook.com,36,"PSC 7519, Box 2941
+APO AP 76908",Saint Lucia,+383745463000,PS5,2,Cancelled,2022-01-29,2022-02-02
+134604,Joshua Cruz,joshuacruz@hotmail.com,77,"87666 Shannon Knolls
+Fredchester, TX 22065",Bulgaria,+370780640938,Iphone 14 pro max,1,Cancelled,2022-04-27,2022-05-01
+135984,Felicia Massey,feliciamassey@yahoo.com,46,"731 Baker Gardens Suite 185
+Richardsonmouth, ID 31703",Sweden,+52720284876,Samsung S22 Ultra,2,Pending,2022-09-24,2022-09-25
+118111,Danielle Ellis,danielleellis@gmail.com,69,"741 James Manors Apt. 031
+Smithmouth, ME 95753",Djibouti,+60769182176,Samsung S24,2,Delivered,2022-01-08,2022-01-12
+112117,Sean Fisher,seanfisher@yahoo.com,23,"431 Susan Plain
+West Jared, MD 65575",Estonia,+672743119290,Samsung S21,2,Pending,2023-05-27,2023-05-30
+115773,Lori King,loriking@outlook.com,42,"901 Daniel Pike
+West Barbaraton, LA 94612",Netherlands,+374 47773096501,Lenovo PC,3,Cancelled,2023-03-14,2023-03-18
+116746,Paul Taylor,paultaylor@yahoo.com,36,"976 Clifford Island
+Lisaton, AL 75532",Holy See (Vatican City State),+375749719281,PS5,3,Pending,2022-06-14,2022-06-18
+115526,William Dennis,williamdennis@gmail.com,56,"873 Grant Port
+Caldwellchester, GA 41758",Serbia,+672798903722,Iphone 15,1,Pending,2022-01-23,2022-01-25
+125187,Kelsey White,kelseywhite@hotmail.com,80,"93291 Julie Trail Suite 098
+East Staceyshire, MT 29499",Hungary,+299790634584,PS4,3,Pending,2024-07-12,2024-07-13
+122060,James Snow,jamessnow@hotmail.com,44,"613 Forbes Island
+Sydneyfurt, IN 54331",Turkey,+977799163746,Iphone 15,2,Delivered,2024-02-07,2024-02-10
+120466,Dalton Watkins,daltonwatkins@outlook.com,34,"1571 Thompson Harbor
+Chaveztown, MA 21897",Tonga,+230763066320,Iphone 13 pro,1,Cancelled,2022-08-28,2022-08-31
+126724,Denise Thomas,denisethomas@gmail.com,40,"60319 Moore Neck
+Biancaton, MS 55561",Italy,+44729442324,Iphone 15,1,Pending,2023-02-26,2023-03-01
+135903,Angelica Barnes,angelicabarnes@outlook.com,49,"935 Parsons Cove
+Mckenzieville, NE 65907",Kiribati,+993732604393,Iphone 12 pro,2,Delivered,2023-10-08,2023-10-11
+114361,Steven Brown,stevenbrown@gmail.com,56,"97290 Eric Glen
+Paulmouth, TN 71788",Cocos (Keeling) Islands,+870716620319,Iphone 15 pro max,1,Pending,2024-04-30,2024-05-01
+112564,Elizabeth White,elizabethwhite@yahoo.com,25,"9155 Madison Port Suite 056
+Johnsonborough, VI 49087",Netherlands Antilles,+373797058293,Iphone 15 pro max,2,Cancelled,2023-08-03,2023-08-07
+136304,Catherine Simmons,catherinesimmons@hotmail.com,53,"USNS Salazar
+FPO AA 00577",French Southern Territories,+61 89162732966173,Iphone 15 pro,3,Cancelled,2023-05-27,2023-05-29
+131224,James Gilbert,jamesgilbert@yahoo.com,24,"778 Gallegos Squares
+Port Sandramouth, NE 60249",Tanzania,+689766341098,Samsung S23 Ultra,3,Pending,2024-03-02,2024-03-04
+131011,Christopher Lewis,christopherlewis@hotmail.com,28,"764 Nicole Throughway
+Paulachester, MH 75976",Lesotho,+880775394006,Samsung S24 Ultra,3,Pending,2022-11-28,2022-12-01
+123892,Kimberly Cunningham,kimberlycunningham@hotmail.com,33,"241 Heather Route
+Lake Lauratown, AL 50459",United Kingdom,+670722463596,Samsung S24+,1,Pending,2022-03-30,2022-04-02
+133217,Ryan Kane,ryankane@yahoo.com,71,"811 Chen Fields
+Steelestad, GU 04011",French Guiana,+41727627714,Samsung S21+,1,Pending,2023-11-06,2023-11-08
+142342,Eric Williams,ericwilliams@yahoo.com,42,"98766 Alexander Unions
+Andersonshire, WY 67451",United States of America,+40744005719,Iphone 12,3,Cancelled,2023-07-16,2023-07-19
+115303,Nicholas Hernandez,nicholashernandez@gmail.com,56,"63486 Harding Underpass Suite 826
+North Johnland, OK 98874",Trinidad and Tobago,+882 16716191902,Samsung S22,1,Cancelled,2023-03-31,2023-04-03
+116101,Dr. Melinda Kennedy DVM,dr.melindakennedydvm@yahoo.com,56,"507 Schaefer Shoals Suite 286
+Gonzalezport, PA 94437",Japan,+263773719434,Samsung S24,2,Pending,2023-12-16,2023-12-20
+131340,Larry Park,larrypark@outlook.com,71,"032 Michael Key
+Sylviaside, FM 94322",Kenya,+354792495078,Samsung S24,3,Pending,2024-06-08,2024-06-12
+132948,Roy Short,royshort@outlook.com,26,"PSC 1249, Box 6230
+APO AP 71351",Slovakia (Slovak Republic),+228718402351,Iphone 15 plus,3,Pending,2022-06-26,2022-06-30
+115048,Kelly Campbell,kellycampbell@gmail.com,44,"190 Timothy Rapid Apt. 501
+East Amandaton, LA 29075",Netherlands Antilles,+595737134486,Iphone 14,3,Delivered,2022-10-27,2022-10-30
+126192,Matthew Mendoza,matthewmendoza@gmail.com,76,"02677 Williams Village
+Nealmouth, VA 89359",Anguilla,+44 7839713044660,Iphone 14,1,Delivered,2022-04-09,2022-04-11
+112341,Laurie Torres,laurietorres@outlook.com,72,"209 Clark Viaduct
+Maryhaven, MI 90315",Guyana,+850702983589,Samsung S22 Ultra,1,Pending,2023-07-12,2023-07-14
+135834,Cindy Martin,cindymartin@gmail.com,72,"66733 Samantha Roads Apt. 714
+West Justin, MH 63635",Jersey,+358788704706,Iphone 12,2,Cancelled,2023-08-14,2023-08-18
+127247,Donna Mccoy,donnamccoy@gmail.com,70,"2033 Thompson Meadow
+East Crystal, MH 55186",Lebanon,+976715683776,Iphone 15,1,Delivered,2023-09-04,2023-09-08
+133171,Lucas Parks,lucasparks@yahoo.com,48,"840 Brown Expressway Suite 748
+North Amberville, OK 80157",Iceland,+44 1481706855561,Lenovo PC,2,Cancelled,2023-10-20,2023-10-24
+140971,Kimberly Hudson,kimberlyhudson@gmail.com,35,"3580 Russell Motorway
+South Rebecca, OR 16417",North Macedonia,+1 767772945549,Iphone 15 plus,3,Delivered,2023-03-10,2023-03-14
+130971,Robert Rivas,robertrivas@gmail.com,50,"3693 Serrano Stream
+West Crystal, WI 23497",Uruguay,+961707517699,Iphone 13 pro,2,Cancelled,2024-05-23,2024-05-25
+134960,Andrea Brady,andreabrady@hotmail.com,40,"5254 Hurley Corners
+East Leahmouth, ME 14568",Antigua and Barbuda,+47 79723809926,Samsung S24,1,Delivered,2022-07-28,2022-07-29
+115142,Lawrence Martin,lawrencemartin@outlook.com,27,"224 Ian Mission
+Port Matthewport, TN 82624",Congo,+1 787776988125,Iphone 15,1,Delivered,2024-05-28,2024-05-30
+130061,Emily Hicks,emilyhicks@hotmail.com,33,"49155 Rodriguez Mission Apt. 358
+East Jacob, CO 14806",Trinidad and Tobago,+64700108548,Samsung S23+,1,Delivered,2024-07-18,2024-07-21
+115662,Todd Knight,toddknight@yahoo.com,24,"6613 Cynthia Landing
+Jacquelinefurt, MH 81189",Malta,+1 649773911972,Iphone 13 pro,3,Cancelled,2022-12-09,2022-12-10
+127534,Nancy Smith,nancysmith@hotmail.com,45,"088 James Lodge
+Nolanport, MS 90159",Ukraine,+86719873563,Iphone 12 pro max,1,Delivered,2023-06-14,2023-06-18
+142591,Gregory Howard,gregoryhoward@yahoo.com,41,"467 Harris Field
+North Melanietown, IA 38744",Barbados,+968796098519,Iphone 12,1,Delivered,2023-06-01,2023-06-04
+112566,Jamie Orr,jamieorr@outlook.com,51,"209 Hunt Wall Apt. 912
+East Brianshire, KS 41183",Sao Tome and Principe,+231733537501,Iphone 12,1,Delivered,2022-08-24,2022-08-26
+121066,Keith Reed,keithreed@yahoo.com,51,"7745 Wise Island Suite 041
+Lake Danielmouth, OH 06986",Eritrea,+421743933383,Samsung S22 Ultra,3,Pending,2024-03-27,2024-03-28
+130903,Timothy Clark,timothyclark@yahoo.com,69,"74909 Crane Forge
+New Paula, VA 51388",Burkina Faso,+503765583763,Iphone 15,3,Pending,2023-09-08,2023-09-09
+118489,Caleb Sweeney,calebsweeney@outlook.com,53,"08197 Jeremy Cape Apt. 966
+New Brittany, GA 30463",Monaco,+31762763014,Iphone 14 pro,1,Pending,2023-11-16,2023-11-19
+127346,Brittany Short,brittanyshort@hotmail.com,79,"797 Emily Union
+West Eric, NC 87770",India,+1 939794954657,Iphone 12 pro,2,Cancelled,2024-06-06,2024-06-08
+142533,Laura Ortega,lauraortega@yahoo.com,20,"52673 Danielle Center
+East Allisonton, WV 43142",United States Minor Outlying Islands,+690746580349,Iphone 14,2,Pending,2023-11-10,2023-11-11
+143368,Becky Powers,beckypowers@yahoo.com,50,"4028 Kyle Village Suite 896
+East Antoniomouth, LA 33554",Turkmenistan,+594736738123,Iphone 15 pro,2,Delivered,2023-08-22,2023-08-26
+127235,Victoria Clayton,victoriaclayton@yahoo.com,36,"Unit 6473 Box 4940
+DPO AP 56415",Wallis and Futuna,+504711248608,PS5,1,Pending,2022-11-15,2022-11-19
+133985,Chad Delgado,chaddelgado@outlook.com,66,"65110 Cameron Tunnel Apt. 305
+West Jonathan, HI 05732",Colombia,+1 758778385991,Samsung S21+,3,Cancelled,2024-06-15,2024-06-17
+131978,Jennifer Sutton,jennifersutton@yahoo.com,39,"58401 Daugherty Port
+West Leonard, VA 79594",Cayman Islands,+30728330227,Samsung S24,1,Cancelled,2024-02-16,2024-02-19
+111307,Mark Bridges,markbridges@hotmail.com,34,"3079 Waters Ramp Suite 295
+Port Davidville, WV 85525",Yemen,+65777160682,Iphone 14 pro,3,Cancelled,2022-08-26,2022-08-29
+127766,Lucas Faulkner,lucasfaulkner@hotmail.com,22,"165 Linda River
+North Erika, AK 57270",Antigua and Barbuda,+372705669552,Iphone 12,3,Cancelled,2023-11-02,2023-11-05
+144748,Jill Jacobs,jilljacobs@yahoo.com,56,"752 Conway Club Suite 340
+Griffithhaven, TX 64245",Russian Federation,+501767740043,Samsung S24+,2,Cancelled,2023-03-09,2023-03-13
+117912,Sean Banks,seanbanks@yahoo.com,65,"PSC 5771, Box 7674
+APO AP 52671",Haiti,+670753161367,Samsung S23+,1,Pending,2022-04-24,2022-04-28
+112983,Linda Gutierrez,lindagutierrez@gmail.com,80,"6977 Adams Bypass Apt. 807
+Garciaton, AL 06745",India,+39755050661,Iphone 12,1,Delivered,2023-01-13,2023-01-14
+123431,Shannon Anderson,shannonanderson@outlook.com,64,"110 Kristen Crossroad Suite 655
+East John, FL 62038",Sierra Leone,+690734258705,Iphone 12 pro max,1,Delivered,2022-06-23,2022-06-27
+130022,Amber Abbott,amberabbott@yahoo.com,53,"77367 Smith Track
+Brownview, ID 67877",Armenia,+977765686364,Iphone 15 pro,3,Cancelled,2022-03-21,2022-03-22
+141827,Jessica Smith,jessicasmith@yahoo.com,72,"160 Jennifer Spurs
+New Danielfort, IL 82392",Lebanon,+808750225789,Iphone 14 pro,3,Cancelled,2022-03-02,2022-03-05
+128277,Gina White,ginawhite@outlook.com,26,"40801 Miller Burgs
+Steventon, MH 16511",Gabon,+1 284746542346,Iphone 12 pro max,2,Pending,2023-01-15,2023-01-19
+140535,Raymond Mills,raymondmills@gmail.com,47,"1238 Meza Island
+Kennethfurt, VT 17668",Papua New Guinea,+800791974779,Samsung S22 Ultra,2,Cancelled,2022-01-08,2022-01-12
+139516,Michael Combs,michaelcombs@outlook.com,35,"203 Michael Manors Suite 925
+Rossberg, OH 53555",Lithuania,+593785526552,Samsung S21,2,Cancelled,2023-07-12,2023-07-15
+125065,Gregory Armstrong,gregoryarmstrong@hotmail.com,37,"936 Mccann Mews Apt. 944
+Jenniferland, OK 83273",Greece,+976769224360,PS5,3,Delivered,2022-01-02,2022-01-05
+139232,Brooke Shaw,brookeshaw@hotmail.com,66,"USCGC Mcclure
+FPO AA 35588",Puerto Rico,+47716600902,Samsung S23 Ultra,1,Delivered,2024-01-11,2024-01-12
+138862,Steven Smith,stevensmith@yahoo.com,29,"8980 Schneider Highway Apt. 531
+East Jenniferchester, GU 79846",El Salvador,+1 939712878337,Samsung S22,1,Delivered,2023-02-23,2023-02-26
+110774,Carol Rodriguez,carolrodriguez@hotmail.com,29,"267 Anderson Well
+Amyborough, RI 65275",Wallis and Futuna,+20794132942,Samsung S22 Ultra,1,Pending,2022-12-20,2022-12-21
+134602,Randy Carpenter,randycarpenter@gmail.com,25,"09361 Parker Ville Apt. 761
+New Jonathan, MO 59376",El Salvador,+1 829724236475,Iphone 12,1,Delivered,2022-02-11,2022-02-13
+141355,Michelle Hoover,michellehoover@yahoo.com,35,"7693 Lowe Squares Apt. 400
+Leslieview, MA 18453",Tanzania,+500788856687,Iphone 14 pro,2,Cancelled,2023-03-07,2023-03-08
+135587,Marissa Jackson,marissajackson@outlook.com,36,"USNV Robinson
+FPO AE 99378",Eritrea,+595708675969,Samsung S21+,3,Cancelled,2023-09-22,2023-09-24
+130581,Steven Bailey,stevenbailey@gmail.com,40,"50356 Tara Stream
+Jeremiahville, RI 28177",Nepal,+45746702604,Iphone 13,1,Pending,2024-02-10,2024-02-11
+125400,Dr. Brian Watson DDS,dr.brianwatsondds@hotmail.com,20,"651 Garrett Common
+Joelmouth, AK 80305",Kiribati,+81734031024,Iphone 13,3,Cancelled,2024-07-17,2024-07-18
+115102,Paul Peterson,paulpeterson@outlook.com,75,"60899 Tina Wall Suite 853
+Jacquelinechester, SC 88687",Canada,+881 9754206700,Samsung S24,1,Cancelled,2024-03-08,2024-03-12
+123571,Gavin Kelley,gavinkelley@gmail.com,34,"122 Vargas Views
+Lake Tyronebury, AR 68333",Romania,+261782473551,Iphone 12,1,Pending,2022-08-21,2022-08-25
+128124,Shawna Valdez,shawnavaldez@hotmail.com,49,"837 Hebert Shoals Apt. 271
+Shepardfurt, ND 26314",Libyan Arab Jamahiriya,+1 670757522756,Iphone 12 pro max,3,Pending,2024-07-01,2024-07-02
+144510,Brenda Pitts,brendapitts@gmail.com,35,"940 Peter Forges
+Morenoshire, NM 77280",Reunion,+39734037660,Iphone 14 pro max,2,Delivered,2023-09-09,2023-09-11
+142642,Beth Graves,bethgraves@yahoo.com,62,"410 Robert Burgs
+North Nicholastown, TX 22565",Georgia,+593706656702,Samsung S24+,2,Delivered,2022-05-09,2022-05-12
+115750,Gary Wong,garywong@gmail.com,59,"981 Sandra Place
+Howellmouth, VA 78400",Morocco,+91711067460,Iphone 12 pro max,2,Delivered,2022-03-27,2022-03-30
+120084,David Perez,davidperez@hotmail.com,76,"026 Stephanie Court
+Nguyenland, AL 94169",Swaziland,+886742345988,Iphone 15 plus,2,Pending,2024-03-20,2024-03-21
+135053,Rebekah Schneider,rebekahschneider@outlook.com,27,"12412 Brittany Rapids
+Bethfort, TN 96759",Serbia,+996772056742,Iphone 13 pro,1,Delivered,2022-01-23,2022-01-24
+141185,John Schmidt,johnschmidt@gmail.com,79,"45082 Jason Parkways
+Port Davidside, NJ 43229",Indonesia,+679772141768,Iphone 15,3,Cancelled,2022-08-21,2022-08-25
+128582,Joshua Huerta,joshuahuerta@gmail.com,53,"614 Smith Square Apt. 320
+West Rhondaland, VI 32530",Turkey,+378732693726,Iphone 12 mini,3,Delivered,2022-07-21,2022-07-25
+126354,Brandon Martin,brandonmartin@hotmail.com,57,"8082 Kristi Plaza
+North Lindashire, PA 52955",Cayman Islands,+46773275028,Samsung S21+,3,Pending,2024-07-04,2024-07-08
+129693,Michael Kim,michaelkim@gmail.com,46,"48744 Laura Oval
+West Andreahaven, IL 32158",Antarctica (the territory South of 60 deg S),+53702498940,Iphone 14 pro max,3,Cancelled,2024-02-18,2024-02-19
+114055,Joshua Smith,joshuasmith@yahoo.com,50,"2337 Linda Point
+South Lisamouth, VI 79754",Paraguay,+40739826449,Samsung S21+,3,Delivered,2022-12-25,2022-12-28
+123856,Susan Frank,susanfrank@outlook.com,30,"0400 Mitchell Plains Apt. 808
+Joshuamouth, AR 48628",Jersey,+599 9752045324,Iphone 15,3,Delivered,2023-10-25,2023-10-27
+134692,Joe Davis,joedavis@gmail.com,77,"04887 Norman Center Suite 776
+Davidsonborough, VT 42790",Falkland Islands (Malvinas),+995 34746571111,Samsung S21+,3,Cancelled,2023-12-18,2023-12-19
+124607,Joseph Anderson,josephanderson@gmail.com,25,"853 Smith Grove Apt. 421
+Jamesmouth, MN 56839",Guam,+421770516345,Samsung S24 Ultra,2,Pending,2022-06-04,2022-06-08
+114123,Kelly Lamb,kellylamb@hotmail.com,23,"07491 Stanton Highway Suite 218
+Morrisberg, CO 57204",Lao People's Democratic Republic,+386726354564,Samsung S24+,3,Cancelled,2022-07-04,2022-07-06
+140086,Marc Martin,marcmartin@gmail.com,36,"71572 Bradley Greens
+Lake Debbie, VT 39757",Zimbabwe,+93765253063,Iphone 14 pro,2,Pending,2024-07-08,2024-07-11
+120610,Kenneth Hall,kennethhall@hotmail.com,59,"12674 Green Turnpike Suite 995
+Shawnmouth, MA 11218",Bouvet Island (Bouvetoya),+856731416497,Samsung S23+,1,Pending,2022-03-28,2022-04-01
+125142,Stephen Mercer,stephenmercer@yahoo.com,56,"2799 Gardner Landing Apt. 133
+Lake Kimberlybury, VT 28202",Egypt,+888769101703,Iphone 13 pro,1,Delivered,2022-11-21,2022-11-25
+140386,Dr. Christopher Hill,dr.christopherhill@gmail.com,39,"4973 Jennifer Grove
+Lake Charles, LA 69962",Benin,+220774545878,Samsung S24,3,Cancelled,2023-02-09,2023-02-11
+132353,Bradley Bennett,bradleybennett@hotmail.com,71,"90402 Gordon Locks
+East Sharonfurt, NM 85851",Armenia,+44 7924762887309,Samsung S24+,1,Delivered,2024-06-08,2024-06-12
+124355,Stephanie Conway,stephanieconway@hotmail.com,51,"78756 William Ridges Suite 773
+Carterchester, SC 11217",Namibia,+370783606364,Samsung S24,2,Cancelled,2022-01-01,2022-01-03
+113483,Nicole Johnson DDS,nicolejohnsondds@outlook.com,24,"734 Lopez Road
+Port Johnfort, OR 57435",Cote d'Ivoire,+672 3795769455,Iphone 14 pro max,2,Delivered,2022-07-19,2022-07-21
+140592,Heather Hartman,heatherhartman@yahoo.com,68,"2079 Stacy Tunnel
+Evansburgh, GA 45786",Haiti,+1 671793946700,Iphone 14 pro,3,Delivered,2023-09-14,2023-09-16
+143042,Mr. William Ball DVM,mr.williamballdvm@outlook.com,73,"530 Jennifer Hollow
+East Albertchester, MN 37325",Slovakia (Slovak Republic),+358 18797352939,Iphone 15 pro,2,Delivered,2022-09-05,2022-09-09
+122458,David Wang,davidwang@hotmail.com,42,"67175 Stephanie Haven
+Brownberg, HI 39150",Paraguay,+212726605222,Iphone 15 pro max,3,Delivered,2022-07-15,2022-07-17
+130574,Carolyn Moore,carolynmoore@hotmail.com,28,"2547 Bridges Ways Apt. 238
+Lake Tina, AK 76996",Oman,+64719209640,PS4,3,Delivered,2024-07-06,2024-07-09
+144409,Kimberly Allen,kimberlyallen@yahoo.com,68,"1652 Gordon Lane Suite 461
+Lake George, GU 56140",French Guiana,+261701691046,Samsung S24 Ultra,3,Cancelled,2023-03-09,2023-03-10
+141336,Lee Everett,leeeverett@hotmail.com,21,"220 Savage Run
+Davidview, MN 54760",Cayman Islands,+260731221292,Iphone 15 plus,2,Cancelled,2023-09-12,2023-09-16
+140629,Angela Henry,angelahenry@outlook.com,77,"69126 Thomas Ridge
+New Tiffanyberg, NH 24193",Finland,+64741520481,Iphone 14,3,Cancelled,2022-05-15,2022-05-19
+115015,Stephen Alvarez,stephenalvarez@gmail.com,58,"2786 Kevin Views Apt. 112
+Johnhaven, PW 25495",Cuba,+90762349421,Iphone 13 pro,3,Cancelled,2022-06-08,2022-06-09
+134807,Brittany Burns,brittanyburns@hotmail.com,77,"74176 Berg Ramp Apt. 983
+West Michaelville, SC 43757",Iran,+380795073867,Iphone 15 plus,1,Pending,2024-03-18,2024-03-22
+121810,Michael Costa,michaelcosta@yahoo.com,20,"6298 Park Knolls
+Port Amy, VT 08707",Bouvet Island (Bouvetoya),+298704144251,Iphone 12 pro,1,Cancelled,2022-01-03,2022-01-04
+134575,Brittany Silva,brittanysilva@yahoo.com,32,"06335 Hopkins Wall Apt. 403
+Lake Dylanshire, OK 24676",Cote d'Ivoire,+594795144964,Samsung S22,3,Cancelled,2022-04-24,2022-04-28
+125809,Andrea Adams,andreaadams@hotmail.com,73,"974 Pratt Mission
+Ryantown, KS 39829",Svalbard & Jan Mayen Islands,+61736102043,Samsung S24+,2,Pending,2023-07-17,2023-07-18
+120761,Andrea Buchanan,andreabuchanan@hotmail.com,73,"0451 Ibarra Haven
+Bennettberg, CO 01866",Madagascar,+238738701220,Iphone 14 pro max,1,Cancelled,2022-01-31,2022-02-01
+132356,Hannah Johnson,hannahjohnson@outlook.com,59,"1954 Kelly Valley Suite 654
+South Mark, HI 32844",Niger,+850720332511,Iphone 13 pro,1,Cancelled,2023-04-12,2023-04-13
+115162,Paul Holloway,paulholloway@outlook.com,37,"6487 Anthony Manor
+New Rachelmouth, OR 41622",United States Virgin Islands,+595727306052,Iphone 12 mini,3,Cancelled,2023-06-14,2023-06-17
+127230,Charles Middleton,charlesmiddleton@hotmail.com,58,"8514 Schwartz Mountains
+Kimberlyfurt, UT 62591",Iran,+504779240901,Iphone 15 pro,1,Pending,2023-04-02,2023-04-06
+126002,Joel Lynn,joellynn@gmail.com,37,"08002 Contreras Key Apt. 298
+Duartetown, SD 39727",Bermuda,+223740110422,Samsung S22,1,Cancelled,2022-11-07,2022-11-10
+128619,Kyle Rodriguez,kylerodriguez@yahoo.com,57,"433 Patterson Island
+Lake Kyle, AS 43664",French Guiana,+298779314850,Samsung S22,1,Pending,2024-07-06,2024-07-09
+143312,Stacey Hoffman,staceyhoffman@outlook.com,65,"98948 Hanna Grove Apt. 339
+New Katherine, PW 00620",Samoa,+1 721738575238,Iphone 15,1,Pending,2022-06-27,2022-07-01
+116387,Ronald Ferguson,ronaldferguson@yahoo.com,36,"Unit 0121 Box 9027
+DPO AP 57367",Guyana,+1 808718785898,Iphone 12 pro max,3,Delivered,2023-07-26,2023-07-28
+134087,James Jackson,jamesjackson@hotmail.com,22,"50206 Craig Neck
+West Timothychester, MI 35433",Saint Barthelemy,+235764891837,Samsung S24,1,Pending,2024-05-19,2024-05-22
+118590,Dr. Michael Chan MD,dr.michaelchanmd@gmail.com,62,"7000 Church Trace
+Lake Davidview, UT 29919",Brazil,+592786284258,Iphone 12,3,Cancelled,2023-06-28,2023-06-29
+132485,Amy Russell,amyrussell@hotmail.com,20,"PSC 5460, Box 1581
+APO AE 78317",Togo,+41731313943,Iphone 12 pro max,2,Cancelled,2023-10-17,2023-10-19
+139111,Timothy Guerrero,timothyguerrero@gmail.com,67,"8186 Schaefer Ferry Apt. 239
+Montgomeryville, DE 77330",Saudi Arabia,+48739372095,Iphone 12,3,Cancelled,2024-02-08,2024-02-12
+118993,Jonathan Perry,jonathanperry@hotmail.com,44,"PSC 5465, Box 4626
+APO AP 34907",Saint Pierre and Miquelon,+92737741560,Iphone 14,1,Delivered,2022-10-30,2022-11-02
+136821,Tricia Cruz,triciacruz@yahoo.com,70,"6070 Wheeler Springs
+North Annhaven, WV 93953",Saint Pierre and Miquelon,+1 649798282864,Iphone 14,1,Cancelled,2023-07-13,2023-07-15
+135891,Tony Fowler,tonyfowler@yahoo.com,24,"40862 Caitlin Hollow Apt. 410
+South Nancy, SD 63270",Finland,+1 721751033836,Samsung S21,3,Pending,2023-01-12,2023-01-14
+115666,Jessica Hodge,jessicahodge@hotmail.com,42,"326 Kaitlyn Flats
+Ernestport, OR 93660",India,+66728222913,Iphone 15 pro,1,Delivered,2022-07-03,2022-07-07
+144067,Brenda Brown,brendabrown@yahoo.com,23,"6493 Pruitt Plaza
+East Craigville, TN 55307",Mexico,+247735738328,Iphone 13,1,Pending,2022-04-24,2022-04-25
+139201,Eric Rodriguez,ericrodriguez@hotmail.com,71,"463 Kristopher Park Suite 762
+West Darrellborough, MI 28730",Austria,+1 664708025470,Samsung S21,1,Cancelled,2023-09-18,2023-09-20
+138799,Kenneth Mccall,kennethmccall@gmail.com,21,"3827 Randy Via
+East James, SC 89023",French Southern Territories,+373 2719558890,Samsung S23 Ultra,3,Delivered,2024-05-16,2024-05-17
+126651,Dr. Anthony Jordan,dr.anthonyjordan@gmail.com,80,"4312 Delacruz Meadow
+Port Haleyside, PW 39650",Nauru,+57783623754,Lenovo PC,1,Pending,2022-10-05,2022-10-07
+126949,Paul Berry,paulberry@hotmail.com,20,"71623 Jeffrey Field Apt. 980
+Barbarahaven, NC 94347",Marshall Islands,+44 1534756289539,Iphone 13,2,Cancelled,2022-08-24,2022-08-25
+112794,Donna Adams,donnaadams@yahoo.com,30,"76942 Alice Spurs Suite 482
+Hartfort, FM 75100",Honduras,+64747280388,Iphone 14 pro max,3,Cancelled,2022-01-31,2022-02-02
+117337,Christopher Gonzalez,christophergonzalez@outlook.com,46,"24624 Zhang Stream
+Randallfort, TN 51198",Trinidad and Tobago,+372733351154,Samsung S24+,3,Pending,2024-02-10,2024-02-13
+141418,Scott Kidd,scottkidd@yahoo.com,33,"6059 Banks Parkway
+Catherinetown, CO 07639",Morocco,+501795809806,Iphone 12,2,Pending,2023-08-24,2023-08-25
+124085,Carolyn Harrison,carolynharrison@gmail.com,31,"70846 Michael Drives Apt. 909
+Jayport, NJ 25896",Solomon Islands,+240778360860,Iphone 12 mini,2,Delivered,2023-11-12,2023-11-15
+132962,Derrick Warner,derrickwarner@gmail.com,51,"3483 Emily Road
+Nicholasland, UT 25479",South Africa,+973719388523,Iphone 14 pro,3,Pending,2023-03-07,2023-03-08
+118226,Tonya Cunningham,tonyacunningham@gmail.com,30,"46231 Williams Lane
+North Richard, CT 41365",Montenegro,+689780547192,Samsung S23 Ultra,1,Cancelled,2023-12-03,2023-12-07
+138471,Laura Reynolds,laurareynolds@gmail.com,30,"8498 Derek Forks
+Jamesburgh, ME 65017",Austria,+44 7524713505158,Iphone 12 pro,1,Pending,2023-12-06,2023-12-10
+140646,Brooke Stanton,brookestanton@outlook.com,57,"5627 Klein Summit
+Port Erica, PW 47031",Anguilla,+1 268752119557,Iphone 12 mini,1,Delivered,2024-01-15,2024-01-18
+110924,Alex Scott,alexscott@gmail.com,57,"Unit 8175 Box 3895
+DPO AP 92736",Nigeria,+378710918293,Samsung S22,3,Cancelled,2022-04-26,2022-04-27
+133002,Heather Crane,heathercrane@outlook.com,24,"34471 Williams Club Suite 756
+Lake Monicaview, AZ 91145",Peru,+27760190200,Samsung S21,3,Delivered,2023-03-11,2023-03-12
+112542,Karl Nelson,karlnelson@gmail.com,53,"62726 Bowen Vista Suite 013
+New Abigail, LA 20746",Algeria,+372727401659,Iphone 12,1,Pending,2022-03-31,2022-04-02
+125052,Lauren Fisher,laurenfisher@gmail.com,73,"461 Dixon Trail Suite 612
+South Laura, MD 75290",Lithuania,+356748721312,Iphone 12 pro,3,Delivered,2022-05-14,2022-05-17
+137730,Robert Kennedy,robertkennedy@yahoo.com,63,"4383 Stefanie Street
+Melissaland, WV 36018",Svalbard & Jan Mayen Islands,+592758124947,Lenovo PC,3,Cancelled,2022-09-25,2022-09-27
+138102,Cody Collier,codycollier@outlook.com,39,"81697 Martinez Shoals Apt. 299
+Monroefort, AZ 32955",Yemen,+686771994780,Iphone 12 pro max,2,Pending,2022-08-14,2022-08-15
+116882,Kaylee Davis,kayleedavis@gmail.com,31,"808 Mays Light
+Lynchberg, RI 64406",Montserrat,+46719795319,Iphone 14 pro,3,Delivered,2023-11-01,2023-11-03
+123352,Stephanie Lee,stephanielee@yahoo.com,31,"PSC 4178, Box 4791
+APO AA 78309",Luxembourg,+267758413731,Samsung S22 Ultra,2,Pending,2023-09-14,2023-09-17
+142150,Anthony Knight,anthonyknight@gmail.com,71,"7626 Sophia Drives
+North Thomas, IL 37731",Germany,+881 8717392900,Samsung S23+,2,Cancelled,2022-01-20,2022-01-22
+112272,Darrell Garcia,darrellgarcia@outlook.com,73,"689 John Plains Apt. 161
+West Tylerville, DE 60681",Saint Pierre and Miquelon,+503718727528,Iphone 14 pro,3,Delivered,2022-03-04,2022-03-08
+131957,Veronica Ashley,veronicaashley@yahoo.com,33,"980 Murphy Parks
+North Katiemouth, AS 63074",Ecuador,+54781517984,Samsung S23+,2,Cancelled,2022-07-09,2022-07-10
+123611,Jeffery Moreno,jefferymoreno@outlook.com,50,"60398 Phillip Drive
+New Cody, TN 06355",Cape Verde,+370741473148,Samsung S21+,2,Delivered,2022-04-29,2022-05-01
+131307,Stephanie Santos,stephaniesantos@outlook.com,22,"270 Benjamin Pike Apt. 201
+Benjaminborough, CO 80371",Dominica,+39 06 698721708295,Iphone 14,2,Delivered,2022-04-18,2022-04-22
+124562,Dr. Jessica Fuentes,dr.jessicafuentes@hotmail.com,57,"582 Jennifer Inlet
+Fuenteshaven, GA 99501",Gabon,+63748719399,PS4,3,Pending,2023-12-16,2023-12-19
+128040,Shannon Berg,shannonberg@hotmail.com,72,"3781 Vickie Plains
+Beckchester, IA 31127",Saint Barthelemy,+263766186739,Iphone 12 mini,2,Delivered,2022-01-18,2022-01-20
+136586,Marcus Kelley,marcuskelley@yahoo.com,67,"516 Boyd Forest
+Morganside, LA 31689",Algeria,+64715534727,Samsung S24+,3,Delivered,2022-07-30,2022-08-03
+133834,Tracey Jackson,traceyjackson@hotmail.com,57,"765 Denise Courts Apt. 559
+Port Jordanhaven, AS 45195",Somalia,+60740848009,Iphone 14,1,Delivered,2024-02-09,2024-02-12
+129050,Cheryl Fields,cherylfields@outlook.com,71,"13666 Natalie Creek Apt. 318
+Sarahchester, TN 91385",Puerto Rico,+264742361359,Iphone 12 pro max,2,Delivered,2023-12-26,2023-12-29
+117202,Ashley Davis,ashleydavis@gmail.com,61,"3636 Brown Mountain
+Clarkfurt, NV 16352",Peru,+852749738159,Iphone 13,2,Delivered,2024-02-07,2024-02-09
+132344,Jennifer Kline,jenniferkline@gmail.com,56,"25931 Hunter Hill Apt. 794
+Dominiquebury, KS 86345",French Polynesia,+882 13783844820,Samsung S23 Ultra,3,Cancelled,2023-03-05,2023-03-07
+121525,Whitney Parker,whitneyparker@hotmail.com,37,"971 Amanda Heights Apt. 625
+Nguyenport, PA 91710",Seychelles,+966757457184,Samsung S23 Ultra,1,Delivered,2024-04-22,2024-04-24
+117332,William Nguyen,williamnguyen@outlook.com,48,"231 Samuel Street
+Jacobhaven, LA 58246",Kazakhstan,+233753155073,Iphone 13 pro,1,Pending,2023-04-25,2023-04-28
+132957,Sarah Ramirez,sarahramirez@gmail.com,67,"094 Gallagher Corner Suite 046
+East April, MH 78354",Togo,+264781044473,Samsung S21+,2,Pending,2022-08-10,2022-08-11
+139206,Mary Elliott,maryelliott@outlook.com,39,"3878 Matthew Camp
+Richardmouth, WY 52094",Austria,+237728996609,Samsung S23+,2,Cancelled,2024-06-18,2024-06-20
+135745,Edward Brown,edwardbrown@yahoo.com,39,"01246 Prince Walks
+South Philip, OR 47074",Nauru,+672 3715713962,Samsung S21+,2,Pending,2022-05-07,2022-05-11
+122032,Brandon Morris,brandonmorris@hotmail.com,38,"504 Morrison Rest
+East Valerieside, WA 14391",Niue,+223704504603,Iphone 14,1,Cancelled,2024-07-03,2024-07-05
+117066,James Morales,jamesmorales@hotmail.com,32,"65811 Antonio Crossroad Suite 784
+Port Madisonmouth, OH 86634",Albania,+251796575011,Iphone 12,3,Pending,2023-06-03,2023-06-06
+143729,Terry Johnson,terryjohnson@outlook.com,53,"83370 Griffin Harbors
+North Robert, ND 00676",Bhutan,+56783029229,PS4,2,Cancelled,2022-07-31,2022-08-03
+120018,Jamie Hodges,jamiehodges@outlook.com,63,"6066 Kimberly Shoals Suite 600
+Frenchfort, KS 59971",Saint Martin,+421733445565,Lenovo PC,3,Pending,2024-02-03,2024-02-07
+121214,Christopher Baxter,christopherbaxter@yahoo.com,42,"USNS Chavez
+FPO AE 44488",Switzerland,+507780005384,Iphone 13 pro,1,Cancelled,2023-06-12,2023-06-13
+138753,Michael Klein,michaelklein@yahoo.com,51,"350 Samantha Ranch
+West Sean, PA 11983",Kenya,+7766506095,Samsung S22 Ultra,1,Pending,2022-12-22,2022-12-25
+139594,Amy Parks,amyparks@yahoo.com,70,"80996 Hill Roads
+West Sheila, MN 59074",Philippines,+222750568384,PS4,2,Cancelled,2024-01-04,2024-01-08
+133124,Laura Oneill,lauraoneill@gmail.com,62,"298 Rivera Islands Suite 139
+West Donna, WY 13872",Jamaica,+252731610723,Iphone 14,3,Cancelled,2024-06-17,2024-06-19
+143605,Lonnie Lewis,lonnielewis@yahoo.com,34,"2926 Christopher Creek
+North Mitchell, MO 96907",Estonia,+98758826191,Iphone 13 pro,2,Delivered,2023-04-28,2023-04-29
+113893,Jennifer Lowe,jenniferlowe@outlook.com,77,"225 Elizabeth Fork Apt. 275
+Port Steventon, FL 12777",Indonesia,+1 441787330870,Samsung S22 Ultra,1,Cancelled,2023-03-05,2023-03-06
+140093,Benjamin Mcdowell,benjaminmcdowell@yahoo.com,58,"PSC 4528, Box 4418
+APO AE 26366",Saint Kitts and Nevis,+995 34799018374,Samsung S23 Ultra,2,Delivered,2023-01-19,2023-01-21
+115799,Melissa Hill,melissahill@yahoo.com,59,"56704 Brooks Field Apt. 266
+Lindaview, MI 49587",Finland,+358734461208,Samsung S21+,1,Cancelled,2024-07-28,2024-07-30
+112853,Robert Blake,robertblake@outlook.com,66,"2845 Amy Plain
+Leeshire, MT 35270",Romania,+64732250284,Samsung S23+,2,Delivered,2023-01-20,2023-01-23
+119599,Crystal Green,crystalgreen@hotmail.com,71,"6582 Jones Inlet Apt. 630
+Lake Chris, AL 75882",Yemen,+692747241950,Iphone 13 pro,3,Pending,2023-10-25,2023-10-29
+122018,Jane Glenn,janeglenn@hotmail.com,64,"5292 Caldwell Road Suite 194
+Ericmouth, KY 80061",Saint Martin,+882 13763109252,Iphone 15 plus,3,Cancelled,2022-05-21,2022-05-25
+115403,Kimberly Mccormick,kimberlymccormick@outlook.com,60,"235 Stephanie Meadow
+Cynthiashire, MP 57213",Spain,+673740834580,Iphone 12 pro max,3,Pending,2024-08-14,2024-08-15
+131796,Benjamin Flores,benjaminflores@yahoo.com,64,"614 Chad Gardens
+Kristinaberg, WV 23209",Eritrea,+599 4714601017,PS5,3,Pending,2023-10-22,2023-10-25
+135094,Nicholas Duke,nicholasduke@gmail.com,74,"390 Hawkins Street Apt. 953
+Rhondamouth, AS 13931",Taiwan,+691777540641,Iphone 15,1,Cancelled,2024-02-16,2024-02-19
+133449,James Wagner,jameswagner@gmail.com,76,"85898 Madison Lodge
+Tiffanyville, KS 67957",Brazil,+40704125651,Iphone 14 pro,3,Cancelled,2024-07-03,2024-07-06
+119327,Michael Mcdonald,michaelmcdonald@outlook.com,24,"10902 Medina Skyway
+North Virginiahaven, WI 06650",Timor-Leste,+381756246166,Iphone 13 pro,3,Delivered,2023-02-26,2023-02-27
+142608,Jeffrey Edwards,jeffreyedwards@yahoo.com,35,"250 Shannon Garden Suite 803
+Mosleymouth, RI 77556",Bangladesh,+246784801545,Iphone 15 pro,2,Cancelled,2022-10-19,2022-10-23
+120776,Christopher Jones,christopherjones@hotmail.com,52,"69792 Warren Stravenue
+Kurtfort, IL 67423",Mauritius,+39766544718,Iphone 12 pro,2,Pending,2022-10-26,2022-10-28
+141675,Pamela Berg,pamelaberg@yahoo.com,47,"Unit 8440 Box 9439
+DPO AE 01266",Norway,+855701873126,Iphone 15 pro,3,Cancelled,2024-01-25,2024-01-26
+112777,Patricia Macias,patriciamacias@gmail.com,29,"40630 Bennett Rapids Suite 897
+West Jeffrey, NJ 03159",Timor-Leste,+1 868748883045,Iphone 15,2,Delivered,2022-09-26,2022-09-29
+141810,Deborah Brown,deborahbrown@yahoo.com,57,"9477 Richards Island Suite 672
+Joneschester, UT 42938",Barbados,+681786619546,Iphone 13 pro,1,Delivered,2024-04-08,2024-04-11
+140857,Emily Meza,emilymeza@outlook.com,79,"752 Jill Knolls Apt. 538
+Port Elizabeth, AR 72923",Samoa,+680711971959,PS4,2,Delivered,2023-11-25,2023-11-26
+125906,Mr. Kyle Lee,mr.kylelee@yahoo.com,73,"119 Julie Port Apt. 615
+Serranofurt, ID 42906",Rwanda,+264756041120,Iphone 12,2,Delivered,2022-07-26,2022-07-28
+143357,Danielle English,danielleenglish@hotmail.com,65,"841 Nicole Camp
+Kirkshire, VT 33718",Oman,+224714229241,Samsung S24,2,Cancelled,2022-08-08,2022-08-12
+121481,Marcia Smith,marciasmith@outlook.com,32,"29326 Kelly Port Apt. 392
+Billyville, ID 67251",Russian Federation,+995 34785032978,Iphone 14 pro,1,Pending,2023-10-11,2023-10-14
+136397,Michael Dodson,michaeldodson@yahoo.com,66,"USNS Lopez
+FPO AP 98441",Oman,+1 340761845311,Samsung S23 Ultra,2,Pending,2023-03-13,2023-03-17
+131346,Kayla Elliott,kaylaelliott@gmail.com,66,"PSC 7655, Box 8027
+APO AA 13973",Libyan Arab Jamahiriya,+46741042989,Iphone 15 pro max,1,Pending,2023-01-19,2023-01-20
+124529,Gregory Mercado,gregorymercado@gmail.com,63,"2749 Chad Rest
+Brendahaven, MP 64997",Trinidad and Tobago,+1 268739180578,Samsung S24+,3,Delivered,2023-06-29,2023-07-01
+115043,Timothy Jensen MD,timothyjensenmd@outlook.com,66,"97333 White Drive Suite 878
+Port Jamesmouth, NV 23844",Venezuela,+98784778752,Samsung S22 Ultra,3,Pending,2023-08-12,2023-08-13
+135804,Aaron Ferrell,aaronferrell@gmail.com,59,"5053 Sean Trafficway
+East Glendaland, NC 67833",Guam,+246766002396,PS5,1,Cancelled,2022-10-12,2022-10-15
+115957,Megan Nielsen,megannielsen@yahoo.com,51,"7132 Taylor Estates Apt. 787
+Allenshire, LA 21349",Albania,+237711520341,Iphone 15 pro,2,Delivered,2022-08-13,2022-08-15
+118307,Paul Lucas,paullucas@yahoo.com,48,"704 Arthur Gateway
+Warrenport, AK 47922",Israel,+57737906244,Iphone 14,1,Delivered,2022-03-11,2022-03-14
+136747,Kenneth White,kennethwhite@outlook.com,43,"82682 Kennedy Loaf
+Parrishshire, NH 20899",United States Minor Outlying Islands,+1 787709238796,PS5,3,Delivered,2022-10-25,2022-10-26
+122634,Craig Mckinney,craigmckinney@outlook.com,54,"679 Diaz Junction Apt. 922
+Mariaport, IN 82096",Montserrat,+262764529829,PS5,1,Pending,2023-01-26,2023-01-27
+116505,Mary White,marywhite@yahoo.com,46,"9475 Kelsey Court
+Kellyview, MT 10574",Saint Barthelemy,+298725105515,Iphone 13,2,Delivered,2022-04-11,2022-04-12
+127022,Adam Brown,adambrown@outlook.com,69,"907 Janice Groves
+Castillofort, MI 29552",Tokelau,+291782344742,Samsung S23+,1,Pending,2022-07-15,2022-07-18
+142015,Kathryn Baldwin,kathrynbaldwin@outlook.com,80,"60534 Gabriela Pines
+Chavezberg, WA 59003",Romania,+976770852812,Samsung S21+,3,Pending,2024-08-13,2024-08-14
+111441,Diane Henderson,dianehenderson@hotmail.com,72,"118 Walker Light
+Williamland, VT 67018",Falkland Islands (Malvinas),+590718683800,Iphone 14 pro,3,Cancelled,2023-03-25,2023-03-29
+121818,Andrea Coleman,andreacoleman@hotmail.com,71,"0760 Whitney Street
+Knappland, CO 59819",Ecuador,+260706760666,Samsung S23+,2,Pending,2023-04-19,2023-04-21
+129660,Benjamin Brown,benjaminbrown@hotmail.com,54,"8383 Jerry Manors Apt. 719
+North Frank, NM 16202",Bangladesh,+355750385916,Iphone 15 plus,2,Delivered,2022-03-09,2022-03-10
+113556,Mr. James Frazier,mr.jamesfrazier@gmail.com,33,"8397 Reese Hill Suite 206
+Christopherhaven, ID 14916",Yemen,+39703599074,Samsung S22,2,Cancelled,2023-11-23,2023-11-26
+114628,Tiffany Blake,tiffanyblake@hotmail.com,28,"97242 Alice Trail Apt. 713
+Anthonyborough, WA 65163",Wallis and Futuna,+229746559018,Iphone 12 pro max,1,Cancelled,2022-04-14,2022-04-18
+113062,Amanda Miller,amandamiller@hotmail.com,39,"631 Jeff Forks Apt. 705
+East Kurtborough, AK 62280",Belize,+40712176705,Samsung S23 Ultra,1,Pending,2023-04-29,2023-05-02
+139750,Miss Katie Bradford,misskatiebradford@hotmail.com,60,"0870 Cameron Centers
+East Jennifer, CO 45672",Mali,+255704975928,Samsung S21,3,Cancelled,2022-01-25,2022-01-28
+131135,Adrian Spears,adrianspears@yahoo.com,62,"USNS Gross
+FPO AE 36726",Costa Rica,+881706019843,Iphone 13 pro,3,Cancelled,2022-05-31,2022-06-04
+130891,Taylor Smith,taylorsmith@hotmail.com,75,"663 Peggy Port
+Harrisfurt, CO 33286",Tuvalu,+1 849753298151,Iphone 12 pro max,1,Pending,2024-05-31,2024-06-03
+129538,Justin Hernandez,justinhernandez@hotmail.com,44,"26025 Welch Manor
+Jonesview, AZ 66727",Wallis and Futuna,+888758179369,Iphone 15 pro max,3,Cancelled,2022-03-25,2022-03-29
+121742,Pamela Bruce,pamelabruce@hotmail.com,48,"444 Felicia Burg
+West Theresachester, MA 82055",Christmas Island,+881 6703371542,Samsung S24 Ultra,3,Delivered,2023-10-25,2023-10-26
+123902,Patricia Coleman,patriciacoleman@yahoo.com,59,"712 Smith Green
+Waltonview, RI 05698",Tajikistan,+230768330356,Iphone 15 pro,3,Delivered,2023-10-01,2023-10-02
+116081,Becky Gardner,beckygardner@yahoo.com,58,"PSC 7835, Box 8939
+APO AE 55122",French Guiana,+386783373923,Iphone 12,2,Cancelled,2023-12-23,2023-12-27
+111688,Ruth Alexander,ruthalexander@gmail.com,37,"31482 Boyd Corner
+North Kaitlynhaven, ID 38913",Monaco,+33780632718,Samsung S24 Ultra,3,Pending,2023-07-11,2023-07-12
+120961,Anthony Hartman,anthonyhartman@yahoo.com,41,"980 Collins Drives
+Ronaldburgh, NM 20299",Turks and Caicos Islands,+996788784209,Iphone 15,3,Delivered,2024-06-09,2024-06-12
+125954,Jill Thompson,jillthompson@yahoo.com,63,"6861 Ryan Flat Suite 786
+Elizabethtown, AS 76404",Denmark,+386745661819,PS5,2,Delivered,2024-07-21,2024-07-23
+143134,Michael Hampton,michaelhampton@yahoo.com,78,"PSC 3748, Box 4241
+APO AE 50837",South Africa,+221730283720,PS4,1,Delivered,2024-02-01,2024-02-05
+143291,Sheila Chen,sheilachen@outlook.com,71,"825 Dixon Crescent Apt. 080
+Port Patricia, NE 73100",Romania,+808735180282,Samsung S22 Ultra,3,Pending,2024-03-24,2024-03-27
+136024,Holly Reed,hollyreed@gmail.com,48,"76634 James Ways
+Haynesport, AL 70295",Japan,+1 649727112079,PS5,3,Pending,2024-03-31,2024-04-02
+122320,Robert Payne,robertpayne@hotmail.com,63,"5811 Raymond Field Apt. 498
+Courtneyfurt, GU 04348",Mozambique,+45705982476,Iphone 12 pro,3,Pending,2022-06-26,2022-06-27
+124632,Sean Schmidt,seanschmidt@hotmail.com,32,"75707 Heather Dale
+North Debbie, GA 46027",Cote d'Ivoire,+682745122307,Samsung S23 Ultra,3,Delivered,2023-11-17,2023-11-21
+110538,Juan Williams,juanwilliams@gmail.com,56,"7667 Chambers Inlet Apt. 869
+Steventown, TN 20374",Cameroon,+239769389919,Iphone 12 mini,1,Pending,2024-02-05,2024-02-07
+132626,Shelby Peterson,shelbypeterson@gmail.com,40,"6290 Mercer Station Suite 083
+Mariatown, GA 83013",Bouvet Island (Bouvetoya),+1 808795965844,Samsung S23+,3,Pending,2023-10-24,2023-10-28
+123612,Chelsea Smith,chelseasmith@yahoo.com,60,"72250 Wise Junctions Apt. 402
+West Anthonychester, CT 94020",Malta,+677730719164,Samsung S24 Ultra,3,Cancelled,2023-01-17,2023-01-18
+134011,Robert Jones,robertjones@outlook.com,35,"81802 Kenneth Flat
+Jennifermouth, IL 79863",New Zealand,+291720424522,Iphone 12 mini,3,Delivered,2022-08-04,2022-08-06
+130242,Cody Harris,codyharris@hotmail.com,38,"5882 Pineda Bypass
+Davisstad, CO 15903",United Arab Emirates,+7742211200,Samsung S23 Ultra,1,Pending,2023-07-01,2023-07-02
+115755,Robert Ballard,robertballard@gmail.com,57,"12157 Jacqueline Squares
+Lake Brandonside, SC 26342",Ghana,+500719571257,Iphone 14 pro max,1,Cancelled,2024-05-13,2024-05-15
+124484,Katie Bowen,katiebowen@hotmail.com,63,"4701 Barbara Harbor
+Joneston, PA 70361",Japan,+378765562038,Samsung S22,2,Delivered,2023-04-19,2023-04-21
+142476,Renee Johnson,reneejohnson@hotmail.com,74,"7248 Katherine Extension
+East Rebecca, OH 71477",Egypt,+260747513302,Iphone 12,2,Delivered,2023-10-25,2023-10-28
+114029,Jamie Byrd,jamiebyrd@hotmail.com,56,"PSC 7433, Box 2116
+APO AA 82003",Korea,+7733148231,Iphone 15 pro max,1,Delivered,2022-12-07,2022-12-08
+134486,Nicole Osborn,nicoleosborn@outlook.com,78,"3925 Veronica Stream
+New Kathryntown, CO 04632",Saudi Arabia,+1 869752801892,Iphone 13,2,Pending,2022-07-03,2022-07-04
+114892,Meredith Peterson,meredithpeterson@hotmail.com,44,"48578 Gonzalez Port
+Cooperhaven, AS 17286",Indonesia,+594786869326,Samsung S23 Ultra,2,Pending,2023-04-17,2023-04-18
+116192,Connie Anderson,connieanderson@hotmail.com,45,"68868 Hamilton Lock Apt. 202
+South Elizabethbury, PW 47833",Croatia,+682786972709,Iphone 14,3,Cancelled,2022-02-26,2022-03-01
+127478,Judith Garcia,judithgarcia@outlook.com,31,"0145 Cummings Green Suite 550
+Evelynbury, PR 00851",Colombia,+1 268747742639,Samsung S24 Ultra,2,Cancelled,2022-04-20,2022-04-21
+135221,David Nichols,davidnichols@yahoo.com,37,"779 William Mountains
+Nelsonton, PW 78441",Mali,+590703940125,Samsung S24+,2,Pending,2022-05-19,2022-05-20
+132414,Gary Brown,garybrown@outlook.com,58,"7987 Robinson Bridge
+Christinashire, WI 16553",New Zealand,+881 8703698255,Samsung S24+,2,Delivered,2022-03-20,2022-03-22
+117355,Megan Schneider,meganschneider@yahoo.com,41,"242 Norris Harbors Apt. 013
+Dannyborough, DE 60051",Nigeria,+60775569777,Samsung S24 Ultra,3,Pending,2024-05-17,2024-05-19
+136609,John Richardson,johnrichardson@hotmail.com,26,"752 Kevin Land Suite 053
+Chapmanfort, KS 32959",Norfolk Island,+373 5732963747,Lenovo PC,3,Pending,2022-12-23,2022-12-27
+141763,Henry Dunn,henrydunn@yahoo.com,53,"4248 Kimberly Plains
+Murphyland, GA 32680",Grenada,+7731002652,Iphone 15,3,Pending,2022-06-18,2022-06-22
+123467,Nicolas Stark,nicolasstark@gmail.com,54,"62747 Joseph Coves Apt. 186
+Richardsonberg, LA 11860",Barbados,+64719691255,Samsung S22 Ultra,1,Cancelled,2023-09-28,2023-10-01
+118085,Timothy Mccullough,timothymccullough@yahoo.com,56,"67860 Doris Locks
+Brittanyberg, SD 40802",Jamaica,+350765545351,Iphone 12,3,Pending,2022-03-15,2022-03-16
+137114,Jason Stark,jasonstark@outlook.com,54,"PSC 2391, Box 3547
+APO AP 57404",India,+597759377971,Iphone 12,1,Delivered,2023-05-04,2023-05-07
+142979,Stacey Hickman,staceyhickman@gmail.com,66,"877 Duffy Skyway
+New Joshuaville, VI 70050",Puerto Rico,+383787418254,Iphone 15 pro,2,Pending,2022-01-25,2022-01-26
+110743,Wayne Gray,waynegray@outlook.com,51,"297 Cameron Alley
+New Pamela, CT 94540",Portugal,+371715096565,Iphone 15,3,Cancelled,2024-04-20,2024-04-24
+129439,Shawn Martin,shawnmartin@outlook.com,50,"0115 Bonnie Locks Apt. 545
+Whiteshire, NJ 91902",South Africa,+683700528121,Samsung S23+,3,Cancelled,2023-08-05,2023-08-09
+113506,Melissa Lowe,melissalowe@gmail.com,53,"PSC 1590, Box 3039
+APO AE 82745",Kyrgyz Republic,+30744546042,Iphone 15 pro,1,Cancelled,2022-10-23,2022-10-26
+131848,Christopher Russell,christopherrussell@gmail.com,65,"8199 Merritt Prairie
+Kathrynville, MO 67059",Guinea,+385739771381,Iphone 14 pro max,1,Pending,2024-04-20,2024-04-22
+135280,Sharon Price,sharonprice@yahoo.com,66,"581 Manning Lodge Suite 750
+Laurenfurt, OH 02665",United States of America,+596767485730,PS5,2,Pending,2023-11-21,2023-11-23
+144436,Sue Bond,suebond@hotmail.com,61,"PSC 8181, Box 9923
+APO AA 06483",Peru,+1 829704811945,Samsung S21,3,Pending,2022-02-25,2022-02-27
+119210,Brianna Wells,briannawells@yahoo.com,42,"5932 Young Mount Suite 271
+South Justinburgh, AK 66157",Suriname,+1 670717655937,PS4,1,Delivered,2022-02-21,2022-02-23
+127070,Jennifer Thompson,jenniferthompson@outlook.com,49,"5775 Carrie Stravenue
+East Raymondberg, CA 26587",Kazakhstan,+963786631990,Iphone 14,3,Cancelled,2022-08-04,2022-08-06
+131033,Samuel Summers,samuelsummers@gmail.com,69,"36661 William Meadows
+North Darrell, MO 42827",British Virgin Islands,+263707382024,Iphone 12 mini,1,Pending,2022-06-17,2022-06-19
+112955,Matthew Flores,matthewflores@outlook.com,44,"514 Kelly Groves
+East Larry, TX 95267",Gambia,+1 758751679575,Samsung S24+,2,Cancelled,2022-08-25,2022-08-28
+127255,Mr. Jason Harrington,mr.jasonharrington@yahoo.com,41,"03030 Scott Circle
+Harringtonfurt, AK 60802",Liberia,+250761903071,Iphone 14 pro max,1,Delivered,2023-04-03,2023-04-06
+140201,Brandon Brooks,brandonbrooks@yahoo.com,49,"6177 Benjamin Light Apt. 876
+Tuckerville, AL 92778",Turkey,+881728375998,Samsung S22 Ultra,3,Cancelled,2022-09-09,2022-09-10
+116573,Jesse Richmond,jesserichmond@yahoo.com,60,"2544 Aaron Forks Suite 284
+Catherinestad, KS 41594",Belgium,+261716979471,Iphone 14 pro max,1,Delivered,2023-10-25,2023-10-26
+114912,Kellie Blankenship,kellieblankenship@hotmail.com,36,"5436 Jenkins Prairie
+New Caroline, LA 61114",Taiwan,+1 829719458225,Iphone 13 pro,1,Pending,2022-02-22,2022-02-26
+139664,Michael Miller,michaelmiller@hotmail.com,23,"85365 Diana Pine
+Lake Jeffreymouth, AZ 00668",Bolivia,+49730564794,Iphone 14 pro,3,Pending,2022-10-31,2022-11-01
+142243,Brian Chavez,brianchavez@outlook.com,28,"658 Hamilton View
+West Melissa, WY 27251",Cape Verde,+379782935358,Iphone 15,3,Delivered,2022-07-23,2022-07-24
+114628,Jessica Brown,jessicabrown@outlook.com,53,"7331 Eric Mission Suite 893
+North Michael, DE 21819",Libyan Arab Jamahiriya,+670779765577,Iphone 14,2,Pending,2023-11-07,2023-11-08
+124348,Donna Rice,donnarice@hotmail.com,47,"4862 Taylor Crossing Apt. 685
+Alantown, SD 47376",Nicaragua,+81744751619,Samsung S22,1,Pending,2023-12-24,2023-12-25
+126334,James Gross,jamesgross@yahoo.com,34,"88151 Ramirez Roads Suite 055
+Curtisport, UT 39913",United Arab Emirates,+233745726051,Iphone 12 pro max,3,Delivered,2023-07-06,2023-07-07
+112545,Rebecca Martin,rebeccamartin@hotmail.com,29,"Unit 9801 Box 4256
+DPO AA 05170",Dominican Republic,+375789749562,Samsung S21,2,Delivered,2023-07-27,2023-07-30
+142938,Steven Lutz,stevenlutz@hotmail.com,20,"268 Gregory Fork Suite 195
+South Gregory, PA 29629",Eritrea,+966740809201,PS5,3,Delivered,2023-02-19,2023-02-21
