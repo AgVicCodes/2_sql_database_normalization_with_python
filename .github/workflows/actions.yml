@@ -2,7 +2,7 @@ name: Run data_generator.py
 
 on: 
     schedule:
-        -   cron: "15 * * * *"
+        -   cron: "* */3 * * *"
 
 jobs:
     Generate-Sales-Transactions:
@@ -10,7 +10,7 @@ jobs:
         steps:
 
         -   name: checkout repo content
-            uses: actions/checkout@v2 
+            uses: actions/checkout@main
 
         -   name: setup python
             uses: actions/setup-python@v4
