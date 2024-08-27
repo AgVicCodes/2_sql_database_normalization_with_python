@@ -26,9 +26,9 @@ INSERT INTO
 
 -- Dropping unnecessary table versions
 DROP table sales_records;
-DROP table sales_records1;
-DROP table sales_records2;
-DROP table sales_records3;
+-- DROP table sales_records1;
+-- DROP table sales_records2;
+-- DROP table sales_records3;
 
 -- First SELECT test statement
 SELECT * FROM sales_records LIMIT 10;
@@ -82,6 +82,15 @@ SELECT
     - COUNT(sales_id) AS missing
 FROM sales_records;
 
+/*  SELECT
+        COUNT(*)
+        - COUNT(DISTINCT(sales_id)) AS missing
+    FROM sales_records;
+    missing
+    ---------
+        854
+*/
+
 -- Checking for missing values on column sales_id
 SELECT 
     COUNT(*)
@@ -95,36 +104,35 @@ SELECT
 FROM (
     SELECT
         name,
-        
         age,
         COUNT(*) as dup
     FROM sales_records
-    GROUP BY name,  age
+    GROUP BY name, age
     HAVING COUNT(*) > 1
 );
 
 -- Creating the users dimension table
 CREATE TABLE users (
-    user_id INTEGER PRIMARY KEY,
-    name VARCHAR (255),
-    email VARCHAR (255),
+    user_id INTEGER PRIMARY KEY NOT NULL,
+    name VARCHAR (255) NOT NULL,
+    email VARCHAR (255) NOT NULL,
     age INTEGER,
-    phone VARCHAR (14),
+    phone VARCHAR (14) NOT NULL,
     address TEXT,
     country VARCHAR
 );
 
 -- Creating the product dimension table
-CREATE TABLE product (
-    product_id INTEGER,
-    product_name VARCHAR (255),
+CREATE TABLE products (
+    product_id SERIAL PRIMARY KEY NOT NULL,
+    product_name VARCHAR (255) NOT NULL,
     price NUMERIC
 );
 
 -- Creating the sales fact table
 CREATE TABLE sales (
-    sales_id INTEGER,
-    product_id INTEGER,
+    sales_id INTEGER NOT NULL,
+    product_id INTEGER NOT NULL,
     quantity INTEGER,
     status VARCHAR (20),
     order_date DATE,
@@ -134,4 +142,50 @@ CREATE TABLE sales (
 ALTER TABLE table_name
 ADD COLUMN col type;
 
-INSERT INTO SELECT DISTINCT
+ALTER TABLE products
+ALTER COLUMN product_id ADD CONSTRAINT SERIAL;
+
+INSERT INTO products (product_name)
+SELECT DISTINCT product 
+FROM sales_records
+ORDER BY product ASC;
+
+ALTER TABLE products
+TRUNCATE TABLE products;
+
+UPDATE products 
+SET price = 
+    CASE
+        WHEN product_name = 'Iphone 12' THEN 250
+        WHEN product_name = 'Iphone 12 mini' THEN 225
+        WHEN product_name = 'Iphone 12 pro max' THEN 400 
+        WHEN product_name = 'Lenovo PC' THEN 750
+        WHEN product_name = 'PS4' THEN 275
+        WHEN product_name = 'PS5' THEN 400
+        WHEN product_name = 'Samsung 24' THEN 850
+        ELSE 999
+    END;
+
+SELECT 
+    CASE
+        WHEN product_name = 'Iphone 12' THEN 250
+        WHEN product_name = 'Iphone 12 mini' THEN 225
+        WHEN product_name = 'Iphone 12 pro max' THEN 400 
+        WHEN product_name = 'Lenovo PC' THEN 750
+        WHEN product_name = 'PS4' THEN 275
+        WHEN product_name = 'PS5' THEN 400
+        WHEN product_name = 'Samsung 24' THEN 850
+        ELSE 999
+    END as price
+FROM products;
+
+, "", "", 
+                                  "Iphone 15", "Iphone 15 plus", 
+                                  "", "", 
+                                  "Iphone 12 pro", "Iphone 12 pro max", 
+                                  "Iphone 14 pro", "Iphone 14 pro max", 
+                                  "Iphone 15 pro", "Iphone 15 pro max", 
+                                  "Iphone 13", "Iphone 13 pro", "Iphone 14", 
+                                  "Samsung S21", "Samsung S21+", "Samsung S22", 
+                                  "Samsung S24", "Samsung S24+", "Samsung S24 Ultra",
+                                  "Samsung S22 Ultra", "Samsung S23+", "Samsung S23 Ultra"
