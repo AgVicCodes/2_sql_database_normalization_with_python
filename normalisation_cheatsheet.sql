@@ -89,4 +89,4 @@
 -- PRIMARY KEY (id);
 
 -- pg_dump -U username -d database_name -f backup_file.sql
--- psql -U username -f backup_file.sql
+-- psql -U username -f backup_file.sql 

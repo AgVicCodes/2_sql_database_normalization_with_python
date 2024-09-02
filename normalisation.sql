@@ -465,3 +465,18 @@ SELECT
     COUNT(*)
 FROM users
 WHERE email LIKE '%@gmail.com';
+
+
+SELECT 
+    column_name,
+    data_type AS col_type
+FROM
+    information_schema.columns
+WHERE
+    table_schema = 'public' AND
+    table_name = 'sales' AND
+    column_name = 'sales_id';
+
+SELECT * FROM sales WHERE order_date BETWEEN '2022-01-01' AND '2022-12-31' LIMIT 5;
+
+SELECT * FROM sales WHERE EXTRACT(YEAR FROM order_date) = '2022' LIMIT 5; -- Works perfectly
