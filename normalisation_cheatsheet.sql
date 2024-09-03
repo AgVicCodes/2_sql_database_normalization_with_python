@@ -90,3 +90,87 @@
 
 -- pg_dump -U username -d database_name -f backup_file.sql
 -- psql -U username -f backup_file.sql 
+
+-- HANDLING DUPLICATES
+-- Identify duplicate rows
+-- SELECT column1, column2, COUNT(*)
+-- FROM your_table
+-- GROUP BY column1, column2
+-- HAVING COUNT(*) > 1;
+
+/*
+CREATE PROCEDURE DynamicGroupBy
+    @TableName NVARCHAR(128),
+    @ColumnNames NVARCHAR(MAX)
+AS
+BEGIN
+    DECLARE @SQL NVARCHAR(MAX);
+
+    -- Build the dynamic SQL query
+    SET @SQL = N'SELECT ' + @ColumnNames + ', COUNT(*) AS Count FROM ' + @TableName + ' GROUP BY ' + @ColumnNames;
+
+    -- Execute the dynamic SQL query
+    EXEC sp_executesql @SQL;
+END; */
+
+-- EXEC DynamicGroupBy 'your_table', 'column1, column2, column3';
+
+SELECT *, COUNT(*) FROM sales
+GROUP BY sales_id, product_id, status, quantity, order_date, delivery_date
+HAVING COUNT(*) > 1
+LIMIT 10;
+
+SELECT *, COUNT(*) FROM products
+GROUP BY product_id, product_name, price_in_pounds
+HAVING COUNT(*) > 1
+LIMIT 10;
+
+SELECT *, COUNT(*) FROM countries
+GROUP BY id, country
+HAVING COUNT(*) > 1
+LIMIT 10;
+
+SELECT *, COUNT(*) FROM users
+GROUP BY user_id
+HAVING COUNT(*) > 1
+LIMIT 10;
+
+-- IF 0, no duplicate row found
+-- Wrong
+SELECT 
+    CASE WHEN LENGTH(
+        SELECT *, COUNT(*) FROM sales_records
+        GROUP BY index, sales_id, name, email, age, address, country, phone, product, status, order_date, delivery_date
+        HAVING COUNT(*) > 1
+        LIMIT 10
+    ) = 0 THEN 'No duplicates found'
+    ELSE END;
+
+SELECT 
+    CASE 
+        WHEN COUNT(*) = 0 THEN 'No duplicates found'
+        ELSE COUNT(*)::VARCHAR || 'Duplicates found'
+    END AS result
+FROM (
+    SELECT COUNT(*) 
+    FROM sales_records
+    GROUP BY index, sales_id, name, email, age, address, country, phone, product, status, order_date, delivery_date
+    HAVING COUNT(*) > 1
+) AS duplicates;
+
+
+
+-- ALTER TABLE customers
+-- ALTER COLUMN contact_name 
+-- SET NOT NULL;
+
+CREATE SEQUENCE temp_seq;
+
+ALTER TABLE temp 
+ALTER COLUMN price SET DEFAULT nextval('temp_seq');
+
+SELECT setval('temp_seq', (COALESCE(SELECT MAX(id) FROM temp), 1));
+
+SELECT relname AS sequence_name
+FROM pg_class
+WHERE relkind = 'S';

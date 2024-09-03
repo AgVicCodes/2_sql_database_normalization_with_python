@@ -19,7 +19,7 @@ for _ in range(1000):
     sales_id = random.randint(110000, 145000)
     user_name = fake.name()
     user_age = random.randint(20, 80)
-    user_email = f"{user_name.lower().replace(" ", "") + str(user_age)}@{random.choice(["gmail", "yahoo", "outlook", "hotmail"])}.com"
+    user_email = f"{user_name.lower().replace(" ", "") + str(user_age + random.randint(0, 10))}@{random.choice(["gmail", "yahoo", "outlook", "hotmail"])}.com"
     address = fake.address()
     country = fake.country()
     user_phone = f"{fake.country_calling_code()}{random.randint(700000000, 799999999)}"
