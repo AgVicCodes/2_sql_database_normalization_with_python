@@ -165,7 +165,9 @@ CREATE TABLE users (
     age INTEGER,
     phone VARCHAR (25) NOT NULL,
     address TEXT,
-    country VARCHAR
+    country_id INTEGER NOT NULL
+    CONSTRAINT users_country_id_fkey 
+        FOREIGN KEY REFERENCES (countries.id)
 );
 
 -- Creating the product dimension table
@@ -634,10 +636,9 @@ RENAME COLUMN country TO country_id
 ALTER TABLE sales
 ADD COLUMN user_id CONSTRAINT FOREIGN KEY REFERENCES tansactions.users;
 
---  DROP CONSTRAINT [ IF EXISTS ]  constraint_name [ RESTRICT | CASCADE ]
-
+--  DR  IF EXISTS ]  constraint_name [ RESTRICT
 SELECT * FROM old_sales LIMIT 2;
-SELECT * FROM users LIMIT 2;
+ * FROM users LIMIT 2;
 SELECT * FROM products LIMIT 2;
 SELECT * FROM countries LIMIT 2;
 SELECT * FROM sales_records LIMIT 1;
@@ -673,3 +674,30 @@ JOIN products AS pd
 JOIN countries AS ct
     ON us.country_id::NUMERIC = ct.id;
 
+WITH all_cols AS (
+    SELECT
+        sa.sales_id,
+        -- us.name,
+        us.email,
+        us.age,
+        -- us.address,
+        ct.country,
+        us.phone,
+        pd.product_name,
+        sa.quantity,
+        pd.price_in_pounds,
+        sa.status,
+        sa.order_date,
+        sa.delivery_date
+    FROM old_sales AS sa
+    JOIN users AS us
+        ON sa.user_id = us.user_id
+    JOIN products AS pd
+        ON sa.product_id = pd.product_id
+    JOIN countries AS ct
+        ON us.country_id::INTEGER = ct.id
+)
+
+SELECT * FROM all_cols LIMIT 10;
+
+SELECT * FROM sales_records WHERE sales_id IN (134149, 119486, 127859, 127859, 127859, 127859, 126514, 126514, 126514, 114359)
