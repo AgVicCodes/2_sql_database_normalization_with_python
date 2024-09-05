@@ -38,32 +38,37 @@ CREATE TABLE products (
 
 -- Creating the sales fact table
 CREATE TABLE sales (
-    sales_id INTEGER NOT NULL PRIMARY KEY,
-    user_id INTEGER NOT NULL PRIMARY KEY,
+    sales_id INTEGER NOT NULL,
+    user_id INTEGER NOT NULL,
     product_id INTEGER NOT NULL,
     quantity INTEGER,
     status VARCHAR (20),
     order_date DATE,
     delivery_date DATE,
+    CONSTRAINT sales_user_pkey
+        PRIMARY KEY(sales_id, user_id)
+    CONSTRAINT sales_id_fkey
+        FOREIGN KEY(sales_id)
+            REFERENCES sales_records(sales_id),
+    CONSTRAINT user_id_fkey
+        FOREIGN KEY(user_id)
+            REFERENCES users(user_id),
     CONSTRAINT fkey_product_id
-        FOREIGN KEY(product_id);
-            REFERENCES products(product_id);
+        FOREIGN KEY(product_id)
+            REFERENCES products(product_id)
 );
 
-CREATE TABLE temp (
-    id INTEGER,
-    price NUMERIC
-);
-
-
-CREATE TABLE users (
+CREATE TABLE users1 (
     user_id SERIAL PRIMARY KEY NOT NULL,
     name VARCHAR (255) NOT NULL,
     email VARCHAR (255) NOT NULL,
     age INTEGER,
     phone VARCHAR (25) NOT NULL,
     address TEXT,
-    country VARCHAR
+    country_id INTEGER,
+    CONSTRAINT country_id_fkey
+        FOREIGN KEY(country_id)
+            REFERENCES countries(id)
 );
 
 
