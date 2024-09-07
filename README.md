@@ -34,5 +34,5 @@ pip install -r requirements.txt
 ## Contributors
 This project is maintained by AgVicCodes.
 
-##License
+## License
 This project is licensed under the MIT License.
