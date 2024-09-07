@@ -29,8 +29,8 @@ pip install -r requirements.txt
 - SQL scripts for normalization up to 3NF.
 - Sample database schema and data included.
 ## Dependencies
-[Python]
-[SQL]
+- Python
+- SQL
 ## Contributors
 This project is maintained by AgVicCodes.
 
