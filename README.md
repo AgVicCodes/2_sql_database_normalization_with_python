@@ -25,9 +25,9 @@ pip install -r requirements.txt
 2. Load data into the database with load_to_sql.py.
 3. Run the SQL normalization scripts like normalisation.sql.
 ## Features
-- [Data generation and loading scripts.]
--[SQL scripts for normalization up to 3NF.]
--[Sample database schema and data included.]
+- Data generation and loading scripts.
+- SQL scripts for normalization up to 3NF.
+- Sample database schema and data included.
 ## Dependencies
 [Python]
 [SQL]
