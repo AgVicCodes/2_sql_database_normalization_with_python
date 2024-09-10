@@ -305,6 +305,9 @@ WHERE
 ALTER TABLE products
 ADD CONSTRAINT PRIMARY KEY TO product_id;
 
+-- Correct
+ALTER TABLE products
+ADD CONSTRAINT pk_product_id PRIMARY KEY (product_id);
 
 -- Inserting data into sales table
 INSERT INTO sales (sales_id, product_id)
@@ -638,23 +641,23 @@ ADD COLUMN user_id CONSTRAINT FOREIGN KEY REFERENCES tansactions.users;
 
 --  DR  IF EXISTS ]  constraint_name [ RESTRICT
 SELECT * FROM old_sales LIMIT 2;
- * FROM users LIMIT 2;
+SELECT * FROM users LIMIT 2;
 SELECT * FROM products LIMIT 2;
 SELECT * FROM countries LIMIT 2;
 SELECT * FROM sales_records LIMIT 1;
 
 SELECT
-    sa.sales_id,
-    us.name,
-    us.email,
-    us.age,
-    ct.country,
-    us.phone,
+    sales_id,
+    name,
+    email,
+    age,
+    country,
+    phone,
     pd.product_name,
-    sa.quantity,
-    sa.status,
-    sa.order_date,
-    sa.delivery_date
+    quantity,
+    status,
+    order_date,
+    delivery_date
 FROM old_sales AS sa
 JOIN users AS us
     ON sa.user_id = us.user_id
@@ -701,3 +704,25 @@ WITH all_cols AS (
 SELECT * FROM all_cols LIMIT 10;
 
 SELECT * FROM sales_records WHERE sales_id IN (134149, 119486, 127859, 127859, 127859, 127859, 126514, 126514, 126514, 114359)
+
+SELECT * FROM users ORDER BY user_id LIMIT 5;
+
+SELECT * FROM old_sales ORDER BY user_id LIMIT 5;
+
+WITH transacts AS (
+    WITH orders AS (
+        SELECT u.user_id, DATE(s.order_date) AS purchase_date
+        FROM users u
+        JOIN old_sales s
+        ON u.user_id = s.user_id LIMIT 20
+    )
+
+    SELECT user_id, purchase_date,
+        RANK() OVER(PARTITION BY user_id ORDER BY purchase_date) AS rnking
+    FROM orders
+)
+
+SELECT DISTINCT(user_id) AS upsold
+FROM transacts
+WHERE rnking >= 1
+LIMIT 10;

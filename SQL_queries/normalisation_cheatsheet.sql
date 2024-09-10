@@ -174,3 +174,21 @@ SELECT setval('temp_seq', (COALESCE(SELECT MAX(id) FROM temp), 1));
 SELECT relname AS sequence_name
 FROM pg_class
 WHERE relkind = 'S';
+
+-- Calculate the Average Sales Quantity Over a 7-Day Window
+-- Problem: Calculate the average sales quantity over a 7-day window for each product_id.
+
+-- Find the Top 3 Most Recent Sales for Each Product
+-- Problem: Find the top 3 most recent sales for each product_id.
+
+-- Calculate the Difference Between Current and Previous Sale Quantity
+-- Problem: Calculate the difference in quantity between the current sale and the previous sale for each product_id.
+
+-- Find the First and Last Sale Date for Each Product
+-- Problem: Find the first and last sale date for each product_id.
+
+-- Rank Products by Total Sales
+-- Problem: Rank products based on the total quantity sold, with the highest quantity getting rank 1.
+
+-- Calculate Running Total of Sales Quantity
+-- Problem: Calculate the running total of the quantity sold for each product_id in the old_sales table.
